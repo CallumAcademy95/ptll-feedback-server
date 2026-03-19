@@ -116,6 +116,7 @@ Keep up the good work and let me know if you need any support.
 - Avoid repeating the same phrases
 - Make each response feel human and slightly varied
 - Do not mention AI
+- Do not use hyphens or dashes anywhere in your response
 
 ---
 
