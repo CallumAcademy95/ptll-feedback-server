@@ -1,8 +1,10 @@
 require('dotenv').config();
 const express = require('express');
+const cron = require('node-cron');
 const { extractText } = require('./parser');
 const { generateFeedback } = require('./feedback');
-const { sendFeedback, sendErrorNotice } = require('./mailer');
+const { sendErrorNotice } = require('./mailer');
+const { scheduleSend, processDue } = require('./scheduler');
 
 const app = express();
 app.use(express.json({ limit: '25mb' }));
@@ -60,14 +62,13 @@ app.post('/inbound', async (req, res) => {
       const feedbackText = await generateFeedback(text, fromName, assignmentHint);
       console.log(`[feedback] Generated feedback for ${fromEmail}`);
 
-      // Send reply
-      await sendFeedback({
+      // Schedule reply within working hours (Mon–Fri 9am–5pm, 1–2hr lag)
+      scheduleSend({
         toEmail: fromEmail,
         toName: fromName,
         submissionFilename: filename,
         feedbackText,
       });
-      console.log(`[mailer] Feedback sent to ${fromEmail}`);
 
     } catch (err) {
       console.error(`[error] Failed processing ${filename}:`, err.message);
@@ -81,6 +82,9 @@ app.post('/inbound', async (req, res) => {
     }
   }
 });
+
+// ─── Cron: check for due sends every minute ──────────────────────────────────
+cron.schedule('* * * * *', () => processDue());
 
 // ─── Start ───────────────────────────────────────────────────────────────────
 const PORT = process.env.PORT || 3000;
