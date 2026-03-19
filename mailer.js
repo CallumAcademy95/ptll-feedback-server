@@ -17,15 +17,10 @@ async function sendFeedback({ toEmail, toName, submissionFilename, feedbackText 
         <h2 style="color: #fff; margin: 0; font-size: 18px;">AlbaCo Management Team — Submission Feedback</h2>
       </div>
       <div style="padding: 28px; border: 1px solid #e0e0e0; border-top: none;">
-        <p>Hi ${toName || 'there'},</p>
-        <p>Here's your automated feedback on <strong>${submissionFilename}</strong>.
-           This is an initial read — your full portfolio review will follow separately.</p>
+        <div style="white-space: pre-wrap; line-height: 1.8; font-size: 15px;">${feedbackText.replace(/\n/g, '<br/>')}</div>
         <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 24px 0;" />
-        <div style="white-space: pre-wrap; line-height: 1.7;">${feedbackText.replace(/\n/g, '<br/>')}</div>
-        <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 24px 0;" />
-        <p style="font-size: 13px; color: #666;">
-          This feedback was generated automatically. If you have questions, reply to this email
-          and a coach will follow up during your full review.
+        <p style="font-size: 12px; color: #888; margin: 0;">
+          This is your initial automated feedback on <strong>${submissionFilename}</strong>. A full portfolio review will follow separately.
         </p>
       </div>
     </div>
