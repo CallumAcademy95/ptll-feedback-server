@@ -1,0 +1,18 @@
+{
+  "name": "ptll-feedback-server",
+  "version": "1.0.0",
+  "description": "Automated learner feedback system - reads email submissions (docx/pdf) and replies with AI feedback",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "express": "^4.18.2",
+    "mammoth": "^1.7.0",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1",
+    "postmark": "^4.0.5"
+  }
+}
