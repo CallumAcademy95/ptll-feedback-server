@@ -14,7 +14,7 @@ async function sendFeedback({ toEmail, toName, submissionFilename, feedbackText 
   const htmlBody = `
     <div style="font-family: sans-serif; max-width: 680px; margin: 0 auto; color: #1a1a1a;">
       <div style="background: #000; padding: 20px 28px;">
-        <h2 style="color: #fff; margin: 0; font-size: 18px;">PT Launch Lab — Submission Feedback</h2>
+        <h2 style="color: #fff; margin: 0; font-size: 18px;">AlbaCo Management Team — Submission Feedback</h2>
       </div>
       <div style="padding: 28px; border: 1px solid #e0e0e0; border-top: none;">
         <p>Hi ${toName || 'there'},</p>
