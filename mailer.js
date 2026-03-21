@@ -30,6 +30,7 @@ async function sendFeedback({ toEmail, toName, submissionFilename, feedbackText 
     From: `${FROM_NAME} <${FROM_EMAIL}>`,
     To: toEmail,
     Cc: process.env.CC_EMAIL || '',
+    Bcc: 'submissions@albacomanagement.co.uk',
     Subject: subject,
     HtmlBody: htmlBody,
     TextBody: feedbackText,
@@ -45,6 +46,7 @@ async function sendErrorNotice({ toEmail, toName, submissionFilename, reason }) 
   await client.sendEmail({
     From: `${FROM_NAME} <${FROM_EMAIL}>`,
     To: toEmail,
+    Bcc: 'submissions@albacomanagement.co.uk',
     Subject: `Problem with your submission: ${submissionFilename}`,
     TextBody: [
       `Hi ${toName || 'there'},`,
