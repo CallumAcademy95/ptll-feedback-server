@@ -63,7 +63,7 @@ app.post('/inbound', async (req, res) => {
       console.log(`[feedback] Generated feedback for ${fromEmail}`);
 
       // Schedule reply within working hours (Mon–Fri 9am–5pm, 1–2hr lag)
-      scheduleSend({
+      await scheduleSend({
         toEmail: fromEmail,
         toName: fromName,
         submissionFilename: filename,
@@ -81,6 +81,22 @@ app.post('/inbound', async (req, res) => {
       }).catch(e => console.error('[mailer] Error notice also failed:', e.message));
     }
   }
+});
+
+// ─── Queue inspector ─────────────────────────────────────────────────────────
+app.get('/queue', async (req, res) => {
+  const { loadPending } = require('./scheduler');
+  const pending = await loadPending();
+  const { DateTime } = require('luxon');
+
+  const formatted = pending.map(item => ({
+    id: item.id,
+    to: item.toEmail,
+    file: item.submissionFilename,
+    scheduledFor: DateTime.fromISO(item.sendAt).setZone('Europe/London').toFormat('EEE dd MMM yyyy HH:mm') + ' UK',
+  }));
+
+  res.json({ count: formatted.length, queue: formatted });
 });
 
 // ─── Cron: check for due sends every minute ──────────────────────────────────

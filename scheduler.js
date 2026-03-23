@@ -1,25 +1,26 @@
-const fs = require('fs');
-const path = require('path');
+const { Redis } = require('@upstash/redis');
 const { DateTime } = require('luxon');
 const { sendFeedback } = require('./mailer');
 
-const STORE_PATH = path.join('/tmp', 'pending-sends.json');
+const redis = new Redis({
+  url: process.env.UPSTASH_REDIS_REST_URL,
+  token: process.env.UPSTASH_REDIS_REST_TOKEN,
+});
+
+const QUEUE_KEY = 'ptll:pending-sends';
 const WORK_START = 9;   // 9am UK time
 const WORK_END = 17;    // 5pm UK time
 const WEEKDAYS = [1, 2, 3, 4, 5]; // Mon–Fri (Luxon: 1=Mon, 7=Sun)
 
 // ─── Store helpers ───────────────────────────────────────────────────────────
 
-function loadPending() {
-  try {
-    return JSON.parse(fs.readFileSync(STORE_PATH, 'utf8'));
-  } catch {
-    return [];
-  }
+async function loadPending() {
+  const data = await redis.get(QUEUE_KEY);
+  return data || [];
 }
 
-function savePending(items) {
-  fs.writeFileSync(STORE_PATH, JSON.stringify(items, null, 2));
+async function savePending(items) {
+  await redis.set(QUEUE_KEY, items);
 }
 
 // ─── Scheduling logic ────────────────────────────────────────────────────────
@@ -65,13 +66,13 @@ function calculateSendTime() {
 /**
  * Schedules a feedback email to be sent at the next valid working-hours slot.
  */
-function scheduleSend(payload) {
+async function scheduleSend(payload) {
   const sendAt = calculateSendTime();
   const item = { ...payload, sendAt: sendAt.toISOString(), id: Date.now().toString() };
 
-  const pending = loadPending();
+  const pending = await loadPending();
   pending.push(item);
-  savePending(pending);
+  await savePending(pending);
 
   const ukTime = DateTime.fromJSDate(sendAt).setZone('Europe/London').toFormat('EEE dd MMM HH:mm');
   console.log(`[scheduler] Queued feedback for ${payload.toEmail} — scheduled for ${ukTime} UK`);
@@ -82,7 +83,7 @@ function scheduleSend(payload) {
  */
 async function processDue() {
   const now = new Date();
-  const pending = loadPending();
+  const pending = await loadPending();
   const due = pending.filter(item => new Date(item.sendAt) <= now);
   const remaining = pending.filter(item => new Date(item.sendAt) > now);
 
@@ -98,7 +99,7 @@ async function processDue() {
     }
   }
 
-  savePending(remaining);
+  await savePending(remaining);
 }
 
-module.exports = { scheduleSend, processDue };
+module.exports = { scheduleSend, processDue, loadPending };
