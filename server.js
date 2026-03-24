@@ -28,6 +28,13 @@ app.post('/inbound', async (req, res) => {
 
   console.log(`[inbound] From: ${fromEmail} | Subject: ${subject} | Attachments: ${attachments.length}`);
 
+  // Guard: ignore our own outbound emails looping back in
+  const ownDomain = (process.env.FROM_EMAIL || '').split('@')[1];
+  if (ownDomain && fromEmail.toLowerCase().endsWith('@' + ownDomain.toLowerCase())) {
+    console.log('[inbound] From own domain — skipping.');
+    return;
+  }
+
   // Guard: no attachments
   if (attachments.length === 0) {
     console.log('[inbound] No attachments — skipping.');
