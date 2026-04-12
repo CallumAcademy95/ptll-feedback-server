@@ -1,5 +1,6 @@
 require('dotenv').config();
 const express = require('express');
+const multer  = require('multer');
 const cron = require('node-cron');
 const { extractText } = require('./parser');
 const { generateFeedback } = require('./feedback');
@@ -8,6 +9,8 @@ const { scheduleSend, processDue } = require('./scheduler');
 
 const app = express();
 app.use(express.json({ limit: '25mb' }));
+
+const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 25 * 1024 * 1024 } });
 
 // ─── Health check ───────────────────────────────────────────────────────────
 app.get('/', (req, res) => res.send('PT Launch Lab feedback server running.'));
@@ -87,6 +90,63 @@ app.post('/inbound', async (req, res) => {
         reason: err.message,
       }).catch(e => console.error('[mailer] Error notice also failed:', e.message));
     }
+  }
+});
+
+// ─── Make.com inbound webhook ────────────────────────────────────────────────
+// Accepts multipart/form-data from a Make.com "Watch Emails" + HTTP scenario.
+// Expected fields: fromEmail, fromName, subject
+// Expected file field: attachment (one file per request — use an iterator in Make for multiple)
+app.post('/inbound-make', upload.single('attachment'), async (req, res) => {
+  res.sendStatus(200);
+
+  const fromEmail = (req.body.fromEmail || '').trim();
+  const fromName  = (req.body.fromName  || '').trim();
+  const subject   = (req.body.subject   || '').trim();
+  const file      = req.file;
+
+  console.log(`[inbound-make] From: ${fromEmail} | Subject: ${subject} | File: ${file ? file.originalname : 'none'}`);
+
+  if (!file) {
+    console.log('[inbound-make] No attachment — skipping.');
+    return;
+  }
+
+  const filename = file.originalname || 'submission';
+  const isSupported =
+    filename.toLowerCase().endsWith('.docx') ||
+    filename.toLowerCase().endsWith('.pdf');
+
+  if (!isSupported) {
+    console.log(`[inbound-make] Unsupported file type: ${filename} — skipping.`);
+    return;
+  }
+
+  const assignmentHint = subject.replace(/^(re:|fwd?:|submission:?)/i, '').trim();
+
+  try {
+    const { text } = await extractText(file.buffer, filename);
+    console.log(`[parser] Extracted ${text.length} chars from ${filename}`);
+
+    const feedbackText = await generateFeedback(text, fromName, assignmentHint);
+    console.log(`[feedback] Generated feedback for ${fromEmail}`);
+
+    await scheduleSend({
+      toEmail: fromEmail,
+      toName: fromName,
+      submissionFilename: filename,
+      feedbackText,
+    });
+
+  } catch (err) {
+    console.error(`[error] Failed processing ${filename}:`, err.message);
+
+    await sendErrorNotice({
+      toEmail: fromEmail,
+      toName: fromName,
+      submissionFilename: filename,
+      reason: err.message,
+    }).catch(e => console.error('[mailer] Error notice also failed:', e.message));
   }
 });
 
