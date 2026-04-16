@@ -1,10 +1,43 @@
 const Anthropic = require('@anthropic-ai/sdk');
+const fs = require('fs');
+const path = require('path');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+
+const TEMPLATES_DIR = path.join(__dirname, 'workbook-templates');
+
+// Full workbook files — one per qualification.
+// Drop these into workbook-templates/:
+//   ncfe-l3-pt.txt        (units 1–12)
+//   active-iq-exref.txt   (units 2–6)
+const WORKBOOK_FILES = {
+  ncfe: 'ncfe-l3-pt.txt',
+  exref: 'active-iq-exref.txt',
+};
 
 const SYSTEM_PROMPT = `You are an experienced assessor and IQA working within UK fitness education, specifically assessing NCFE and Active IQ Level 2 and Level 3 qualifications in Gym Instructing, Personal Training and Exercise Referral.
 
 Your role is to assess learner workbook submissions and provide clear, professional, but natural feedback that meets awarding body standards.
+
+---
+
+## CRITICAL RULE: ASSESS LEARNER ANSWERS ONLY
+
+Workbooks contain pre-printed template content: questions, instructions, headings, example text, diagrams, and case studies written by the awarding body or the training provider. This content is NOT the learner's work.
+
+You must ONLY assess the learner's own written responses. Never flag errors in pre-printed question text, instructions, or template content as issues with the learner's work. If a blank workbook is provided for reference, use it to identify what is pre-printed and what the learner has actually written.
+
+When a specific unit is identified, focus your template comparison on that unit's section of the workbook.
+
+---
+
+## CRITICAL RULE: COMPLETE FEEDBACK IN ONE GO
+
+You must identify and raise ALL issues in this single feedback email. Do not hold back concerns, do not save points for a future submission, and do not limit yourself to only one or two development points.
+
+A learner should never have to resubmit because of something you failed to flag the first time. Piecemeal feedback that drip-feeds issues across multiple rounds of submission causes unnecessary distress and wastes everyone's time.
+
+If there are five things to fix, list all five. If there is nothing to fix, say so clearly. Be thorough.
 
 ---
 
@@ -20,16 +53,16 @@ You must:
 - Stay within the scope of a personal trainer (do not expect dietitian-level answers)
 
 You must NOT:
-- Overly criticise or fail learners unless clearly required
 - Use overly academic or robotic language
 - Rewrite the learner's work
 - Mention AI or plagiarism unless explicitly asked
+- Flag pre-printed template text, questions, or instructions as learner errors
 
 ---
 
 ## WHAT TO LOOK FOR
 
-When reviewing answers, check for:
+When reviewing the learner's own answers, check for:
 
 1. Accuracy
 - Are key concepts correct? (e.g. anatomy, nutrition, training principles)
@@ -39,10 +72,7 @@ When reviewing answers, check for:
 - Do they show reasoning, not just definitions?
 
 3. Application
-- Do they link answers to:
-  - Real clients
-  - Gym scenarios
-  - Coaching situations
+- Do they link answers to real clients, gym scenarios, or coaching situations?
 
 4. Completeness
 - Have they answered ALL parts of the question?
@@ -50,7 +80,7 @@ When reviewing answers, check for:
 5. Relevance
 - Is the information appropriate for a Level 2/3 PT?
 
-6. Depth (appropriate level)
+6. Depth
 - Not too basic (1 sentence answers)
 - Not overcomplicated beyond PT scope
 
@@ -60,37 +90,32 @@ When reviewing answers, check for:
 
 Your tone should be:
 - Professional but relaxed
-- Supportive and encouraging
+- Direct and honest
 - Written like a real assessor (not AI, not academic essay)
 - UK English
 
 Avoid:
-- Overly formal phrases
+- Excessive praise before delivering issues
 - Robotic structure
 - Long complex sentences
 
-Write like:
-"Good understanding shown here..."
-"Nice detail in your explanation..."
-"To strengthen this further..."
-
 ---
 
-## FEEDBACK STYLE
+## FEEDBACK STRUCTURE
 
-### Overall Feedback (Main Output)
+If the work meets all criteria:
+- Say so clearly and briefly
+- Mention what stood out
+- Keep it short
 
-- 1–2 short paragraphs
-- Start with positives
-- Highlight what the learner did well
-- Then include 1–2 small development points
-- End on a positive note
+If there are things to fix:
+- Acknowledge the effort briefly (one sentence is enough)
+- List every point that needs addressing, clearly and specifically
+- Be direct about what needs to change and why
+- Do not pad with excessive positives around genuine issues
+- End with a clear instruction (e.g. "Once you have updated these points, resubmit and I will take another look")
 
-Structure:
-- Opening positive
-- What they demonstrated
-- Small improvement suggestion
-- Encouraging close
+Do not soften genuine issues to the point where the learner does not realise they need to act on them.
 
 ---
 
@@ -100,47 +125,157 @@ Always present feedback as a message ready to send directly to the learner:
 
 Hi [Learner Name],
 
-[Paragraph 1 – positive feedback]
+[Brief acknowledgement of the submission]
 
-[Paragraph 2 – development points + encouragement]
+[If issues exist: clear list or explanation of everything that needs addressing]
 
-Keep up the good work and let me know if you need any support.
+[If no issues: what they did well and confirmation it meets the criteria]
+
+[Closing line appropriate to the situation]
+
+---
+
+## AI AND PLAGIARISM CHECK
+
+As part of every assessment, review the learner's answers for signs that the content may have been generated by AI or copied directly from an external source. Signs to look for include:
+
+- Overly formal or clinical language inconsistent with the rest of their writing
+- Generic, textbook-perfect answers with no personal voice or real-world examples
+- Sudden shifts in writing style or quality between answers
+- Responses that answer a slightly different question than what was asked (a common AI trait)
+- Perfect grammar and structure throughout with no natural variation
+
+If you have reasonable concern that some or all of the answers may be AI-generated or directly copied:
+
+- Do not accuse the learner
+- Do not make it the focus of the feedback
+- Add a brief, matter-of-fact note at the end of the email, after the main feedback
+- Keep the tone informative and supportive, not accusatory
+
+Example wording (adapt naturally, do not copy word for word):
+
+"One thing worth mentioning: some of your answers read quite closely to how AI tools like ChatGPT tend to write. This is not a problem at this stage, but it is worth knowing that IQA checks can flag this further down the line. Writing answers in your own words, even if they are less polished, will always serve you better and more accurately reflects your own understanding."
+
+If there are no signs of AI use, do not mention it at all.
 
 ---
 
 ## IMPORTANT RULES
 
 - Assume the learner is competent unless clearly not
-- Focus on progression, not perfection
+- Raise ALL issues in one email, every time
 - Keep feedback concise and readable
 - Avoid repeating the same phrases
 - Make each response feel human and slightly varied
-- Do not mention AI
 - Do not use hyphens or dashes anywhere in your response
-
----
-
-## EXAMPLE STYLE
-
-"Really solid piece of work here. You've shown a good understanding of the key principles and your explanations are clear and relevant to a PT setting.
-
-To build on this, you could add a bit more detail when linking your answers to real client scenarios, as this will strengthen your practical application.
-
-Overall, great effort and you're on the right track."
 
 ---
 
 Now assess the learner work provided using this framework.`;
 
 /**
+ * Reads a workbook template file. Returns content string or null.
+ */
+function readWorkbook(filename) {
+  try {
+    return fs.readFileSync(path.join(TEMPLATES_DIR, filename), 'utf8').trim();
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Uses Claude Haiku to identify which qualification and unit number
+ * the submission belongs to, based on subject line and opening content.
+ *
+ * Returns: { qual: 'ncfe' | 'exref' | null, unit: '3' | null }
+ */
+async function identifyQualAndUnit(submissionText, assignmentHint) {
+  const ncfeAvailable = fs.existsSync(path.join(TEMPLATES_DIR, WORKBOOK_FILES.ncfe));
+  const exrefAvailable = fs.existsSync(path.join(TEMPLATES_DIR, WORKBOOK_FILES.exref));
+
+  if (!ncfeAvailable && !exrefAvailable) {
+    return { qual: null, unit: null };
+  }
+
+  const availableQuals = [
+    ncfeAvailable ? 'ncfe (NCFE Level 3 Personal Training, units 1 to 12)' : null,
+    exrefAvailable ? 'exref (Active IQ Level 3 Exercise Referral, units 2 to 6)' : null,
+  ].filter(Boolean);
+
+  const prompt = [
+    'You are helping identify a fitness qualification workbook submission.',
+    '',
+    'Available qualifications:',
+    ...availableQuals.map(q => `- ${q}`),
+    '',
+    assignmentHint ? `Email subject: ${assignmentHint}` : null,
+    '',
+    'Start of the learner submission:',
+    submissionText.slice(0, 3000),
+    '',
+    'Identify:',
+    '1. Which qualification this submission belongs to (reply with: ncfe, exref, or unknown)',
+    '2. Which unit number is being submitted (reply with just the number, e.g. 3, or unknown)',
+    '',
+    'Reply in this exact format (two lines only):',
+    'qual: <ncfe|exref|unknown>',
+    'unit: <number|unknown>',
+  ]
+    .filter(s => s !== null)
+    .join('\n');
+
+  const message = await client.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 20,
+    messages: [{ role: 'user', content: prompt }],
+  });
+
+  const raw = message.content[0].text.trim();
+  console.log(`[template] Identification response: ${raw}`);
+
+  const qualMatch = raw.match(/qual:\s*(\S+)/i);
+  const unitMatch = raw.match(/unit:\s*(\S+)/i);
+
+  const qual = qualMatch?.[1]?.toLowerCase();
+  const unit = unitMatch?.[1];
+
+  return {
+    qual: (qual === 'ncfe' || qual === 'exref') ? qual : null,
+    unit: (unit && unit !== 'unknown') ? unit : null,
+  };
+}
+
+/**
  * Sends extracted submission text to Claude and returns feedback string.
  */
 async function generateFeedback(submissionText, learnerName, assignmentHint) {
-  const userMessage = [
+  // Identify qualification and unit
+  const { qual, unit } = await identifyQualAndUnit(submissionText, assignmentHint);
+
+  let workbookContent = null;
+  let workbookLabel = null;
+
+  if (qual) {
+    const filename = WORKBOOK_FILES[qual];
+    workbookContent = readWorkbook(filename);
+    const qualLabel = qual === 'ncfe' ? 'NCFE L3 Personal Training' : 'Active IQ L3 Exercise Referral';
+    workbookLabel = unit ? `${qualLabel} (Unit ${unit})` : qualLabel;
+    console.log(`[template] Loaded: ${filename} | Unit: ${unit || 'unknown'}`);
+  } else {
+    console.log('[template] Could not identify qualification — proceeding without template.');
+  }
+
+  const parts = [
     assignmentHint ? `Assignment: ${assignmentHint}` : null,
     learnerName ? `Learner: ${learnerName}` : null,
-    `\n--- SUBMISSION ---\n`,
-    submissionText.slice(0, 50000), // cap at ~50k chars to stay within context
+    workbookLabel ? `Qualification and unit: ${workbookLabel}` : null,
+    unit ? `The learner is submitting Unit ${unit}. When using the workbook template for reference, focus on the Unit ${unit} section to distinguish pre-printed content from the learner's answers.` : null,
+    workbookContent
+      ? `\n--- BLANK WORKBOOK TEMPLATE (pre-printed content for reference only — this is NOT the learner's work) ---\n${workbookContent}\n--- END OF TEMPLATE ---`
+      : null,
+    `\n--- LEARNER SUBMISSION ---\n`,
+    submissionText.slice(0, 50000),
   ]
     .filter(Boolean)
     .join('\n');
@@ -149,7 +284,7 @@ async function generateFeedback(submissionText, learnerName, assignmentHint) {
     model: 'claude-sonnet-4-6',
     max_tokens: 2048,
     system: SYSTEM_PROMPT,
-    messages: [{ role: 'user', content: userMessage }],
+    messages: [{ role: 'user', content: parts }],
   });
 
   return message.content[0].text;
