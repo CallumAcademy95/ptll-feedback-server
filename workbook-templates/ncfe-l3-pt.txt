@@ -1,2935 +1,2040 @@
 ================================================================================
 NCFE LEVEL 3 DIPLOMA IN GYM INSTRUCTING AND PERSONAL TRAINING
-QUALIFICATION NUMBER: 603/4388/6
-ALL LEARNER WORKBOOKS - BLANK (QUESTIONS ONLY)
+Qualification code: 603/4388/6
+Specification version: 2.3 December 2024
+Structure: 12 mandatory units + pre-printed assessment templates
 ================================================================================
 
-Learner name:
-Centre number:
-Centre name:
-Tutor name:
-Start date:
+HOW TO READ THIS FILE (guidance for the assessor AI)
 
-Signatures
-Learner:
-Assessor:
-Internal quality assurer (IQA)*:
-External quality assurer (EQA)*:
-*for completion if part, or all, of the evidence has been sampled by the internal and/or external quality assurer
+Everything in this file is pre-printed awarding body content or pre-printed
+assessment template content. NONE of it is the learner's own work. When a
+learner submission pastes any of this text, it should be recognised as template
+material and ignored when assessing.
+
+For each unit you will find:
+  - Unit header (title, code, level, GLH, evidence type)
+  - Unit summary
+  - Learning Outcomes and Assessment Criteria (the formal marking standard)
+  - Assessment guidance (what "good" looks like per AC)
+  - Pre-printed workbook tasks (the blank questions the learner answers)
+
+At the end of this file are four pre-printed assessment TEMPLATES that learners
+are given as separate handouts:
+  - Case Study Template (Units 4, 5, 9)
+  - Programme Card Template (Units 6, 10)
+  - Food Diary Template + Mark Scheme (Unit 11)
+  - Business Plan Template (Unit 12)
+
+Evidence-type mapping (what form of evidence each unit normally takes):
+  Unit 01 — workbook
+  Unit 02 — workbook
+  Unit 03 — professional discussion
+  Unit 04 — professional discussion AND/OR case study
+  Unit 05 — case study
+  Unit 06 — observation (live instructing) AND/OR programme card
+  Unit 07 — professional discussion
+  Unit 08 — workbook / professional discussion
+  Unit 09 — case study
+  Unit 10 — observation (live instructing) AND/OR programme card
+  Unit 11 — workbook + food diary (BOTH required)
+  Unit 12 — business plan
 
 ================================================================================
-UNIT 01 — ANATOMY AND PHYSIOLOGY FOR EXERCISE
-Unit accreditation number: T/617/4001
-Version 1.2 / 1.3 (March 2021 / November 2022)
+CONTENTS
 ================================================================================
 
-Overview:
-The unit covers the knowledge and understanding that an instructor needs to plan safe and
-effective group cycling sessions. This booklet allows opportunities to provide evidence for
-assessment criteria 1.1 to 9.5.
+Unit 01 — Anatomy and Physiology for Exercise (T/617/4001) — L2, 30 GLH
+Unit 02 — Maximising the Customer Experience in a Gym Environment (A/617/4002) — L2, 20 GLH
+Unit 03 — Supporting Client Health and Well-being (D/617/4008) — L2, 10 GLH
+Unit 04 — Conducting Client Consultations and Gym Inductions (F/617/4003) — L2, 20 GLH
+Unit 05 — Planning and Reviewing Gym-based Exercise Programmes (R/617/4006) — L2, 25 GLH
+Unit 06 — Instructing and Supervising Gym-based Exercise Programmes (Y/617/4007) — L2, 25 GLH
+Unit 07 — Applied Anatomy and Physiology for Activity, Health and Fitness (D/617/1707) — L3, 50 GLH
+Unit 08 — Client Motivation and Lifestyle Management (H/617/1708) — L3, 40 GLH
+Unit 09 — Programming Personal Training Sessions (K/617/1709) — L3, 60 GLH
+Unit 10 — Delivering Personal Training Sessions (D/617/1710) — L3, 70 GLH
+Unit 11 — Nutrition to Support a Physical Activity Programme (H/617/1711) — L3, 40 GLH
+Unit 12 — Business Acumen for Personal Trainers (K/617/1712) — L3, 35 GLH
 
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+Appendix A — Case Study Template (Units 4, 5, 9)
+Appendix B — Programme Card Template (Units 6, 10)
+Appendix C — Food Diary Template + Mark Scheme (Unit 11)
+Appendix D — Business Plan Template (Unit 12)
+
+
+================================================================================
+UNIT 01 — ANATOMY AND PHYSIOLOGY FOR EXERCISE (T/617/4001)
+Level 2 | 30 GLH | Mandatory | Primary evidence: workbook
+================================================================================
+
+Unit summary:
+This unit covers the knowledge a Gym Instructor needs of anatomy and physiology
+to enable effective exercise/activity programming for a range of clients.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 1 — Understand the structure and function of the circulatory system
 --------------------------------------------------------------------------------
 
+The learner can:
+1.1 Describe the function of the heart
+1.2 Describe how blood moves through the four chambers of the heart
+1.3 Describe systemic and pulmonary circulation
+1.4 Describe the structure and functions of blood vessels
+1.5 Explain what blood pressure is
+1.6 Identify blood pressure classifications
+
+Assessment guidance:
+1.1 Learners must include that the function of the heart is to pump blood throughout the body, supplying oxygen and nutrients to the tissues and removing carbon dioxide and other waste products.
+1.2 Learners could produce a flowchart which identifies the four chambers of the heart and the route taken by the blood through them.
+1.3 Learners could produce a diagram to describe the stages of systemic and pulmonary circulation. This must include the key blood vessels, the valves of the heart and the direction of blood flow.
+1.4 Learners must describe the structure and functions of the major vessels of the body, including veins, venules, arteries, arterioles and capillaries.
+1.5 Learners must explain what blood pressure is and what systolic and diastolic measures are.
+1.6 Learners must identify blood pressure classifications using a reliable source such as the British Hypertension Society classification of blood pressure levels.
+Any diagrams used must be labelled by the learner.
+
+Pre-printed workbook tasks:
 Task 1: Describe the function of the heart. (1.1)
-
-[answer space]
-
----
-
-Task 2: Using the image and space below, describe how blood moves through the four chambers
-of the heart and the stages of systemic and pulmonary circulation. (1.2, 1.3)
-
-Description of blood flow:
-
-[answer space]
-
-Systemic and pulmonary circulation:
-
-[answer space]
-
----
-
+Task 2: Using the image and space below, describe how blood moves through the four chambers of the heart and the stages of systemic and pulmonary circulation. (1.2, 1.3)
+  [Description of blood flow:]
+  [Systemic and pulmonary circulation:]
 Task 3: Describe the structure and functions of blood vessels. (1.4)
-
-Structure | Functions
-----------+-----------
-          |
-          |
-          |
-
----
-
-Task 4: Explain what blood pressure is and identify the different types of blood pressure
-classifications. (1.5, 1.6)
-
-Blood pressure:
-
-[answer space]
-
-Blood pressure classifications:
-
-[answer space]
-
----
+  Table — Structure | Functions
+Task 4: Explain what blood pressure is and identify the different types of blood pressure classifications. (1.5, 1.6)
+  [Blood pressure:]
+  [Blood pressure classifications:]
 
 Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-1.6                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 1.1 | 1.2 | 1.3 | 1.4 | 1.5 | 1.6
+Assessor signature: | IQA signature: | Date:
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 2 — Understand the structure and functions of the respiratory system
+LEARNING OUTCOME 2 — Understand the structure and function of the respiratory system
 --------------------------------------------------------------------------------
 
-Task 1: Look at the image below. Using the image and spaces provided, label and describe
-the structure and function of the respiratory system. (2.1)
+The learner can:
+2.1 Describe the structure and function of the respiratory system
+2.2 Identify the main muscles involved in breathing
+2.3 Describe the route of air through the respiratory system
+2.4 Describe the process of gaseous exchange (internal and external respiration)
 
-Function:
+Assessment guidance:
+2.1 Learners could produce a diagram to describe the structure and function of the respiratory system. This should identify the lungs, pharynx, larynx, trachea, bronchi, bronchioles and alveoli. The description of the function of the respiratory system must include the taking in of oxygen from the atmosphere into the blood stream for use by the cells of the body, as well as the expelling of carbon dioxide produced by the cells of the body from the blood stream into the atmosphere.
+2.2 Learners must identify the main muscles involved in respiration. These should include the diaphragm and the internal and external intercostal muscles.
+2.3 Learners must describe the route of air through the respiratory system. This should begin at the nose or mouth and then, in the correct order, identify the pharynx, larynx, trachea, bronchi, bronchioles and the alveoli.
+2.4 Learners must describe the processes of internal and external respiration.
 
-[answer space]
-
-Structure:
-
-[answer space]
-
----
-
+Pre-printed workbook tasks:
+Task 1: Look at the image below. Using the image and spaces provided, label and describe the structure and function of the respiratory system. (2.1)
+  [Structure:]
+  [Function:]
 Task 2: Identify the main muscles involved with breathing. (2.2, 5.3)
-
-[answer space]
-
----
-
 Task 3: Describe the route of air through the respiratory system. (2.3)
-
-[answer space]
-
----
-
 Task 4: Describe the process of gaseous exchange. (2.4)
-
-Internal respiration:
-
-[answer space]
-
-External respiration:
-
-[answer space]
-
----
+  [Internal respiration:]
+  [External respiration:]
 
 Evidence sheet — Learning Outcome 2
-
-Assessment criteria | Assessor comments
---------------------+------------------
-2.1                 |
-2.2                 |
-2.3                 |
-2.4                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 2.1 | 2.2 | 2.3 | 2.4
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 3 — Understand the structure and functions of the skeleton
+LEARNING OUTCOME 3 — Understand the structure and function of the skeleton
 --------------------------------------------------------------------------------
 
-Task 1: The skeleton provides vital structure to the human body. Below, describe the basic
-functions of the skeleton. (3.1)
+The learner can:
+3.1 Describe the basic functions of the skeleton
+3.2 Identify the bones of the axial and appendicular skeleton
+3.3 Identify the classification of bones
+3.4 Describe the main features of a long bone
+3.5 Describe the stages of bone growth
+3.6 Describe posture in terms of:
+    - curves of the spine
+    - neutral spine alignment
+    - movement potential of the spine
+    - postural deviations
 
-[answer space]
+Assessment guidance:
+3.1 Learners must describe the functions of the skeleton to include: protection, shape, support, blood cell production, attachment site for muscles (movement), storage and release of minerals.
+3.2 Axial skeleton: cranium, cervical vertebrae, thoracic vertebrae, lumbar vertebrae, sacral vertebrae, sternum, ribs and coccyx. Appendicular skeleton: scapula, clavicle, humerus, ulna, radius, carpals, metacarpals, phalanges, pelvic girdle (pelvis), femur, patella, tibia, fibula, tarsals and metatarsals.
+3.3 Classifications: long, short, flat, irregular and sesamoid.
+3.4 Features of a long bone: articular cartilage, epiphysis, diaphysis, periosteum, epiphyseal growth plates, medullary cavity and bone marrow.
+3.5 Must include the roles of the epiphyseal growth plates and the cells involved — osteoblasts, osteoclasts and osteocytes.
+3.6 Posture:
+  - Curves of the spine: healthy spine has 4 curves. Lumbar and cervical curves anteriorly convex; thoracic and sacral curves anteriorly concaved.
+  - Neutral spine: position in which all of the curves are balanced and weight is evenly distributed.
+  - Potential movement of the spine: flexion, extension, rotation, lateral flexion and reduction.
+  - Postural deviations: kyphosis, lordosis, scoliosis.
 
----
-
-Task 2: Using the images below, identify the bones of the axial and appendicular skeleton.
-(3.2)
-
-[diagram labelling task]
-
----
-
-Task 3: Identify the different classification of bones. (3.3)
-
-1.
-2.
-3.
-4.
-5.
-
----
-
+Pre-printed workbook tasks:
+Task 1: The skeleton provides vital structure to the human body. Below, describe the basic functions of the skeleton. (3.1)
+Task 2: Using the images below, identify the bones of the axial and appendicular skeleton. (3.2)
+Task 3: Identify the different classification of bones. (3.3) [5 numbered boxes]
 Task 4: Describe the main features of a long bone. (3.4)
-
-[answer space]
-
----
-
 Task 5: Describe the stages of bone growth. (3.5)
-
-[answer space]
-
----
-
 Task 6: Describe the varying types of posture in terms of: (3.6)
-
-Postural term                        | Description
--------------------------------------+-------------
-Curves of the spine                  |
-Neutral spine alignment              |
-Movement potential of the spine      |
-Postural deviations                  |
-
----
+  Table — Postural term | Description
+    Curves of the spine
+    Neutral spine alignment
+    Movement potential of the spine
+    Postural deviations
 
 Evidence sheet — Learning Outcome 3
-
-Assessment criteria | Assessor comments
---------------------+------------------
-3.1                 |
-3.2                 |
-3.3                 |
-3.4                 |
-3.5                 |
-3.6                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 3.1 | 3.2 | 3.3 | 3.4 | 3.5 | 3.6
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 4 — Understand joints in the skeleton
 --------------------------------------------------------------------------------
 
-Task 1: Identify the classifications of joints. (4.1)
+The learner can:
+4.1 Identify the classifications of joints
+4.2 Describe the structure of synovial joints
+4.3 Identify the types of synovial joints and their range of motion
+4.4 Describe joint movement potential and joint actions
+4.5 Identify the anatomical planes of movement
+4.6 Define the anatomical terms of location
+4.7 Describe the exercise variables that can have an effect on biomechanics and kinesiology
 
-1.
-2.
-3.
+Assessment guidance:
+4.1 Classifications: immovable/fixed, slightly moveable/cartilaginous and freely movable/synovial.
+4.2 Structure of synovial joints: articulating bones, joint capsule, synovial membrane, synovial fluid, ligaments, tendons and cartilage.
+4.3 Types: hinge, pivot, ball and socket, saddle, condyloid and gliding, with their associated movements.
+4.4 Joint movement: flexion/extension, adduction/abduction, circumduction, supination/pronation, plantar flexion/dorsiflexion, lateral flexion and reduction, horizontal flexion/extension, elevation/depression. Major joints: ankle, knee, hip, shoulder, elbow, wrist.
+4.5 Planes of motion: sagittal, frontal (coronal), transverse.
+4.6 Terms of location: distal, proximal, anterior, posterior, inferior, superior, deep, superficial, medial, lateral.
+4.7 Exercise variables: levers, centre of gravity, momentum, force.
 
----
-
+Pre-printed workbook tasks:
+Task 1: Identify the classifications of joints. (4.1) [3 numbered boxes]
 Task 2: Describe the structure of synovial joints. (4.2)
-
-[answer space]
-
----
-
-Task 3a: Using the table below, identify the types of synovial joint and their range of
-motion. (4.3)
-
-Synovial joint | Joint type | Range of motion available
----------------+------------+--------------------------
-               |            |
-               |            |
-               |            |
-               |            |
-               |            |
-               |            |
-
----
-
+Task 3a: Using the table below, identify the types of synovial joint and their range of motion. (4.3)
+  Table — Synovial joint | Joint type | Range of motion available
 Task 3b: Describe joint movement potential and joint actions. (4.4, 5.6)
-
-Joint action              | Description | Joint example (eg wrist) | Muscle example (eg quads)
---------------------------+-------------+--------------------------+--------------------------
-Flexion and extension     |             |                          |
-Adduction and abduction   |             |                          |
-Circumduction             |             |                          |
-Supination and pronation  |             |                          |
-Plantar flexion and       |             |                          |
-dorsiflexion              |             |                          |
-Lateral flexion and       |             |                          |
-reduction                 |             |                          |
-Horizontal flexion and    |             |                          |
-extension                 |             |                          |
-Elevation and depression  |             |                          |
-
----
-
-Task 4: Identify the body's anatomical planes of movement. (4.5)
-
-1.
-2.
-3.
-
----
-
+  Table — Joint action | Description | Joint example (eg wrist) | Muscle example (eg quads)
+    Flexion and extension
+    Adduction and abduction
+    Circumduction
+    Supination and pronation
+    Plantar flexion and dorsiflexion
+    Lateral flexion and reduction
+    Horizontal flexion and extension
+    Elevation and depression
+Task 4: Identify the body's anatomical planes of movement. (4.5) [3 numbered boxes]
 Task 5: Define the anatomical terms of location. (4.6)
-
-Term        | Definition
-------------+-----------
-Distal      |
-Proximal    |
-Anterior    |
-Posterior   |
-Inferior    |
-Superior    |
-Deep        |
-Superficial |
-Medial      |
-Lateral     |
-
----
-
-Task 6: In the table below, describe the exercise variables and their effects on biomechanics
-and kinesiology. (4.7)
-
-Exercise variable  | Description | Effect on exercise
--------------------+-------------+-------------------
-Levers             |             |
-Centre of gravity  |             |
-Momentum           |             |
-Force              |             |
-
----
+  Distal | Proximal | Anterior | Posterior | Inferior | Superior | Deep | Superficial | Medial | Lateral
+Task 6: In the table below, describe the exercise variables and their effects on biomechanics and kinesiology. (4.7)
+  Table — Exercise variable | Description | Effect on exercise
+    Levers
+    Centre of gravity
+    Momentum
+    Force
 
 Evidence sheet — Learning Outcome 4
-
-Assessment criteria | Assessor comments
---------------------+------------------
-4.1                 |
-4.2                 |
-4.3                 |
-4.4                 |
-4.5                 |
-4.6                 |
-4.7                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 4.1 | 4.2 | 4.3 | 4.4 | 4.5 | 4.6 | 4.7
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 5 — Understand the muscular system
 --------------------------------------------------------------------------------
 
+The learner can:
+5.1 Describe the characteristics and functions of the 3 types of muscle tissue
+5.2 Describe the basic structure of skeletal muscle
+5.3 Identify and locate the anterior and posterior skeletal muscles
+5.4 Describe the structure and function of the pelvic floor muscles
+5.5 Describe different types of muscle action
+5.6 Identify joint actions brought about by specific muscle group contractions
+5.7 Describe skeletal muscle fibre types and their characteristics
+
+Assessment guidance:
+5.1 Smooth, skeletal and cardiac muscle — key features and functions.
+5.2 Basic structure: actin, myosin, sarcomere, myofibril, muscle fibre, epimysium, perimysium, endomysium.
+5.3-5.6 Major muscles: pectoralis major, deltoids, biceps, rectus abdominis, obliques, transverse abdominis, trapezius, rhomboids, triceps, latissimus dorsi, erector spinae, hip flexors, quadriceps, adductors, anterior tibialis, gluteals, abductors, hamstrings, gastrocnemius, soleus, diaphragm, intercostals.
+5.4 Pelvic floor muscles support the organs of the pelvis and assist in stabilisation of the spine through intra-abdominal pressure.
+5.5 Isometric, isotonic-concentric, eccentric muscle actions.
+5.7 Fast and slow twitch muscle fibres with examples of activities they are associated with.
+
+Pre-printed workbook tasks:
 Task 1: Describe the characteristics and functions of the body's 3 types of muscle. (5.1)
-
-Muscle cell | Muscle type | Function | Characteristic
-------------+-------------+----------+---------------
-            |             |          |
-            |             |          |
-            |             |          |
-
----
-
+  Table — Muscle cell | Muscle type | Function | Characteristic
 Task 2: Describe the basic structure of skeletal muscle. (5.2)
-
-[answer space]
-
----
-
-Task 3: Using the images below, identify and locate the anterior and posterior skeletal
-muscles. (5.3)
-
-[diagram labelling task]
-(Muscles located within this area under overlying muscles)
-
----
-
+Task 3: Using the images below, identify and locate the anterior and posterior skeletal muscles. (5.3)
 Task 4: Describe the structure and function of the pelvic floor muscles. (5.4)
-
-[answer space]
-
----
-
-[Muscle actions table] (5.5)
-
-Muscle action | Muscle action type and description | Muscle action | Muscle action type and description
---------------+------------------------------------+---------------+------------------------------------
-Movement      |                                    | Movement      |
-No movement   |                                    |               |
-
----
-
-[Muscle fibre types table] (5.7)
-
-Muscle fibre | Description of characteristics
--------------+-------------------------------
-Type 1       |
-Type 2       |
-
----
+Task 5: Muscle actions. (5.5, 5.6)
+  Table — Muscle action | Muscle action type and description
+    Movement
+    No movement
+Task 6: Muscle fibre types. (5.7)
+  Table — Muscle fibre | Description of characteristics
+    Type 1
+    Type 2
 
 Evidence sheet — Learning Outcome 5
-
-Assessment criteria | Assessor comments
---------------------+------------------
-5.1                 |
-5.2                 |
-5.3                 |
-5.4                 |
-5.5                 |
-5.6                 |
-5.7                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 5.1 | 5.2 | 5.3 | 5.4 | 5.5 | 5.6 | 5.7
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 6 — Understand the life course of the musculoskeletal system and its
-implications for special populations' exercise
+LEARNING OUTCOME 6 — Understand the life course of the musculoskeletal system and its implications for special populations' exercise
 --------------------------------------------------------------------------------
 
-Task 1: Describe the life course of the musculoskeletal system and its implications for
-exercise for the below special populations: (6.1)
+The learner can:
+6.1 Describe the life course of the musculoskeletal system to include:
+    - young people in the 13-18 age range
+    - antenatal and postnatal women
+    - older adults (50 plus)
 
-Special population             | Life course changes | Implications for exercise
--------------------------------+---------------------+--------------------------
-Young people (13–18 years)     |                     |
-Antenatal and postnatal women  |                     |
-Older adults (50+ years)       |                     |
+Assessment guidance:
+6.1 Learners must describe relevant tendon, ligament, muscle, joint and bone mineral density changes and their implications for exercise, plus specific implications for working with young people (13-18), antenatal and postnatal women, and older adults (50+).
 
----
+Pre-printed workbook tasks:
+Task 1: Describe the life course of the musculoskeletal system and its implications for exercise for the below special populations: (6.1)
+  Table — Special population | Life course changes | Implications for exercise
+    Young people (13-18 years)
+    Antenatal and postnatal women
+    Older adults (50+ years)
 
 Evidence sheet — Learning Outcome 6
-
-Assessment criteria | Assessor comments
---------------------+------------------
-6.1                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 6.1
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 7 — Understand energy systems and their relation to exercise
 --------------------------------------------------------------------------------
 
-Task 1: Describe how carbohydrates, fats and proteins are used in the production of energy.
-(7.1)
+The learner can:
+7.1 Describe how carbohydrates, fats and proteins are used in the production of energy/ATP
+7.2 Explain the use of the 3 energy systems during aerobic and anaerobic exercise
+7.3 Identify the by-products of the 3 energy systems and describe their role in muscle fatigue
+7.4 Describe the effect of endurance training on the body's use of fuel for exercise
+7.5 Define anabolism, catabolism and post-exercise oxygen consumption (EPOC)
 
-Macronutrient | Description
---------------+-------------
-Carbohydrate  |
-Protein       |
-Fat           |
+Assessment guidance:
+7.1 Fats, proteins, carbohydrates broken down to produce ATP — basic overview of glycolysis and aerobic energy pathway and the number of ATP produced by each.
+7.2 Each system (ATP-PC, anaerobic glycolysis, aerobic) provides energy based on intensity and duration.
+7.3 By-products of each energy system and their role in muscle fatigue (e.g. lactic acid).
+7.4 Endurance training adaptations: increased aerobic enzymes, glycogen and triglyceride storage, mitochondria, increased use of fats.
+7.5 Define anabolism, catabolism and EPOC.
 
----
-
+Pre-printed workbook tasks:
+Task 1: Describe how carbohydrates, fats and proteins are used in the production of energy. (7.1)
+  Table — Macronutrient | Description: Carbohydrate / Protein / Fat
 Task 2: Explain the use of the 3 energy systems during aerobic and anaerobic exercise. (7.2)
-
-Energy system        | Explanation
----------------------+-------------
-ATP-PC               |
-Aerobic              |
-Anaerobic glycolysis |
-
----
-
-Task 3: Identify the by-products of the 3 energy systems and describe their role in muscle
-fatigue. (7.3)
-
-By-product | Role in muscle fatigue
------------+-----------------------
-           |
-           |
-           |
-
----
-
-Task 4: Describe the effect of endurance training on the body's use of fuel for exercise.
-(7.4)
-
-[answer space]
-
----
-
+  Table — Energy system | Explanation: ATP-PC / Aerobic / Anaerobic glycolysis
+Task 3: Identify the by-products of the 3 energy systems and describe their role in muscle fatigue. (7.3)
+  Table — By-product | Role in muscle fatigue
+Task 4: Describe the effect of endurance training on the body's use of fuel for exercise. (7.4)
 Task 5: Define anabolism, catabolism and excess post-exercise oxygen consumption (EPOC). (7.5)
-
-Anabolism:
-
-[answer space]
-
-Catabolism:
-
-[answer space]
-
-EPOC:
-
-[answer space]
-
----
+  Anabolism | Catabolism | EPOC
 
 Evidence sheet — Learning Outcome 7
-
-Assessment criteria | Assessor comments
---------------------+------------------
-7.1                 |
-7.2                 |
-7.3                 |
-7.4                 |
-7.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 7.1 | 7.2 | 7.3 | 7.4 | 7.5
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 8 — Understand the nervous system and its relation to exercise
 --------------------------------------------------------------------------------
 
+The learner can:
+8.1 Describe the role and functions of the nervous system
+8.2 Describe the principles of muscle contraction
+8.3 Explain the 'all or none law' / motor unit recruitment
+8.4 Identify how exercise can enhance neuromuscular connections and improve motor fitness
+
+Assessment guidance:
+8.1 Nervous system as a command centre — gathering info about internal/external environments, processing, producing response.
+8.2 Basic overview of the sliding filament theory.
+8.3 'All or none law' — when a motor unit receives a stimulus of sufficient intensity, all the muscle fibres within the unit contract at the same time and to the maximum possible extent.
+8.4 Could include: efficient motor programmes, neuromuscular efficiency, motor unit recruitment, rate coding, antagonist inhibition, decreased autogenic inhibition, improved proprioception, agility, balance, coordination, power, reaction time, speed.
+
+Pre-printed workbook tasks:
 Task 1: Describe the role and functions of the nervous system. (8.1)
-
-Role | Functions
------+----------
-     |
-
----
-
+  Table — Role | Functions
 Task 2: Describe the principles of muscle contraction. (8.2)
-
-[answer space]
-
----
-
 Task 3: Explain the 'all or none law' / motor unit recruitment. (8.3)
-
-[answer space]
-
----
-
-Task 4: Identify how exercise can enhance neuromuscular connections and improve motor
-fitness. (8.4)
-
-[answer space]
-
----
+Task 4: Identify how exercise can enhance neuromuscular connections and improve motor fitness. (8.4)
 
 Evidence sheet — Learning Outcome 8
-
-Assessment criteria | Assessor comments
---------------------+------------------
-8.1                 |
-8.2                 |
-8.3                 |
-8.4                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 8.1 | 8.2 | 8.3 | 8.4
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 9 — Understand the structure and function of the digestive system
 --------------------------------------------------------------------------------
 
+The learner can:
+9.1 Describe the function of each section of the digestive system
+9.2 Describe how fats, proteins and carbohydrates are digested and absorbed
+9.3 Describe the role of dietary fibre in the maintenance of gut function
+9.4 Describe the role of the liver and pancreas in digestion
+9.5 Explain the importance of maintaining fluid levels for health and exercise performance
+
+Assessment guidance:
+9.1 Mouth, oesophagus, stomach, small intestine, large intestine.
+9.2 Main enzymes, timescales, and location of digestion for each macronutrient.
+9.3 Dietary fibre: provides bulk, prevents constipation, reduces risk of bowel cancer.
+9.4 Substances produced by the liver and pancreas and their function.
+9.5 Role of water: nutrient/waste transport, temperature regulation; effects of inadequate fluid on exercise.
+
+Pre-printed workbook tasks:
 Task 1: Describe the function of each section of the digestive system. (9.1)
-
-Section         | Function
-----------------+----------
-Mouth           |
-Oesophagus      |
-Stomach         |
-Small intestine |
-Large intestine |
-
----
-
+  Mouth | Oesophagus | Stomach | Small intestine | Large intestine
 Task 2: Describe how fats, proteins and carbohydrates are digested and absorbed. (9.2)
-
-Macronutrient | Enzymes used | Time scale | Location
---------------+--------------+------------+---------
-Fat           |              |            |
-Protein       |              |            |
-Carbohydrate  |              |            |
-
----
-
+  Table — Macronutrient | Enzymes used | Time scale | Location: Fat / Protein / Carbohydrate
 Task 3: Describe the role of dietary fibre in the maintenance of gut function. (9.3)
-
-[answer space]
-
----
-
 Task 4: Describe the role of the liver and pancreas in digestion. (9.4)
-
-[answer space]
-
----
-
-Task 5: Explain the importance of maintaining fluid levels for health and exercise
-performance. (9.5)
-
-Level of performance | Explanation | Role of water
----------------------+-------------+--------------
-Health               |             |
-Exercise performance |             |
-
----
+Task 5: Explain the importance of maintaining fluid levels for health and exercise performance. (9.5)
+  Table — Level of performance | Explanation | Role of water: Health / Exercise performance
 
 Evidence sheet — Learning Outcome 9
-
-Assessment criteria | Assessor comments
---------------------+------------------
-9.1                 |
-9.2                 |
-9.3                 |
-9.4                 |
-9.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
----
-
-FEEDBACK FORM — UNIT 01
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessment criteria: 9.1 | 9.2 | 9.3 | 9.4 | 9.5
 
 
 ================================================================================
-UNIT 02 — MAXIMISING THE CUSTOMER EXPERIENCE IN A GYM ENVIRONMENT
-Unit accreditation number: A/617/4002
-Version 1.0 February 2020
+UNIT 02 — MAXIMISING THE CUSTOMER EXPERIENCE IN A GYM ENVIRONMENT (A/617/4002)
+Level 2 | 20 GLH | Mandatory | Primary evidence: workbook
 ================================================================================
 
-Overview:
-The unit aims to provide learners with the knowledge, skills and understanding to build and
-maintain relationships with customers in a gym environment. This booklet allows opportunities
-to provide evidence for assessment criteria 1.1 to 6.6.
-
-Achieved:
-Not yet achieved:
-Assessor:
-IQA:
-
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+Unit summary:
+This unit aims to provide learners with the knowledge, skills and understanding
+to build and maintain relationships with customers in a gym environment.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 1 — Understand customer service in a gym environment
 --------------------------------------------------------------------------------
 
-Task 1: Using the table below, compare the products and services on offer at a minimum of
-two different organisations. Include: different types of organisations, ie national gym groups,
-local organisations, independent gyms/leisure centres or small providers etc. (1.1)
+The learner can:
+1.1 Compare the products and services of different organisations
+1.2 Describe the local demographics of different organisations and how this affects the products and services offered
+1.3 Describe customer expectations of different organisations
+1.4 Describe a typical customer journey for different organisations
+1.5 Describe methods used by different organisations to build support, inclusion and retention
 
-Organisation type | Product/Service offer | Comparisons
-------------------+-----------------------+------------
-                  |                       |
-                  |                       |
+Assessment guidance:
+1.1 Must compare a minimum of 2 different organisations. Consider facilities, classes, membership types, specialist offerings, social facilities.
+1.2 How the area/demographics of the organisation influence what products and services are offered.
+1.3 Customer expectations of the organisations identified in 1.1.
+1.4 Flowchart showing the customer journey. Comparison of 2 organisations required.
+1.5 Methods to build social support, inclusion and retention.
 
----
-
-Task 2: Using the organisations identified in Task 1, describe the local demographics of
-different organisations and how this affects the products and services offered. (1.2)
-
-[answer space]
-
----
-
-Task 3: Describe the customer expectations of the different organisations you have identified
-in Task 1. (1.3)
-
-Organisation | Description
--------------+-------------
-             |
-             |
-
----
-
-Task 4: From the organisations you have identified in the previous tasks, describe the typical
-journey a customer might take at each one. (1.4)
-Tip: think about the customer journey at your own organisation, or one you are familiar with.
-
-Organisation | Customer journey
--------------+-----------------
-             |
-             |
-
----
-
-Task 5: Describe the methods used to build support, inclusion and retention at the
-organisations you have previously identified. (1.5)
-
-Method     | Organisation | Description
------------+--------------+-------------
-Support    |              |
-Inclusion  |              |
-Retention  |              |
-
----
+Pre-printed workbook tasks:
+Task 1: Using the table below, compare the products and services on offer at a minimum of two different organisations. (1.1)
+  Table — Organisation Type | Product/Service offer | Comparisons
+Task 2: Describe the local demographics of different organisations and how this affects the products and services offered. (1.2)
+Task 3: Describe the customer expectations of the different organisations you have identified in Task 1. (1.3)
+  Table — Organisation | Description
+Task 4: Describe the typical journey a customer might take at each one. (1.4)
+  Table — Organisation | Customer journey
+Task 5: Describe the methods used to build support, inclusion and retention. (1.5)
+  Table — Method | Organisation | Description: Support / Inclusion / Retention
 
 Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 1.1 | 1.2 | 1.3 | 1.4 | 1.5
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 2 — Understand customer engagement in a gym environment
 --------------------------------------------------------------------------------
 
-Task 1: Describe the different methods used to engage with customers in a gym environment.
-(2.1)
+The learner can:
+2.1 Describe different methods to engage with customers
+2.2 Describe different methods to build rapport to maximise the customer experience and retention
+2.3 Describe ways to support a safe and enjoyable fitness environment
+2.4 List ways to present oneself in a professional and approachable manner
+2.5 Identify different types of customer conflict and how to manage them
+2.6 Describe the importance of customer retention
 
-Communications method | Description
-----------------------+-------------
-                      |
-                      |
+Assessment guidance:
+2.1 Face-to-face, telephone, messaging, written, social media, digital technology.
+2.2 Special populations: older people (50+), antenatal/postnatal, young people (14-16), disabled people.
+2.3 Risk assessment, safety, hygiene.
+2.4 Uniform, name badge, personal hygiene, clothing, professional standards, codes of practice and ethics.
+2.5 Types of conflict and resolution techniques.
+2.6 Impact on reputation, repeat business, sales.
 
----
-
-Task 2: Describe the different methods used to build rapport in order to maximise customer
-experience and retention. (2.2)
-
-Population           | Method | Description
----------------------+--------+-------------
-Older people (50+)   |        |
-Ante/postnatal       |        |
-Disabled people      |        |
-Young people (14–16) |        |
-
----
-
-Task 3: Describe ways to support a safe and enjoyable fitness environment for customers. (2.3)
-
-[answer space]
-
----
-
-Task 4: List the ways to present yourself in a professional and approachable manner to
-customers. (2.4)
-
-[answer space]
-
----
-
-Task 5: Identify different types of customer conflict and how you can manage them. (2.5)
-
-Customer conflict | Conflict resolution technique
-------------------+------------------------------
-                  |
-                  |
-
----
-
+Pre-printed workbook tasks:
+Task 1: Describe the different methods used to engage with customers. (2.1)
+  Table — Communications method | Description
+Task 2: Methods to build rapport to maximise customer experience and retention. (2.2)
+  Table — Population | Method | Description:
+    Older people (50+) / Ante-postnatal / Disabled people / Young people (14-16)
+Task 3: Describe ways to support a safe and enjoyable fitness environment. (2.3)
+Task 4: List ways to present yourself in a professional and approachable manner. (2.4)
+Task 5: Identify different types of customer conflict and how to manage them. (2.5)
+  Table — Customer conflict | Conflict resolution technique
 Task 6: Describe the importance of customer retention. (2.6)
 
-[answer space]
-
----
-
 Evidence sheet — Learning Outcome 2
-
-Assessment criteria | Assessor comments
---------------------+------------------
-2.1                 |
-2.2                 |
-2.3                 |
-2.4                 |
-2.5                 |
-2.6                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 2.1 | 2.2 | 2.3 | 2.4 | 2.5 | 2.6
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 3 — Understand customer communication in a fitness organisation
 --------------------------------------------------------------------------------
 
-Task 1: Using the table below, describe the following components of communication: (3.1, 3.2)
-a. different types of communication techniques
-b. when to use different types of communication techniques
-c. how to adapt communication methods to meet the needs of different customers
+The learner can:
+3.1 Describe different types of communication techniques and when to use them
+3.2 Describe how to adapt communication methods to meet the needs of different customers
+3.3 Explain the importance of walking the gym floor
 
-Types of communication techniques (eg verbal) | When to use different types of communication (eg complaints) | How to adapt communication methods (eg cultural)
------------------------------------------------+--------------------------------------------------------------+--------------------------------------------------
-                                               |                                                              |
-                                               |                                                              |
+Assessment guidance:
+3.1-3.2 Verbal and non-verbal communication methods, questioning (open/closed), active listening, observation, body language, complaints handling.
+3.2 Differing customers: backgrounds, cultures, demographics, ESL, experience, impairments.
+3.3 Benefits of 'walking the floor': accessible, approachable, visible, rapport-building, professional, point of reference.
 
----
-
+Pre-printed workbook tasks:
+Task 1: Describe the components of communication. (3.1, 3.2)
+  Table — Types of communication techniques | When to use different types | How to adapt communication methods
 Task 2: Explain the importance of walking the gym floor. (3.3)
 
-[answer space]
-
----
-
 Evidence sheet — Learning Outcome 3
-
-Assessment criteria | Assessor comments
---------------------+------------------
-3.1                 |
-3.2                 |
-3.3                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 3.1 | 3.2 | 3.3
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 4 — Understand customer feedback in a fitness organisation
 --------------------------------------------------------------------------------
 
+The learner can:
+4.1 Describe the importance of obtaining customer feedback
+4.2 Identify ways to record and report customer feedback
+4.3 Explain the importance of managing feedback in line with an organisation's procedures
+
+Assessment guidance:
+4.1 Gauging satisfaction, retention, improvement suggestions, communication.
+4.2 Methods: comment cards, surveys (paper/online), verbal discussions, complaints, social media.
+4.3 Outcomes of positive feedback, suggestions, negative remarks and complaints; the feedback cycle and its impact on customer experience.
+
+Pre-printed workbook tasks:
 Task 1: Describe the importance of obtaining customer feedback. (4.1)
-
-[answer space]
-
----
-
 Task 2: Identify ways to record and report customer feedback. (4.2)
-Tip: consider the organisations you used for learning outcome 1.
-
-[answer space]
-
----
-
-Task 3: Explain the importance of managing feedback in line with an organisation's procedures.
-(4.3)
-Tip: consider the organisations you used for learning outcome 1.
-
-[answer space]
-
----
+Task 3: Explain the importance of managing feedback in line with an organisation's procedures. (4.3)
 
 Evidence sheet — Learning Outcome 4
-
-Assessment criteria | Assessor comments
---------------------+------------------
-4.1                 |
-4.2                 |
-4.3                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 4.1 | 4.2 | 4.3
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 5 — Understand national legislation, guidelines and organisational procedures
 --------------------------------------------------------------------------------
 
-Task 1: Describe national legislation and guidelines relevant to the role of a gym instructor.
-(5.1)
+The learner can:
+5.1 Describe national legislation and guidelines relevant to the role of a Gym Instructor
+5.2 Describe organisational procedures relevant to the role of a Gym Instructor
+5.3 Describe the purpose of a storage plan and how to create one
+5.4 Explain the health and safety implications of assembly, dismantling, hygiene and storage of equipment
+5.5 Explain the practical implications of not following manufacturers' guidelines
+5.6 Identify where operating procedures, policies and manufacturers' guidelines can be located
+5.7 Explain manual handling requirements in relation to the role of a Gym Instructor
 
-Legislation and guidelines                             | Gym Instructor example | Description
--------------------------------------------------------+------------------------+-------------
-Data protection and client confidentiality             |                        |
-Health and safety at work                              |                        |
-Conflict of interest                                   |                        |
-Disclosure and Barring Service (DBS)                   |                        |
-Safeguarding children and vulnerable adults            |                        |
-Equality and diversity                                 |                        |
-Personal liability insurance                           |                        |
-Control of substances hazardous to health (COSHH)      |                        |
-Reporting of injuries, diseases and dangerous          |                        |
-occurrences regulations (RIDDOR)                       |                        |
-Electricity at work regulations                        |                        |
-First aid regulations                                  |                        |
+Assessment guidance:
+5.1 Data protection and client confidentiality; health and safety at work; conflict of interest; DBS; safeguarding; equality and diversity; personal liability insurance; COSHH; RIDDOR; electricity at work; first aid.
+5.2 NOP and emergency action plans.
+5.3 Purpose of storage plans and how to create them.
+5.4 H&S implications of assembly, dismantling, hygiene, storage with gym examples.
+5.5 Implications of not following manufacturers' guidelines: injury, void warranties, cost, legal.
+5.6 Where procedures/policies are located in the organisations identified in 1.1.
+5.7 Manual handling in the Gym Instructor role — bending, lifting, pulling, pushing.
 
----
-
-Task 2: Using the organisations identified in learning outcome 1, describe the organisational
-procedures relevant to the role of a Gym Instructor. (5.2)
-
-[answer space]
-
----
-
+Pre-printed workbook tasks:
+Task 1: Describe national legislation and guidelines relevant to the role of a Gym Instructor. (5.1)
+  Table — Legislation and guidelines | Gym Instructor example | Description
+    Data protection and client confidentiality
+    Health and safety at work
+    Conflict of interest
+    DBS
+    Safeguarding children and vulnerable adults
+    Equality and diversity
+    Personal liability insurance
+    COSHH
+    RIDDOR
+    Electricity at work regulations
+    First aid regulations
+Task 2: Describe the organisational procedures relevant to the role of a Gym Instructor. (5.2)
 Task 3: Describe the purpose of a storage plan and how to create one. (5.3)
-
-[answer space]
-
----
-
-Task 4: Explain the health and safety implications of assembly, dismantling, hygiene and
-storage of equipment. (5.4)
-
-Activity     | Example | Explanation
--------------+---------+-------------
-Assembly     |         |
-Dismantling  |         |
-Hygiene      |         |
-Storage      |         |
-
----
-
+Task 4: Explain the health and safety implications of assembly, dismantling, hygiene and storage of equipment. (5.4)
+  Table — Activity | Example | Explanation: Assembly / Dismantling / Hygiene / Storage
 Task 5: Explain the practical implications of not following manufacturers' guidelines. (5.5)
-
-[answer space]
-
----
-
-Task 6: Using the organisations from learning outcome 1, identify where operating procedures,
-policies and manufacturers' guidelines can be located. (5.6)
-
-[answer space]
-
----
-
+Task 6: Identify where operating procedures, policies and manufacturers' guidelines can be located. (5.6)
 Task 7: Explain manual handling requirements in relation to the role of a Gym Instructor. (5.7)
 
-[answer space]
-
----
-
 Evidence sheet — Learning Outcome 5
-
-Assessment criteria | Assessor comments
---------------------+------------------
-5.1                 |
-5.2                 |
-5.3                 |
-5.4                 |
-5.5                 |
-5.6                 |
-5.7                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 5.1 | 5.2 | 5.3 | 5.4 | 5.5 | 5.6 | 5.7
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 6 — Understand routine maintenance and cleaning in a gym environment
 --------------------------------------------------------------------------------
 
+The learner can:
+6.1 Identify cleaning resources used in a gym environment (equipment, cleaning substances, uses and suitability)
+6.2 Describe the standard operating procedures for routine maintenance and cleaning
+6.3 Identify possible hazards in a fitness environment (activity areas and gym, people, physical risks)
+6.4 Explain the cleaning routines and organisational standards relevant to the gym environment
+6.5 Describe how to maintain the safety of themselves and others
+6.6 Identify the different types of waste and how to dispose of it
+
+Assessment guidance:
+6.1 Cleaning equipment and substances, their uses and suitability.
+6.2 SOP for day-to-day and planned maintenance — COSHH, manual handling, electrical safety, safe storage.
+6.3 Risk assessment — activity areas, gym, people, physical risks.
+6.4 Cleaning routines and organisational standards.
+6.5 Safety: procedures, PPE, risk assessment, EAP, reporting.
+6.6 Hazardous and non-hazardous waste disposal.
+
+Pre-printed workbook tasks:
 Task 1: Identify the cleaning resources commonly used in a gym environment. (6.1)
-
-Cleaning resources   | Examples | Uses and suitability
----------------------+----------+--------------------
-Equipment            |          |
-Cleaning substances  |          |
-
----
-
-Task 2: Describe the standard operating procedures (SOP) for routine maintenance and cleaning.
-(6.2)
-
-[answer space]
-
----
-
-Task 3: Create a risk assessment to identify the possible hazards in a fitness environment in
-relation to the below: (6.3)
-- activity areas and gym
-- people
-- physical risks
-Note: ensure you include this risk assessment as part of your completed workbook when submitting
-to your Tutor/Assessor.
-
-[risk assessment to be attached]
-
----
-
-Task 4: Explain the cleaning routines and organisational standards relevant to the gym
-environment. (6.4)
-
-[answer space]
-
----
-
+  Table — Cleaning resources | Examples | Uses and suitability: Equipment / Cleaning substances
+Task 2: Describe the SOP for routine maintenance and cleaning. (6.2)
+Task 3: Create a risk assessment. (6.3)
+Task 4: Explain the cleaning routines and organisational standards. (6.4)
 Task 5: Describe how to maintain the safety of yourself and others. (6.5)
-
-[answer space]
-
----
-
-Task 6: Identify the different types of waste found in a gym environment and how to dispose
-of it. (6.6)
-
-Waste type     | Examples | Uses and suitability
----------------+----------+--------------------
-Hazardous      |          |
-Non-hazardous  |          |
-
----
+Task 6: Identify different types of waste and how to dispose of it. (6.6)
+  Table — Hazardous | Non-hazardous
 
 Evidence sheet — Learning Outcome 6
+Assessment criteria: 6.1 | 6.2 | 6.3 | 6.4 | 6.5 | 6.6
 
-Assessment criteria | Assessor comments
---------------------+------------------
-6.1                 |
-6.2                 |
-6.3                 |
-6.4                 |
-6.5                 |
-6.6                 |
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 7 — Be able to carry out routine maintenance and cleaning in a gym environment
+--------------------------------------------------------------------------------
 
-Assessor signature:
-IQA signature:
-Date:
+The learner can:
+7.1 Plan and prepare for cleaning activities
+7.2 Use appropriate cleaning substances and equipment
+7.3 Maintain the safety of themselves and others
+7.4 Demonstrate how to deal with identified hazards
+7.5 Communicate effectively to customers and colleagues whilst cleaning
 
----
-
-FEEDBACK FORM — UNIT 02
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessment guidance:
+Learners must be observed in the gym environment carrying out cleaning and maintenance duties relevant to the specific facility. Observation checklist, witness statement, questioning.
 
 
 ================================================================================
-UNIT 03 — SUPPORTING CLIENT HEALTH AND WELL-BEING
-Unit accreditation number: D/617/4008
-Version 1.0 February 2020
+UNIT 03 — SUPPORTING CLIENT HEALTH AND WELL-BEING (D/617/4008)
+Level 2 | 10 GLH | Mandatory | Primary evidence: PROFESSIONAL DISCUSSION
 ================================================================================
 
-Overview:
-The unit covers the knowledge and understanding that an instructor needs to plan safe and
-effective sessions. This booklet allows opportunities to provide evidence for assessment
-criteria 1.1 to 3.3.
+Unit summary:
+This unit covers the knowledge a Gym Instructor needs to promote a healthy
+lifestyle and to facilitate behaviour change and adherence to exercise. Learners
+will also cover the prevention and management of common health conditions.
 
-Achieved:
-Not yet achieved:
-Assessor:
-IQA:
-
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+PRIMARY EVIDENCE FORM: Professional discussion. The learner completes a
+pre-printed Professional Discussion Form with detailed written answers to each
+question. The assessor sign-off at the end is pre-printed template text, not
+learner work.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 1 — Understand lifestyle and health promotion
 --------------------------------------------------------------------------------
 
-Task 1: Describe the factors that affect health and well-being. (1.1)
+The learner can:
+1.1 Describe the factors that affect health and well-being
+1.2 Describe the current national healthy eating recommendations
+1.3 State the current national physical activity guidelines
+1.4 Identify the health benefits of physical activity
+1.5 Describe how technology can be used to support the customer experience
+1.6 Describe how to communicate healthy lifestyle choices to clients
+1.7 Identify evidence based / reputable sources of health and well-being advice
 
-[answer space]
-
----
-
-Task 2: Describe the current national healthy eating recommendations. (1.2)
-
-[answer space]
-
----
-
-Task 3: Using the FITT principle, state the current national physical activity guidelines for
-the following age groups: (1.3)
-
-Age group     | Physical activity guidelines
---------------+-----------------------------
-Children      | F:
-              | I:
-              | T:
-              | T:
-Young people  | F:
-              | I:
-              | T:
-              | T:
-Adults        | F:
-              | I:
-              | T:
-              | T:
-Older adults  | F:
-              | I:
-              | T:
-              | T:
-
----
-
-Task 4: Identify the health benefits of physical activity. (1.4)
-
-Health benefit   | Example
------------------+---------
-Physical         |
-Physiological    |
-Psychological    |
-Social           |
-
----
-
-Task 5: Describe how technology can be used to support the customer experience. (1.5)
-
-[answer space]
-
----
-
-Task 6: Describe how to communicate healthy lifestyle choices to special population clients.
-(1.6)
-
-Special population       | Description
--------------------------+-------------
-Older people (50+)       |
-Ante/postnatal           |
-Young people (14–16)     |
-Disabled people          |
-
----
-
-Task 7: Identify evidence-based/reputable sources of health and well-being advice. (1.7)
-
-[answer space]
-
----
-
-Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-1.6                 |
-1.7                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+1.1 Factors: nutrition, physical activity, exercise, work-life balance, illness, disability, injury, substance abuse, smoking, alcohol, sleep.
+1.2 Current national healthy eating guidelines.
+1.3 UK physical activity guidelines for children, young people, adults, older adults — FITT principle.
+1.4 Physical, physiological, psychological and social benefits with examples.
+1.5 Technology to support experience: motivation, reminders, tracking, focus — wearables, pedometers, apps.
+1.6 Advice relevant and tailored; consider circumstances, barriers, beliefs, motivation; special populations.
+1.7 Evidence-based sources, eg NHS.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 2 — Understand prevention and management of common health conditions
 --------------------------------------------------------------------------------
 
-Task 1: Discuss health and exercise statistics for the UK. (2.1)
-Tip: think about participation levels and the implications of low participation.
+The learner can:
+2.1 Discuss health and exercise statistics for the UK
+2.2 Describe how physical activity can prevent and manage common health conditions
+2.3 Describe the professional boundaries and scope of practice of Gym Instructors
+2.4 Identify relevant exercise or health professionals that clients can be signposted to
 
-[answer space]
-
----
-
-Task 2: Describe how physical activity can prevent and manage common health conditions. (2.2)
-
-Health condition              | Description
-------------------------------+-------------
-Coronary heart disease        |
-Stroke                        |
-Cancer                        |
-Type 2 diabetes               |
-Obesity                       |
-Mental health conditions      |
-Musculoskeletal conditions    |
-
----
-
-Task 3: Describe the professional boundaries that come with working as a Gym Instructor, as
-well as the limitations that exist when offering health, exercise and well-being advice. (2.3)
-
-Professional boundaries:
-
-[answer space]
-
-Limitations:
-
-[answer space]
-
----
-
-Task 4: Identify other relevant exercise or health professionals that clients can be signposted
-to for specialist advice. (2.4)
-
-Exercise/Health professional | Reason for referral
------------------------------+--------------------
-                             |
-                             |
-
----
-
-Evidence sheet — Learning Outcome 2
-
-Assessment criteria | Assessor comments
---------------------+------------------
-2.1                 |
-2.2                 |
-2.3                 |
-2.4                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+2.1 UK stats — participation levels, implications (obesity, diabetes, CVD).
+2.2 Role of PA in prevention/management: CHD, stroke, cancer, T2D, obesity, mental health, musculoskeletal.
+2.3 Scope of practice and professional boundaries — nutrition, supplementation, injury management, strength and conditioning, special populations.
+2.4 Referrals: physio, S&C coach, physiologist, nutritionist, GP, dietician, special population instructor.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 3 — Understand behaviour change and exercise adherence
 --------------------------------------------------------------------------------
 
-Task 1: Describe the stages of change / trans-theoretical models of behaviour change. (3.1)
+The learner can:
+3.1 Describe the stages of change / trans-theoretical models of behaviour change
+3.2 Describe the role of intrinsic and extrinsic motivation in exercise adherence
+3.3 Identify a range of techniques / approaches that can support adherence to exercise
 
-Stage of change    | Description
--------------------+-------------
-Pre-contemplation  |
-Contemplation      |
-Preparation        |
-Action             |
-Maintenance        |
-Relapse            |
+Assessment guidance:
+3.1 Prochaska and DiClemente's stages of change.
+3.2 Intrinsic and extrinsic motivation — contribution to adherence.
+3.3 Rewards, goal setting (short/medium/long-term), tracking, instructor motivation methods, technology.
 
----
+--------------------------------------------------------------------------------
+Pre-printed Professional Discussion Form (Unit 3)
+--------------------------------------------------------------------------------
 
-Task 2: Describe the role of intrinsic and extrinsic motivation when it comes to exercise
-adherence. (3.2)
+Qualification: NCFE Level 3 Diploma in Personal Training
+Unit title: Unit 3 — Supporting Client Health and Wellbeing
+Name: | Date:
+Learner will provide detailed and well-written answers to meet learning outcomes for the unit.
 
-Motivation | Description
------------+-------------
-Intrinsic  |
-Extrinsic  |
+Health & Lifestyle Promotion
+  - What are the main factors that influence health and wellbeing?
+  - What are the current national healthy eating recommendations?
+  - Using the FITT principle, explain the physical activity guidelines for different age groups (children, young people, adults, older adults).
+  - What are the physical, physiological, psychological and social benefits of physical activity?
 
----
+Common Health Conditions and Referral
+  - What do UK health and exercise statistics tell us about current levels of activity and their consequences?
+  - How can physical activity help prevent and manage conditions like heart disease, diabetes, obesity and mental health disorders?
+  - What are your professional boundaries and limitations when giving health, exercise, and wellbeing advice?
+  - When and why would you refer or signpost a client to another health or exercise professional?
 
-Task 3: Identify a range of techniques/approaches that can support adherence to exercise. (3.3)
+Behaviour Change and Exercise Adherence
+  - Describe the stages of change in the trans-theoretical model of behaviour change.
+  - What is the role of intrinsic and extrinsic motivation in exercise adherence?
+  - What techniques or strategies can you use to support a client in sticking to their exercise plan?
 
-[answer space]
+Assessor/trainer/learner declaration:
+"I confirm that I have assessed all of the work produced and have ensured that the work is that of the named learner. I have ensured that during the learning process the evidence is authentic, sufficient, valid and current to the standards required."
 
----
-
-Evidence sheet — Learning Outcome 3
-
-Assessment criteria | Assessor comments
---------------------+------------------
-3.1                 |
-3.2                 |
-3.3                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
----
-
-FEEDBACK FORM — UNIT 03
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessor/trainer name | Date | Assessor/trainer signature | Learner signature
 
 
 ================================================================================
-UNIT 04 — CONDUCTING CLIENT CONSULTATIONS AND GYM INDUCTIONS
-Unit accreditation number: F/617/4003
-Version 1.0 February 2020
+UNIT 04 — CONDUCTING CLIENT CONSULTATIONS AND GYM INDUCTIONS (F/617/4003)
+Level 2 | 20 GLH | Mandatory | Primary evidence: PROFESSIONAL DISCUSSION + CASE STUDY LINK
 ================================================================================
 
-Overview:
-The unit covers the knowledge and understanding that an instructor needs to conduct client
-consultations and gym inductions. This booklet allows opportunities to provide evidence for
-assessment criteria 1.1 to 4.3.
+Unit summary:
+This unit provides learners with the knowledge, skills and understanding to
+conduct consultations, fitness assessments and gym inductions with customers
+and clients.
 
-Achieved:
-Not yet achieved:
-Assessor:
-IQA:
-
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+Evidence note: Unit 4 content is also covered within the Case Study template
+(Appendix A) when the learner completes the Consultation section. A workbook
+can be submitted alongside / instead.
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 1 — Understand the consultation process specific to gym-based exercise
-programme planning and own professional role boundaries
+LEARNING OUTCOME 1 — Understand the consultation process specific to gym-based exercise programme planning and own professional role boundaries
 --------------------------------------------------------------------------------
 
+The learner can:
+1.1 Describe the importance of client consultations
+1.2 Describe ways to ensure client confidentiality and adherence with data protection legislation
+1.3 Describe how to cater for clients with different goals or needs
+1.4 Explain the role and responsibilities of the Gym Instructor
+1.5 Identify the information that should be discussed during a client consultation
+
+Assessment guidance:
+1.1 Gathering info, building rapport, information on activities, customer experience, legislative responsibilities.
+1.2 Examples: private consultation, secure records, not discussing clients, minimum relevant data.
+1.3 Differing needs: demographic, fitness goals/levels, health risks, motivation, barriers, previous injuries/illness, previous experience.
+1.4 Responsibilities: purpose, scope, professional limitations, confidentiality, data protection.
+1.5 Info discussed: facility services, customer charter, H&S, booking systems, technology.
+
+Pre-printed workbook tasks:
 Task 1: Describe the importance of client consultations, to include: (1.1)
-
-Gathering relevant information so that an appropriate plan can be devised:
-
-[answer space]
-
-Building rapport:
-
-[answer space]
-
-Giving information about the range of activities across the facility:
-
-[answer space]
-
-Enhancing the customer experience in welcoming the customer to the facility:
-
-[answer space]
-
-Meeting legislative responsibilities:
-
-[answer space]
-
----
-
-Task 2: Describe ways to ensure client confidentiality and adherence with data protection
-legislation are maintained. (1.2)
-
-Method | Description
--------+-------------
-       |
-       |
-
----
-
+  - Gathering relevant information so that an appropriate plan can be devised
+  - Building rapport
+  - Giving information about the range of activities across the facility
+  - Enhancing the customer experience
+  - Meeting legislative responsibilities
+Task 2: Describe ways to ensure client confidentiality and adherence with data protection legislation. (1.2)
+  Table — Method | Description
 Task 3: Describe how to cater for individuals with different goals or needs. (1.3)
-
-[answer space]
-
----
-
 Task 4: Explain the role and responsibilities of a Gym Instructor. (1.4)
-
-[answer space]
-
----
-
 Task 5: Identify the information that should be discussed during a client consultation. (1.5)
 
-[answer space]
-
----
-
 Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 1.1 | 1.2 | 1.3 | 1.4 | 1.5
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 2 — Understand pre-exercise health screening methods
 --------------------------------------------------------------------------------
 
+The learner can:
+2.1 Identify methods of health screening prior to gym-based exercise
+2.2 Describe risk stratification models
+2.3 Describe how to categorise client risk for exercise
+2.4 Explain when to refer or signpost clients to medical professionals / exercise specialists
+
+Assessment guidance:
+2.1-2.2 Screening methods, informed consent, risk modification models: PAR-Q, PAR-Q+, youth PAR-Q, organisation-devised methods, risk stratification pyramid, logic models, Irwin and Morgan traffic light, ACSM categories, referral pathways, health commitment statement.
+2.3 Risk stratification considering methods, relevant health history, medical conditions, injuries, disabilities, current health — particularly heart disease risk factors.
+2.4 When and why to refer.
+
+Pre-printed workbook tasks:
 Task 1: Identify methods of health screening prior to gym-based exercise. (2.1)
-
-[answer space]
-
----
-
-Task 2: Describe risk stratification models available to Gym Instructors and how to use them
-to categorise client risk for exercise. (2.2, 2.3)
-
-Risk stratification models:
-
-[answer space]
-
-Client risk categories:
-
-[answer space]
-
----
-
-Task 3: Explain when to refer or signpost clients to medical professionals/exercise
-specialists. (2.4)
-
-[answer space]
-
----
+Task 2: Describe risk stratification models available to Gym Instructors and how to use them to categorise client risk for exercise. (2.2, 2.3)
+  - Risk stratification models
+  - Client risk categories
+Task 3: Explain when to refer or signpost clients to medical professionals / exercise specialists. (2.4)
 
 Evidence sheet — Learning Outcome 2
-
-Assessment criteria | Assessor comments
---------------------+------------------
-2.1                 |
-2.2                 |
-2.3                 |
-2.4                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 2.1 | 2.2 | 2.3 | 2.4
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 3 — Know a range of health and fitness assessments relevant to the
-gym-based client
+LEARNING OUTCOME 3 — Know a range of health and fitness assessments relevant to the gym-based client
 --------------------------------------------------------------------------------
 
+The learner can:
+3.1 Identify assessments used to assess the health and fitness of clients
+3.2 Describe how to monitor client progress
+3.3 Describe how to review client progress
+
+Assessment guidance:
+3.1 Health assessments: resting HR, visceral measurements, BP, BMI, body composition. Fitness: one per component (muscular strength and endurance, flexibility, CV endurance).
+3.2-3.3 Timescales, methods of recording, re-assessment, data comparison, review opportunities, reset goals, support motivation.
+
+Pre-printed workbook tasks:
 Task 1: Identify a range of health and fitness assessments used to assess clients. (3.1)
-*Each fitness assessment method must address each component of fitness.
-
-Health assessment method | Overview | Fitness assessment method* | Overview
--------------------------+----------+----------------------------+---------
-                         |          |                            |
-                         |          |                            |
-
----
-
+  Table — Health assessment method | Overview
+  Table — Fitness assessment method* | Overview (*each method must address each component of fitness)
 Task 2: Describe how to monitor and review client progress. (3.2, 3.3)
 
-[answer space]
-
----
-
 Evidence sheet — Learning Outcome 3
-
-Assessment criteria | Assessor comments
---------------------+------------------
-3.1                 |
-3.2                 |
-3.3                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 3.1 | 3.2 | 3.3
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 4 — Know how to induct clients in the gym environment
 --------------------------------------------------------------------------------
 
+The learner can:
+4.1 Describe a client induction process
+4.2 Describe how to carry out a facility walk-through / show-round
+4.3 Describe how to adapt inductions for individuals and small groups to maintain effectiveness
+
+Assessment guidance:
+4.1 Step-by-step client induction process.
+4.2 Walk-through: facilities, classes, fire and emergency protocols, emergency exits.
+4.3 Adapting inductions based on needs/experience/requirements — maximum 5 people for small groups. Explanation of why group inductions are carried out.
+
+Pre-printed workbook tasks:
 Task 1: Describe a client induction process. (4.1)
-Tip: think about the induction process at one of the organisations you have previously used
-in this workbook.
-
-[answer space]
-
----
-
-Task 2: Describe how to carry out a facility walk-through/show round to new and existing
-customers. (4.2)
-
-[answer space]
-
----
-
-Task 3: Describe how to adapt inductions for individuals and small groups to maintain
-effectiveness. (4.3)
-
-[answer space]
-
----
+Task 2: Describe how to carry out a facility walk-through / show round. (4.2)
+Task 3: Describe how to adapt inductions for individuals and small groups to maintain effectiveness. (4.3)
 
 Evidence sheet — Learning Outcome 4
-
-Assessment criteria | Assessor comments
---------------------+------------------
-4.1                 |
-4.2                 |
-4.3                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
----
-
-FEEDBACK FORM — UNIT 04
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessment criteria: 4.1 | 4.2 | 4.3
 
 
 ================================================================================
-UNIT 05 — PLANNING AND REVIEWING GYM-BASED EXERCISE PROGRAMMES
-Unit accreditation number: R/617/4006
-Version 1.0 February 2020
+UNIT 05 — PLANNING AND REVIEWING GYM-BASED EXERCISE PROGRAMMES (R/617/4006)
+Level 2 | 25 GLH | Mandatory | Primary evidence: CASE STUDY
 ================================================================================
 
-Overview:
-The unit covers the knowledge and understanding that an instructor needs to plan safe and
-effective gym-based exercise programmes. This booklet allows opportunities to provide evidence
-for assessment criteria 1.1 to 2.7.
+Unit summary:
+This unit covers the knowledge, understanding and skills a learner needs to
+plan, tailor and review gym-based exercise programmes.
 
-Achieved:
-Not yet achieved:
-Assessor:
-IQA:
-
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+Evidence note: Unit 5 is the main home of the Case Study Template (Appendix A)
+— the programme design and 6-week plan sections of the case study evidence
+Unit 5 directly.
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 1 — Understand how to plan and tailor safe and effective gym-based
-exercise programmes for a range of clients
+LEARNING OUTCOME 1 — Understand how to plan and tailor safe and effective gym-based exercise programmes for a range of clients
 --------------------------------------------------------------------------------
 
-Task 1: Describe client considerations when planning gym-based exercise programmes. (1.1)
+The learner can:
+1.1 Describe client considerations when planning gym-based exercise programmes
+1.2 Explain how to set goals and objectives for gym-based exercise programmes
+1.3 Define the components of health and skill related fitness
+1.4 Explain the principles and variables of fitness training
+1.5 Describe the differences between programming exercise for physical fitness and health benefits
+1.6 Explain why and how to regress a training programme
+1.7 Describe the effect of speed, posture, alignment and intensity on exercise
+1.8 Explain the importance of muscle balance when planning programmes
+1.9 Explain the considerations to ensure a safe and effective warm-up and cool-down
+1.10 Describe how to minimise any risks relevant to the programme
 
-Population           | Description
----------------------+-------------
-Young people (14–16) |
-Ante/postnatal       |
-Older people (50+)   |
-
----
-
-Task 2: Explain how to set goals and objectives for clients as part of a gym-based exercise
-programme. (1.2)
-Tip: consider setting goals and objectives using the SMART principle.
-
-[answer space]
-
----
-
-Task 3: Define the components of health and skill related fitness. (1.3)
-
-Health related components | Definition and example
---------------------------+----------------------
-Muscular strength         |
-Muscular endurance        |
-Cardiovascular endurance  |
-Flexibility               |
-
-Skill related components | Definition and example
--------------------------+----------------------
-Agility                  |
-Speed                    |
-Co-ordination            |
-Balance                  |
-Reaction time            |
-Power                    |
-
----
-
-Task 4: Explain the principles and variables of fitness training. (1.4)
-Tip: think about how the principles of fitness impact components of fitness.
-
-[answer space]
-
----
-
-Task 5: Describe the differences between programming exercise for physical fitness and health
-benefits. (1.5)
-
-[answer space]
-
----
-
-Task 6: Explain why and how to regress a training programme. (1.6)
-
-[answer space]
-
----
-
-Task 7: Describe the effect of speed, posture, alignment and intensity on exercise. (1.7)
-
-Variable   | Description
------------+-------------
-Speed      |
-Posture    |
-Alignment  |
-Intensity  |
-
----
-
-Task 8: Explain the importance of muscle balance when planning programmes. (1.8)
-
-[answer space]
-
----
-
-Task 9: Explain what you need to consider to ensure a safe and effective warm-up and
-cool-down is carried out with clients. (1.9)
-
-Warm-up components:
-
-[answer space]
-
-Warm-up considerations:
-
-[answer space]
-
-Cool-down components:
-
-[answer space]
-
-Cool-down considerations:
-
-[answer space]
-
----
-
-Task 10: Describe how to minimise any risks relevant to programmes of exercise. (1.10)
-
-[answer space]
-
----
-
-Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-1.6                 |
-1.7                 |
-1.8                 |
-1.9                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+1.1 Client considerations: goals, needs, likes/dislikes, motivators, special populations (young people 14-16, ante/postnatal, older 50+).
+1.2 SMART goals — specific, measurable, achievable, realistic, time-bound.
+1.3 Health-related components: muscular strength/endurance, CV endurance, flexibility. Skill-related: agility, speed, coordination, balance, power, reaction time.
+1.4 FITT — frequency, intensity, time, type. Training principles — specificity, progressive overload, reversibility, adaptability, individuality, recovery time.
+1.5 Programming differences for health vs fitness — FITT differences.
+1.6 Why regress: overtraining, poor technique, fatigue, inactivity, injury, special populations. How: modify variables/adaptations.
+1.7 Speed, posture, alignment, intensity effects (eg speed increases injury risk).
+1.8 Muscle balance — work opposing muscles, programme to deal with imbalances.
+1.9 Warm-up: mobilisation, warming muscles, increasing HR, stretching. Cool-down: gradual intensity reduction, stretching and flexibility.
+1.10 Risk minimisation: detailed consultation, client-specific programme, modifications, compound to isolation, warm-up/cool-down.
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 2 — Understand how to monitor and review safe and effective gym-based
-exercise programmes
+LEARNING OUTCOME 2 — Understand how to monitor and review safe and effective gym-based exercise programmes
 --------------------------------------------------------------------------------
 
-Task 1: Explain the reasons why exercise may need to be deferred for a period of time. (2.1)
+The learner can:
+2.1 Explain the reasons for deferral of exercise
+2.2 Explain the importance of verbal screening and how to conduct it
+2.3 Describe the exercise contraindications and key safety guidelines for working with special populations
+2.4 Compare different methods of monitoring exercise intensity
+2.5 Explain how to evaluate the effectiveness of gym-based programmes
+2.6 Explain appropriate engagement with clients
+2.7 Explain the value of reflective practice
 
-[answer space]
+Assessment guidance:
+2.1 Reasons for deferral: injury, illness, disease, undiagnosed conditions, awaiting GP sign-off.
+2.2 Importance of verbal screening — situation may have changed since initial consultation.
+2.3 Contraindications and safety for older adults, ante/postnatal, young people, disabled people.
+2.4 Intensity monitoring: talk test, RPE, HR monitoring, HR zones.
+2.5 Evaluation via client feedback and fitness testing.
+2.6 When to engage vs not engage clients.
+2.7 Reflective practice — review, improve, learning, self-development.
 
----
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 3 — Plan gym-based exercise programmes
+--------------------------------------------------------------------------------
 
-Task 2: Explain the importance of verbal screening and how to conduct it effectively with
-clients. (2.2)
+The learner can:
+3.1 Carry out a client consultation
+3.2 Agree and set goals and objectives with clients
+3.3 Plan gym-based exercise programmes
+3.4 Plan progressions, regressions and adaptations for each exercise provided
+3.5 Plan realistic timings and sequences for exercise
+3.6 Record programme plans in an appropriate format for use in the industry
 
-[answer space]
+Assessment guidance:
+Assessments should be with real clients where possible. Range includes young people (14-16), ante/postnatal, older adults (50+), disabled.
+3.1 Consultation info: readiness, goals/objectives, needs, likes/dislikes, motivation, barriers, fitness testing, signposting.
+3.2 SMART goals.
+3.3 Plan suitable for 2 clients. Sessions develop CV, muscular fitness, function, flexibility. Must include:
+  - Warm-up (mobilisation/pulse raising, static/dynamic stretching)
+  - Main: 4 free weight, 4 fixed weight, 2 body weight (2 functional within the above)
+  - Cool-down (pulse lowering, maintenance and developmental stretching)
+3.4 Progressions, regressions, alternatives for each exercise.
+3.5 Timings and sequencing: RPE, reps, sets, HR.
+3.6 Appropriate format: usable on the gym floor, logical teaching points.
 
----
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 4 — Review gym-based exercise programmes
+--------------------------------------------------------------------------------
 
-Task 3: Describe the exercise contraindications and key safety guidelines for working with
-special populations. (2.3)
+The learner can:
+4.1 Plan regular review sessions with clients
+4.2 Carry out regular review sessions with clients
+4.3 Propose changes from information gathered in review sessions
+4.4 Revise and confirm agreements for programme changes
 
-Special population   | Contraindication(s)
----------------------+--------------------
-Older people (50+)   |
-Ante/postnatal       |
-Young people (14–16) |
-Disabled people      |
-
----
-
-Task 4: Compare different methods of monitoring exercise intensity. (2.4)
-Include: talk test, rate of perceived exertion (RPE), heart monitoring and the use of different
-heart rate zones.
-
-[answer space]
-
----
-
-Task 5: Explain how to evaluate the effectiveness of gym-based programmes. (2.5)
-
-[answer space]
-
----
-
-Task 6: Explain appropriate engagement with clients. (2.6)
-
-[answer space]
-
----
-
-Task 7: Explain the value of reflective practice. (2.7)
-
-[answer space]
-
----
-
-Evidence sheet — Learning Outcome 2
-
-Assessment criteria | Assessor comments
---------------------+------------------
-2.1                 |
-2.2                 |
-2.3                 |
-2.4                 |
-2.5                 |
-2.6                 |
-2.7                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
----
-
-FEEDBACK FORM — UNIT 05
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessment guidance:
+4.1 Plan reviews with dates — face-to-face, telephone, messaging, social media, digital technology.
+4.2-4.3 Reviews include subjective info and objective testing:
+  - Client performance and adherence
+  - How well the programme has met client needs (physical/psychological)
+  - Progress towards goals
+  - Signposting opportunities
+  - Proposed changes/adaptations
+4.4 Summarise outcomes; confirmation and agreement for programme changes.
 
 
 ================================================================================
-UNIT 06 — INSTRUCTING AND SUPERVISING GYM-BASED EXERCISE PROGRAMMES
-Unit accreditation number: Y/617/4007
-Version 1.0 February 2020
+UNIT 06 — INSTRUCTING AND SUPERVISING GYM-BASED EXERCISE PROGRAMMES (Y/617/4007)
+Level 2 | 25 GLH | Mandatory | Primary evidence: OBSERVATION
 ================================================================================
 
-Overview:
-This booklet allows opportunities to provide evidence for assessment criteria 1.1 to 1.5,
-6.1 to 6.5 and 7.1 to 7.5.
+Unit summary:
+This unit covers the skills and knowledge a Gym Instructor needs to deliver and
+supervise gym-based exercise sessions to clients.
 
-Achieved:
-Not yet achieved:
-Assessor:
-IQA:
-
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+Evidence note: Unit 6 is primarily assessed by OBSERVATION of the learner
+instructing real clients (minimum 2 occasions — one individual, one group) plus
+a programme card (Appendix B). Written evidence alone does NOT meet this unit.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 1 — Understand how to deliver gym-based exercise training sessions
 --------------------------------------------------------------------------------
 
-Task 1: Describe the key components of a gym-based exercise session. (1.1)
+The learner can:
+1.1 Describe the components of a gym-based exercise programme / session
+1.2 Identify training methods and equipment suitable for use when carrying out gym-based exercise sessions
+1.3 Explain how to safely and appropriately use equipment for gym-based exercise sessions
+1.4 Describe how to demonstrate training techniques to clients
+1.5 Explain how to supervise and monitor clients during gym-based exercise sessions
 
-Component                       | Description
---------------------------------+-------------
-Warm-up                         |
-CV machines                     |
-Body weight exercises           |
-Resistance machines             |
-Free weight exercises           |
-Small equipment                 |
-Functional exercise/equipment   |
-Flexibility                     |
-Cool-down                       |
+Assessment guidance:
+1.1 Components: warm-up, CV, body weight, resistance machines, free weights, small equipment, functional, flexibility, cool-down.
+1.2 Training methods: CV (continuous, interval, fartlek), resistance (single set, basic sets, circuit, Delorme and Watkins 10RM, Berger 6RM, super-sets), functional, flexibility (static, dynamic, maintenance, developmental).
+1.3 Safe use of CV machines, resistance machines, free weights, small equipment.
+1.4-1.5 Teaching methods, coaching techniques, adapting to learning styles, experience levels, interventions, communication.
 
----
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 2 — Be able to prepare for gym-based exercise sessions
+--------------------------------------------------------------------------------
 
-Task 2: Identify suitable training methods and equipment when carrying out gym-based exercise
-sessions. (1.2)
+The learner can:
+2.1 Prepare self to supervise gym-based exercise sessions
+2.2 Prepare the gym environment to enable safe and suitable gym-based exercise sessions to take place
+2.3 Select suitable equipment to be used during a gym-based exercise session
+2.4 Greet and prepare clients for a gym-based exercise session
 
-Exercise                             | Example(s)
--------------------------------------+-----------
-Cardiovascular                       |
-Resistance training                  |
-Functional training                  |
-Flexibility, range of motion exercises|
+Assessment guidance:
+Observed. Observation checklist captures: preparation of self (uniform, professional standards), preparation of equipment/facility, meeting and greeting, H&S awareness.
 
----
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 3 — Be able to instruct gym-based exercise sessions
+--------------------------------------------------------------------------------
 
-Task 3: Thinking about the examples you provided above, explain how to safely and
-appropriately use equipment for gym-based exercise sessions. (1.3)
+The learner can:
+3.1 Carry out verbal screening with clients
+3.2 Confirm the components of a planned gym-based exercise session
+3.3 Instruct a safe, effective and engaging gym-based exercise session
+3.4 Use effective communication methods and maintain professional standards
+3.5 Establish positive working relationships with clients
+3.6 Maintain professional standards whilst instructing gym-based exercise sessions
+3.7 Check and confirm understanding throughout a gym-based exercise session
 
-[answer space]
+Assessment guidance:
+Minimum 2 observations — one individual, one group. Must include:
+- Correct technique, lifting, passing, spotting
+- Correct use of equipment
+- Teaching points and coaching techniques
+- H&S awareness, alternatives, modifications
+- Client-appropriate communication — rapport, motivational techniques, two-way communication, engagement
+- Professionalism at all times
+- Checking understanding for unsupervised continuation
+Must demonstrate CV, resistance, free weights, body weight, functional and small equipment; warm-up, main, cool-down.
 
----
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 4 — Be able to supervise gym-based exercise sessions
+--------------------------------------------------------------------------------
 
-Task 4: Describe how to demonstrate training techniques to clients. (1.4)
+The learner can:
+4.1 Adopt appropriate positions to observe clients participating in a gym-based exercise session
+4.2 Observe and monitor safety and intensity throughout the duration of a gym-based exercise session
+4.3 Ensure client safety and well-being at all times during a gym-based exercise session
+4.4 Assess client performance and identify any required adaptations to ensure suitable progression/regression
+4.5 Conclude a gym-based exercise session within a suitable timeframe
+4.6 Ensure the environment is left safe and secure following a gym-based exercise session
 
-[answer space]
+Assessment guidance:
+Observed. Includes observation/communication to monitor safety and intensity, assessment/correction of performance, reinforcement of technique, progression/regression, FITT adaptations, time management, equipment collection/cleaning/storage.
 
----
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 5 — Be able to review a gym-based exercise session
+--------------------------------------------------------------------------------
 
-Task 5: Explain how to supervise and monitor clients during gym-based exercise sessions. (1.5)
+The learner can:
+5.1 Review the outcomes of a gym-based exercise session with clients
+5.2 Evaluate the effectiveness of a gym-based exercise session
+5.3 Identify areas for improvement in delivering a gym-based exercise session
 
-[answer space]
-
----
-
-Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+Verbal/written feedback from clients plus own reflection.
+Client considerations: how well session met needs, effectiveness of relationship, instructing style match, further needs, other gym/class interest.
+Own performance: strengths, areas for development, changes to implement, CPD needs.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 6 — Understand professional practice requirements of a Gym Instructor
 --------------------------------------------------------------------------------
 
-Task 1: Describe, with examples, the purpose of industry codes of practice. (6.1)
+The learner can:
+6.1 Describe the purpose of industry codes of practice, giving examples
+6.2 Describe how to work within scope of practice
+6.3 Explain the importance of continuous professional development for Gym Instructors
+6.4 Identify relevant CPD activities and progression routes for the Gym Instructor
+6.5 Devise a personalised professional development plan
 
-[answer space]
-
----
-
-Task 2: Describe how to work within the scope of practice of a Gym Instructor. (6.2)
-Tip: be sure to consider special populations as part of your answer.
-
-[answer space]
-
----
-
-Task 3: Explain the importance of continuous professional development (CPD) for Gym
-Instructors. (6.3)
-
-[answer space]
-
----
-
-Task 4: Complete the below professional development plan (PDP) based on where you would
-like to see your future career progress in the fitness industry. (6.4, 6.5)
-
-Professional Development Plan
-
-Name:
-Position:
-Company:
-Date:
-Review date:
-
-Long-term career goals:
-
-[answer space]
-
-SMART short-term career goals (1–2 years):
-
-Area of interest | Required CPD | Qualifications | Date by
------------------+--------------+----------------+---------
-                 |              |                |
-                 |              |                |
-
-SMART medium/long-term career goals (3–5 years):
-
-Area of interest | Required CPD | Qualifications | Date by
------------------+--------------+----------------+---------
-                 |              |                |
-                 |              |                |
-
-Learner signature & date:
-Line Manager signature & date:
-
----
-
-Evidence sheet — Learning Outcome 6
-
-Assessment criteria | Assessor comments
---------------------+------------------
-6.1                 |
-6.2                 |
-6.3                 |
-6.4                 |
-6.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
---------------------------------------------------------------------------------
-LEARNING OUTCOME 7 — Understand business acumen
---------------------------------------------------------------------------------
-
-Task 1: Outline how to financially plan as part of being a self-employed Gym Instructor. (7.1)
-
-[answer space]
-
----
-
-Task 2: Thinking about the organisations you have previously used, describe their product
-offers and how they can support secondary spends. (7.2)
-
-[answer space]
-
----
-
-Task 3: Outline how to develop a digital plan as part of being a self-employed Gym
-Instructor. (7.3)
-
-[answer space]
-
----
-
-Task 4: Explain the importance of social media and digital profiles and how to set up and
-manage them. (7.4, 7.5)
-
-Importance of social media and digital profiles:
-
-[answer space]
-
-Set up and management:
-
-[answer space]
-
----
-
-Evidence sheet — Learning Outcome 7
-
-Assessment criteria | Assessor comments
---------------------+------------------
-7.1                 |
-7.2                 |
-7.3                 |
-7.4                 |
-7.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
----
-
-FEEDBACK FORM — UNIT 06
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessment guidance:
+6.1 Codes of practice (eg CIMSPA).
+6.2 Scope of practice — within boundaries of qualifications/experience. Limitations with special populations (no planning for them, no advertising as specialist, no long-term work).
+6.3 CPD importance: staying current, new skills, membership, insurance.
+6.4 CPD activities and progression routes.
+6.5 Personal development plan — long-term career goals, qualifications, CPD, SMART targets, review date.
 
 
 ================================================================================
-UNIT 07 — APPLIED ANATOMY AND PHYSIOLOGY FOR ACTIVITY, HEALTH AND FITNESS
-Unit accreditation number: D/617/1707
-Version 2.0 April 2021
+UNIT 07 — APPLIED ANATOMY AND PHYSIOLOGY FOR ACTIVITY, HEALTH AND FITNESS (D/617/1707)
+Level 3 | 50 GLH | Mandatory | Primary evidence: PROFESSIONAL DISCUSSION
 ================================================================================
 
-Overview:
-The unit covers the knowledge a Personal Trainer needs around anatomy, physiology,
-biomechanics and kinesiology to enable effective exercise/activity programming for a range of
-clients. This booklet allows opportunities to provide evidence for assessment criteria 1.1 to 7.6.
+Unit summary:
+This unit covers the knowledge a Personal Trainer needs around anatomy,
+physiology, biomechanics and kinesiology to enable effective exercise/activity
+programming for a range of clients.
 
-Achieved:
-Not yet achieved:
-Assessor:
-IQA:
-
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+PRIMARY EVIDENCE FORM: Professional discussion. The learner completes a
+pre-printed Professional Discussion Form with detailed written answers.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 1 — Understand the structure and function of bones
 --------------------------------------------------------------------------------
 
-Task 1: Name the 5 different categories of bone and provide an example of each. (1.1)
+The learner can:
+1.1 Describe and give examples of the different types and classifications of bone
+1.2 Describe the function of bone tissue
+1.3 Explain the features of a long bone
+1.4 Describe the structure and functions of the vertebral column and movement available
+1.5 Describe the process of bone development and growth
+1.6 Explain the bone remodelling process
+1.7 Discuss the factors that can influence bone density
+1.8 Describe the effects of exercise on bones
 
-1.         2.         3.         4.         5.
-eg         eg         eg         eg         eg
-
----
-
-Task 2: Below, describe compact and cancellous bone. (1.1)
-
-Compact:
-
-[answer space]
-
-Cancellous:
-
-[answer space]
-
----
-
-Task 3: In the space below, draw a long bone and label it with the following structures:
-articular cartilage, epiphysis, diaphysis, periosteum, epiphyseal plates and bone marrow. (1.3)
-
-[diagram space]
-
----
-
-Task 4: Explain each part of the bone you have labelled. (1.3)
-
-Bone structure      | Explanation of structure
---------------------+-------------------------
-Articular cartilage |
-Epiphysis           |
-Diaphysis           |
-Periosteum          |
-Epiphyseal plates   |
-Bone marrow         |
-
----
-
-Task 5: The skeletal system has a number of key functions. Below, describe 6 functions of
-bone tissue. (1.2)
-
-1.
-2.
-3.
-4.
-5.
-6.
-
----
-
-Task 6: The spine is divided into 5 different sections. (1.4)
-i) Label the following diagram and state how many vertebrae make up each section.
-ii) Describe the movements available at each section.
-iii) Describe 4 functions of the vertebral column.
-
-[diagram labelling space]
-
-Functions of the vertebral column:
-1.
-2.
-3.
-4.
-
-Movements available at each section:
-
-[answer space]
-
----
-
-Task 7: Describe the lifecycle of a bone from birth to ageing. (1.5)
-
-[answer space]
-
----
-
-Task 8a: Describe the process of bone remodelling when there has been an injury, or the bone
-is adapted due to stresses placed on it. (1.6)
-
-[answer space]
-
----
-
-Task 8b: Explain the impact of acute and chronic exercise on the bones. (1.8)
-
-[answer space]
-
----
-
-Task 9: Bone density can be impacted by a number of factors. Use the table below to describe
-the factors that impact on bone density. (1.7)
-
-Factor                            | How does each factor impact on bone density?
-----------------------------------+---------------------------------------------
-Weight and non-weight bearing     |
-exercises                         |
-Hormones                          |
-Calcium and Vitamin D             |
-Gender                            |
-Age                               |
-Race and family history           |
-Lifestyle factors                 |
-Medication                        |
-Nutrition                         |
-Osteoblasts and Osteoclasts       |
-
----
-
-Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-1.6                 |
-1.7                 |
-1.8                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+1.1 Compact and cancellous (types); long, short, flat, sesamoid, irregular (classifications).
+1.2 Support, protection, movement, mineral storage, blood cell production, energy storage.
+1.3 Articular cartilage, epiphysis, diaphysis, periosteum, epiphyseal plates, bone marrow.
+1.4 Movements at cervical, thoracic, lumbar, sacral, coccygeal; protection of spinal cord; support; central axis; posture.
+1.5 Intramembranous and endochondral ossification; osteoblasts, osteoclasts, osteocytes.
+1.6 Bone resorption and formation; calcium homeostasis; micro-damage repair.
+1.7 Hormones, calcium, vitamin D, gender, age, race, family history, lifestyle.
+1.8 Weight-bearing vs non; acute and chronic effects; neutral spine; ROM; stress transmission.
 
 --------------------------------------------------------------------------------
-LEARNING OUTCOME 2 — Understand the structure and function of joints and their relation
-to exercise
+LEARNING OUTCOME 2 — Understand the structure and function of joints and their relation to exercise
 --------------------------------------------------------------------------------
 
-Task 1: There are 3 categories of joint in the body. Name them and describe the structure
-and function of each one. (2.1)
+The learner can:
+2.1 Describe the structure and function of the three types of joint
+2.2 Explain the types and characteristics of synovial joints
+2.3 Identify the movements of the major joints of the body
+2.4 Identify the anatomical planes of movement
+2.5 Explain the different anatomical terms of location
+2.6 Describe the factors that contribute to the stability of a joint
+2.7 Describe the effect of exercise on joints
 
-1.
-2.
-3.
-
----
-
-Task 2: Label the synovial joint below and describe the structure and function of the joint
-in the following table. (2.2)
-
-Feature                    | Structure | Function
----------------------------+-----------+---------
-Articular/hyaline cartilage|           |
-Two-layered joint capsule  |           |
-Synovial fluid             |           |
-Ligament                   |           |
-Synovial membrane          |           |
-
----
-
-Task 3: Describe the types of joint and types of movement at each major joint in the body.
-(2.3)
-
-Ankle:
-Knee:
-Hip:
-Pelvis:
-Elbow:
-Wrist:
-
----
-
-Task 4: Identify below the 3 planes of movement and the movements available in each. (2.4)
-
-Plane of movement | Movements available
-------------------+--------------------
-                  |
-                  |
-                  |
-
----
-
-Task 5: Below, define the location of the following anatomical parts using appropriate
-anatomical language. (2.5)
-
-Anatomical part | Description of location
-----------------+---------------------------
-eg 5th Metatarsal | Lateral aspect of the foot, distal to calcaneus, superficial
-Rectus Abdominis  |
-Patella           |
-Vastus Medialis   |
-Tricep Brachii    |
-Coccyx Bone       |
-
----
-
-Task 6: Describe the planes of movement in the concentric phase of contraction for the
-following exercises. (2.5)
-
-Exercise          | Concentric phase movements
-------------------+---------------------------
-Lateral pulldown  |
-Bicep curl        |
-Back squat        |
-Press up          |
-
----
-
-Task 7: Most joints in the body are generally stable. The shoulder joint is considered an
-unstable joint that can be easily dislocated. Below, explain the factors that contribute to
-joint stability. (2.6)
-
-[answer space]
-
----
-
-Task 8: In the table below, describe the short-term and long-term effects of exercise on
-joints. (2.7)
-
-Short-term responses | Long-term adaptations
----------------------+----------------------
-                     |
-                     |
-
----
-
-Evidence sheet — Learning Outcome 2
-
-Assessment criteria | Assessor comments
---------------------+------------------
-2.1                 |
-2.2                 |
-2.3                 |
-2.4                 |
-2.5                 |
-2.6                 |
-2.7                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+2.1 Fibrous, cartilaginous, synovial.
+2.2 Hinge, pivot, ball and socket, saddle, condyloid, gliding; capsule, membrane, fluid, ligaments, tendons, cartilage.
+2.3-2.5 Major joints: ankle, knee, hip, pelvis, spine, shoulder, elbow, wrist. Movements and planes.
+2.6 Active (muscles, tendons) and passive (bones, cartilage, ligaments) structures; posture; impact; body weight.
+2.7 Short-term responses and long-term adaptations.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 3 — Understand the muscular system and its relation to exercise
 --------------------------------------------------------------------------------
 
-Task 1: Below, describe the structure and function of the 3 types of muscle found in the
-body. (3.1)
+The learner can:
+3.1 Describe the structure and function of the different classifications of muscle tissue
+3.2 Compare the properties of the different muscle fibre types
+3.3 Describe the roles of muscle origins and insertions
+3.4 Identify the origins, insertions and actions of the major muscles of the body
+3.5 Explain the different roles of muscles and contraction types, with examples
+3.6 Describe the classification of levers
+3.7 Explain the principles of muscle contraction
+3.8 Describe the effects of exercise on muscles
 
-Cardiac:
-
-[answer space]
-
-Smooth:
-
-[answer space]
-
-Skeletal:
-
-[answer space]
-
----
-
-Task 2a: Use the following labels to help label the picture below: (3.1)
-Bone, Tendon, Epimysium, Perimysium, Fascicle, Muscle Fibre, Endomysium, Blood Vessel
-
-[diagram labelling space]
-
----
-
-Task 2b: Describe the following different types of connective tissue: (3.1)
-
-Epimysium:
-Perimysium:
-Endomysium:
-
----
-
-Task 3: Complete the table below, comparing the characteristics of various muscle fibres and
-providing examples of exercises where these would be required. (3.2)
-
-Types of muscle fibre | Characteristics | Give 2 examples where these are used in exercise
-----------------------+-----------------+--------------------------------------------------
-Type 1                |                 |
-Type 2a               |                 |
-Type 2b               |                 |
-
----
-
-Task 4: Describe the roles muscles can play during contraction. (3.3)
-
-Agonist:
-Antagonist:
-Synergist:
-Fixator:
-
----
-
-Task 5: Muscles have an origin and insertion. Define below what the terms origin and
-insertion mean and how they enable joint movement to occur. (3.4)
-
-[answer space]
-
----
-
-Task 6: Using the table below, write down the origin, insertion and muscle action(s) of the
-following muscles: (3.4)
-
-ROTATOR CUFF
-Muscle name    | Origin | Insertion | Muscle action(s)
----------------+--------+-----------+-----------------
-Supraspinatus  |        |           |
-Infraspinatus  |        |           |
-Subscapularis  |        |           |
-Teres Minor    |        |           |
-
-CORE AND ABDOMINAL MUSCLES
-Muscle name          | Origin | Insertion | Muscle action(s)
----------------------+--------+-----------+-----------------
-Pelvic Floor         |        |           |
-Transverse Abdominis |        |           |
-Multifidus           |        |           |
-Internal Obliques    |        |           |
-External Obliques    |        |           |
-Rectus Abdominus     |        |           |
-Diaphragm            |        |           |
-
-SHOULDER GIRDLE AND SPINE
-Muscle name        | Origin | Insertion | Muscle action(s)
--------------------+--------+-----------+-----------------
-Levator Scapulae   |        |           |
-Illiocostalis      |        |           |
-Longissimus        |        |           |
-Spinalis           |        |           |
-Multifidus         |        |           |
-Quadratus Lumborum |        |           |
-Pectoralis Minor   |        |           |
-Serratus Anterior  |        |           |
-Trapezius          |        |           |
-Rhomboid Major     |        |           |
-Rhomboid Minor     |        |           |
-Teres Major        |        |           |
-
-HIP FLEXORS, ADDUCTORS AND ABDUCTORS
-Muscle name         | Origin | Insertion | Muscle action(s)
---------------------+--------+-----------+-----------------
-Rectus Femoris      |        |           |
-Iliacus             |        |           |
-Psoas Major         |        |           |
-Adductor Magnus     |        |           |
-Adductor Brevis     |        |           |
-Adductor Longus     |        |           |
-Pectineus           |        |           |
-Gracilis            |        |           |
-Sartorius           |        |           |
-Gluteus Medius      |        |           |
-Gluteus Minimus     |        |           |
-Piriformis          |        |           |
-Tensor Fascia Latae |        |           |
-
----
-
-Task 7: Explain the different types of muscle contractions and give examples. (3.5)
-
-Types of muscle contraction            | Explain this type of contraction | Provide 2 examples in sport and exercise
----------------------------------------+----------------------------------+-----------------------------------------
-Isokinetic                             |                                  |
-Isometric                              |                                  |
-Isotonic (Concentric, Eccentric)       |                                  |
-
----
-
-Task 8: In the table, describe how levers work in the body and give examples. (3.6)
-
-Lever type | Location and description | Examples in exercise
------------+-------------------------+---------------------
-Type 1     |                         |
-Type 2     |                         |
-Type 3     |                         |
-
----
-
-Task 9: In the space below, explain the principles of muscle contraction. (3.7)
-
-All or Nothing Principle:
-Sliding Filament Theory:
-Stretch Reflex:
-Inverse Stretch Reflex:
-Principle of Motor Unit Recruitment:
-
----
-
-Task 10: Below, explain the long-term and short-term responses to exercise on the muscular
-system. (3.8)
-
-Short-term responses:
-
-[answer space]
-
-Long-term responses:
-
-[answer space]
-
----
-
-Task 11: Describe both short-term and long-term responses to exercise. (3.8)
-
-Factor      | Explanation of impacts
-------------+-----------------------
-Short term  |
-Long-term   |
-
----
-
-Evidence sheet — Learning Outcome 3
-
-Assessment criteria | Assessor comments
---------------------+------------------
-3.1                 |
-3.2                 |
-3.3                 |
-3.4                 |
-3.5                 |
-3.6                 |
-3.7                 |
-3.8                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+3.1 Cardiac, skeletal, smooth; epimysium, perimysium, endomysium.
+3.2 Slow-twitch (type 1), fast-twitch (type 2a), fast glycolytic (type 2b).
+3.3 Origin, insertion, role in joint movement.
+3.4 Rotator cuff (SITS); shoulder girdle; spinal extensors; hip flexors; adductors; abductors; abdominals; intercostals; core and pelvic floor; local/deep vs global/superficial.
+3.5 Agonist, antagonist, synergist, fixators; isotonic (concentric/eccentric), isometric, isokinetic.
+3.6 Classes 1, 2, 3.
+3.7 All-or-none law, sliding filament theory, stretch reflex, inverse stretch reflex, Henneman's size principle.
+3.8 Short-term: fatigue, DOMS, lactic acid, oxygen uptake, blood flow. Long-term: hypertrophy, power, endurance, tendon strength, myoglobin, glycogen, mitochondria, aerobic enzymes, capillaries, lactic acid tolerance.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 4 — Understand the structure and function of biological systems
 --------------------------------------------------------------------------------
 
-Task 1: Label the diagram of the heart below and describe the functions of each feature in
-the table. (4.1)
-
-[diagram labelling space]
-
-Heart structure          | Function
--------------------------+---------
-Left and Right Atria     |
-Left and Right Ventricles|
-Septum                   |
-Tricuspid Valve          |
-Mitral (Bicuspid Valve)  |
-Semi-lunar Valves        |
-Aorta                    |
-Vena Cava                |
-Pulmonary Artery         |
-Pulmonary Veins          |
-
----
-
-Task 2: The heart is made up of 3 layers. Describe each layer and its function. (4.1)
-
-Layer 1:
-Layer 2:
-Layer 3:
-
----
-
-Task 3: Describe the following terms, using diagrams where necessary. (4.1)
-
-Term               | Description | Diagram
--------------------+-------------+--------
-Cardiac cycle      |             |
-Cardiac conduction |             |
-
----
-
-Task 4: Describe the 4 main functions of the cardiovascular system. (4.1)
-
-Function 1:
-Function 2:
-Function 3:
-Function 4:
-
----
-
-Task 5: Label the diagram of the respiratory system and describe the functions of each area
-in the table. (4.2)
-
-[diagram labelling space]
-
-Area of respiratory system | Function
----------------------------+---------
-Lungs                      |
-Pharynx                    |
-Larynx                     |
-Trachea                    |
-Bronchi                    |
-Bronchioles                |
-Alveoli                    |
-
----
-
-Task 6: Describe the 4 main functions of the respiratory system. (4.2)
-
-Function 1:
-Function 2:
-Function 3:
-Function 4:
-
----
-
-Task 7: In the nervous system, there are different methods of sending and receiving messages
-within the body. Describe the following terms and how they relate to the nervous system. (4.3)
-
-Central Nervous System:
-Peripheral Nervous System:
-Somatic:
-Autonomic Sympathetic:
-Autonomic Parasympathetic:
-Motor Unit:
-Golgi Tendon Organ:
-Muscle Spindles:
-Intero and Exteroceptors:
-Nerve Cells:
-
----
-
-Task 8: Describe below the role of hormones in the body, including information on hormones
-and glands that play a key role in exercise and fitness. (4.4)
-
-[answer space]
-
----
-
-Task 9: In the tables below, explain the immediate and long-term effects of exercise on each
-of the following biological systems. (4.5)
-
-CARDIOVASCULAR SYSTEM
-Short-term effects on the cardiovascular system | Explanation
-------------------------------------------------+-------------
-                                                |
-
-Long-term effects on the cardiovascular system | Explanation
------------------------------------------------+-------------
-                                               |
-
-RESPIRATORY SYSTEM
-Short-term effects on the respiratory system | Explanation
----------------------------------------------+-------------
-                                             |
-
-Long-term effects on the respiratory system | Explanation
---------------------------------------------+-------------
-                                            |
-
-NERVOUS SYSTEM
-Short-term effects on the nervous system | Explanation
------------------------------------------+-------------
-                                         |
-
-Long-term effects on the nervous system | Explanation
-----------------------------------------+-------------
-                                        |
-
-ENDOCRINE SYSTEM
-Short-term effects on the endocrine system | Explanation
--------------------------------------------+-------------
-                                           |
-
-Long-term effects on the endocrine system | Explanation
-------------------------------------------+-------------
-                                          |
-
----
-
-Evidence sheet — Learning Outcome 4
-
-Assessment criteria | Assessor comments
---------------------+------------------
-4.1                 |
-4.2                 |
-4.3                 |
-4.4                 |
-4.5                 |
-
-Assessor signature:
-IQA signature:
-Date:
+The learner can:
+4.1 Describe structure and function of the cardiovascular system
+4.2 Describe structure and function of the respiratory system
+4.3 Describe structure and function of the nervous system
+4.4 Describe structure and function of the endocrine system
+4.5 Explain the effects of exercise on the biological systems
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 5 — Understand the energy systems and their relation to exercise
 --------------------------------------------------------------------------------
 
-Task 1: Depending on the activity being undertaken, the body produces energy in different
-ways. Describe below the 3 methods of energy production in the body. (5.1, 5.2, 5.3)
-
-                          | Aerobic energy | Lactic acid energy system | Phosphocreatine energy system
---------------------------+----------------+---------------------------+------------------------------
-Exercise duration         |                |                           |
-Exercise intensity        |                |                           |
-Units of ATP generated    |                |                           |
-Fuels used                |                |                           |
-Waste products produced   |                |                           |
-Example activities that   |                |                           |
-use these systems         |                |                           |
-How is ATP resynthesised  |                |                           |
-in each system            |                |                           |
-Impacts of exercise on    |                |                           |
-each system               |                |                           |
-
----
-
-Evidence sheet — Learning Outcome 5
-
-Assessment criteria | Assessor comments
---------------------+------------------
-5.1                 |
-5.2                 |
-5.3                 |
-
-Assessor signature:
-IQA signature:
-Date:
+The learner can:
+5.1 Describe the different energy systems
+5.2 Explain the process of resynthesis of ATP within the different energy systems
+5.3 Describe the effects of exercise on the energy systems
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 6 — Understand the effect of exercise variables on human movement
 --------------------------------------------------------------------------------
 
-Task 1: In terms of exercise and functional movement, describe below what the following
-factors are and how they can influence or impact on exercise. (6.1)
+The learner can:
+6.1 Describe the exercise variables that can have an effect on biomechanics and kinesiology
+6.2 Define and give examples of open and closed chain kinetic movements
+6.3 Compare open and closed chain exercises and describe the advantages and disadvantages of both
 
-Centre of gravity:
-Momentum:
-Force:
-Planes of motion:
-Length-tension relationships:
-Levers:
-
----
-
-Task 2: In the table below, define what open and closed chain exercises are, provide examples
-of them and list advantages and disadvantages of both. (6.2, 6.3)
-
-Definition of open chain exercise    | Examples of open chain exercise
--------------------------------------+--------------------------------
-                                     |
-
-Advantages of open chain exercise    | Disadvantages of open chain exercise
--------------------------------------+-------------------------------------
-                                     |
-
-Definition of closed chain exercise  | Examples of closed chain exercise
--------------------------------------+----------------------------------
-                                     |
-
-Advantages of closed chain exercise  | Disadvantages of closed chain exercise
--------------------------------------+---------------------------------------
-                                     |
-
----
-
-Evidence sheet — Learning Outcome 6
-
-Assessment criteria | Assessor comments
---------------------+------------------
-6.1                 |
-6.2                 |
-6.3                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment guidance:
+6.1 Levers, centre of gravity, momentum, force, planes of motion, length-tension relationships.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 7 — Understand the effect of exercise on posture and core stability
 --------------------------------------------------------------------------------
 
-Task 1: Below, explain 3 benefits of core stability training. (7.1, 7.3)
+The learner can:
+7.1 Explain the benefits of core stabilisation
+7.2 Describe the role of local and global muscles in core stability
+7.3 Explain the effect of exercise on posture
+7.4 Describe common postural conditions and potential problems that may occur
+7.5 Explain the positive and negative impacts of exercise on posture
+7.6 Describe the medical conditions associated with dysfunctional stabilisation
 
-1.
-2.
-3.
+Assessment guidance:
+7.1 Injury prevention, physical function, spine stability, whole-body stability.
+7.2 Deep/local (transverse abdominis, pelvic floor, lumbar multifidus, diaphragm); superficial/global (rectus abdominis, erector spinae).
+7.4 Kyphosis, lordosis, scoliosis, flat back, sway back.
+7.6 Low back pain, osteoarthritis, bulging/herniated/ruptured discs, sciatica, knee pain, incontinence.
 
----
+--------------------------------------------------------------------------------
+Pre-printed Professional Discussion Form (Unit 7)
+--------------------------------------------------------------------------------
 
-Task 2a: Describe the roles of local and global muscles in body stabilisation and how this
-can reduce the risk of injury. (7.2)
+Qualification: NCFE Level 3 Diploma in Personal Training
+Unit title: Unit 7 — Applied Anatomy and Physiology for Activity, Health and Fitness
+Name: | Date:
+Learner will provide detailed and well-written answers to meet learning outcomes for the unit.
 
-Must include:
-- deep/local (transverse abdominis, pelvic floor muscles, lumbar multifidius and diaphragm)
-- superficial/global (rectus abdominis and erector spinae)
+Skeletal System & Bone Physiology
+  - Name and give examples of the five categories of bones found in the human body.
+  - Explain the structure and function of compact vs cancellous bone.
+  - Describe the key components of a long bone and their functions (eg epiphysis, periosteum).
+  - List six key functions of bone tissue and describe the lifecycle of a bone.
 
-[answer space]
+Joints, Movements and Biomechanics
+  - Describe the main types of joints and their associated movements.
+  - Explain the structure and function of synovial joints (eg cartilage, synovial fluid).
+  - Define the three planes of movement and provide examples.
+  - How do anatomical terms (eg anterior, distal) help in identifying muscle location and function?
 
----
+Muscular System and Function
+  - Compare the structure and function of cardiac, smooth and skeletal muscle.
+  - Describe the characteristics of different muscle fibre types and give examples of where they are used in exercise.
+  - Explain the roles of agonist, antagonist, synergist and fixator muscles.
+  - What are the types of muscle contractions (eg concentric, eccentric) and how do they apply in training?
 
-Task 2b: Give examples of core stabilisation exercises. (7.3)
+Biological Systems & Exercise Responses
+  - Describe the structure and function of the cardiovascular and respiratory systems.
+  - Explain how the nervous and endocrine systems support movement and performance.
+  - Summarise the immediate and long-term effects of exercise on the body systems mentioned.
 
-[answer space]
+Energy Systems and Human Movement
+  - Compare the aerobic, lactic acid and ATP-PC energy systems, including duration, fuels used, and examples.
+  - How is ATP resynthesised in each energy system?
+  - Describe how exercise intensity and duration influence energy system use.
 
----
-
-Task 3: In the table below, describe common postural conditions. (7.4, 7.5)
-
-Postural condition | Describe how it is caused | Describe the issues and problems caused
--------------------+---------------------------+----------------------------------------
-Kyphosis           |                           |
-Lordosis           |                           |
-Scoliosis          |                           |
-Flat back          |                           |
-Sway back          |                           |
-
----
-
-Task 4: Explain the positive and negative impacts of exercise on posture. (7.3, 7.5)
-
-Positive impacts of exercise | Negative impacts of exercise
------------------------------+-----------------------------
-                             |
-                             |
-
----
-
-Task 5: Using the table below, describe the following medical conditions associated with
-poor or dysfunctional stabilisation, and provide possible causes. (7.6)
-
-Condition             | Description | Cause/pathology
-----------------------+-------------+----------------
-General lower back pain|             |
-Prolapsed disc        |             |
-Sciatica              |             |
-Osteoarthritis        |             |
-Knee pain             |             |
-
----
-
-Evidence sheet — Learning Outcome 7
-
-Assessment criteria | Assessor comments
---------------------+------------------
-7.1                 |
-7.2                 |
-7.3                 |
-7.4                 |
-7.5                 |
-7.6                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
----
-
-FEEDBACK FORM — UNIT 07
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessor/trainer/learner declaration:
+"I confirm that I have assessed all of the work produced and have ensured that the work is that of the named learner. I have ensured that during the learning process the evidence is authentic, sufficient, valid and current to the standards required."
 
 
 ================================================================================
-UNIT 11 — NUTRITION TO SUPPORT A PHYSICAL ACTIVITY PROGRAMME
-Unit accreditation number: H/617/1711
-Version 1.0 July 2019
+UNIT 08 — CLIENT MOTIVATION AND LIFESTYLE MANAGEMENT (H/617/1708)
+Level 3 | 40 GLH | Mandatory | Primary evidence: workbook / professional discussion
 ================================================================================
 
-Overview:
-This unit covers the knowledge and skills a Personal Trainer needs to be able to apply the
-principles of nutrition and recommend current healthy eating guidelines to individuals. This
-booklet allows opportunities to provide evidence for assessment criteria 1.1 to 3.6.
+Unit summary:
+This unit covers the knowledge a Personal Trainer needs regarding lifestyle
+management, client motivation and health and well-being, to be able to develop
+and implement strategies to encourage long-term adherence to positive lifestyle
+practices.
 
-Achieved:
-Not yet achieved:
-Assessor:
-IQA:
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 1 — Understand how to promote behaviour change and a healthy lifestyle to clients
+--------------------------------------------------------------------------------
 
-Learner declaration:
-I have completed all sections of this assessment and I confirm that this is my own work.
-Signature:
-Date:
+The learner can:
+1.1 Identify the factors that can affect health and well-being
+1.2 Explain how to promote a healthy lifestyle to clients
+1.3 Explain the psychological factors that can influence behaviour change
+1.4 Describe behavioural change theories/models
+1.5 Explain how to identify a client's readiness to change their behaviour
+1.6 Describe intervention strategies that can facilitate positive behaviour change
+
+Assessment guidance:
+1.1 Positive/negative factors: psychological, social, physiological, barriers, diet, sedentary, smoking, alcohol, drugs, sleep, stress, work, posture.
+1.2 Healthy lifestyle: diet, socialisation, PA, weight management, work/life balance, stress, sleep.
+1.3 Psychological factors: intrinsic/extrinsic motivation, social support, peer pressure, individual needs, motives/barriers, self-efficacy, questionnaires.
+1.4 Models: arousal theories, stages of change/transtheoretical model, motivational interviewing, social cognitive theory (SCT), theory of reasoned action (TRA), self-determination theory (SDT), COM-B.
+1.5 Using one model as a guide to recognise readiness to change.
+1.6 Strategies: decisional balance sheet, fitness testing, overcoming barriers, goal setting, behavioural modification, planning for relapse, rewards, reviews, education, signposting, focusing, support systems, reinforcement, self-monitoring.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 2 — Understand how to communicate professionally
+--------------------------------------------------------------------------------
+
+The learner can:
+2.1 Describe how to communicate professionally with clients and other professionals
+2.2 Explain the importance of effective communication for the Personal Trainer
+2.3 Describe different communication techniques and how to use them
+
+Assessment guidance:
+2.1 Introduction, making connections, adapting style, accurate information, sensitivity, discretion, non-judgemental, respect, appropriate language/terminology.
+2.2 Rapport, positive experience, working relationship, repeat business, reputation, feeling valued, professionalism.
+2.3 Observation/non-verbal/body language, negotiation, open/closed questioning, motivational interviewing, reflective statements/paraphrasing/summarising, decisional balance sheet, active listening.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 3 — Understand how to address barriers to physical activity that clients may experience
+--------------------------------------------------------------------------------
+
+The learner can:
+3.1 Identify the typical barriers to physical activity that clients experience
+3.2 Describe how to strengthen a client's motivation and adherence to an exercise programme
+3.3 Explain how they would introduce clients to new activities
+3.4 Describe how different forms of communication can be used to assist clients with motivation
+3.5 Explain why it is important to form effective working relationships with clients
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 4 — Understand how to support clients to adhere to an exercise programme
+--------------------------------------------------------------------------------
+
+The learner can:
+4.1 Explain why it is important for a client to take personal responsibility for their own fitness and motivation
+4.2 Describe how to assist clients to develop their own strategy for motivation and adherence
+4.3 Explain how to set clients' short, medium and long-term goals
+4.4 Describe how to monitor and review client progress
+4.5 Explain why a client's programme may need to be revised and how this can be done
+
+Assessment guidance:
+4.3 SMART short, medium and long-term goals. Long-term goals may require a series of short and medium-term goals. Well-defined steps, specific, measurable, achievable, realistic, time-framed.
+4.4 Regular reviews — update of client details, appropriate assessment methods, likes/dislikes.
+4.5 Revise based on results/goals/individual needs/changing circumstances. Discussed and agreed with clients.
+
+
+================================================================================
+UNIT 09 — PROGRAMMING PERSONAL TRAINING SESSIONS (K/617/1709)
+Level 3 | 60 GLH | Mandatory | Primary evidence: CASE STUDY
+================================================================================
+
+Unit summary:
+This unit covers the knowledge and skills a learner needs to design, manage and
+adapt a personal training programme with adults of all ages.
+
+Evidence note: Unit 9 is part of the Case Study Template (Appendix A) alongside
+Units 4 and 5 — particularly Progression Justification (LO4 of the case study).
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 1 — Understand how to support the well-being of clients
+--------------------------------------------------------------------------------
+
+The learner can:
+1.1 Describe a range of common conditions and diseases
+1.2 Explain the purpose of pre-exercise health screening
+1.3 Identify health screening and risk stratification models
+1.4 Describe the differences between a relative and absolute contraindication to exercise
+1.5 Explain the scope of practice of the Personal Trainer, when to refer clients and the role of other professionals when offering health and well-being advice and guidance
+1.6 Describe where evidence-based reputable health and well-being advice can be sought
+
+Assessment guidance:
+1.1 Conditions: obesity, osteoporosis, mental health (stress, depression, anxiety), back pain, hypertension, angina, CHD, pre-diabetes and diabetes, arthritis, stroke, cancer, asthma, COPD, chronic fatigue, eating disorders.
+1.2 Minimise risk, maximise benefits, identify clients at risk, develop appropriate programme, level of monitoring.
+1.3 PAR-Q, PAR-Q+, organisation methods, risk stratification pyramid, logic model, Irwin and Morgan, ACSM categories, referral pathways, health commitment statement.
+1.4 Relative (benefits may outweigh risks) vs Absolute (high risk, high likelihood). Low: carry out safely. Medium: closer monitoring. High: GP referral.
+1.5 Other professionals: doctors, physiologists, physios, OTs, S&C coaches, exercise referral instructors, dietician/nutritionists.
+1.6 Reputable sources; UK Chief Medical Officer guidelines; benefits of PA; dose-response; unfamiliar conditions.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 2 — Understand the client consultation process
+--------------------------------------------------------------------------------
+
+The learner can:
+2.1 Explain informed consent and the responsibilities of the Personal Trainer
+2.2 Explain the value of the information gathered from lifestyle questionnaires
+2.3 Explain the factors to consider when selecting client assessments
+2.4 Evaluate a range of fitness assessments
+2.5 Describe the characteristics of optimal postural alignment and perform static and dynamic postural assessments
+
+Assessment guidance:
+2.4 CV, muscular strength, muscular endurance, flexibility, body composition assessments — evaluate contraindications, limitations, suitability, safety, validity, reliability.
+2.5 Static (observational postural analysis) and dynamic (transitional movement assessment — overhead squat).
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 3 — Understand how to design and tailor exercise programmes
+--------------------------------------------------------------------------------
+
+The learner can:
+3.1 Describe the considerations when designing and tailoring exercise programmes for a range of clients
+3.2 Explain how the principles of training relate to programme design, giving examples
+3.3 Explain the principles of training in relation to exercise design to improve components of fitness
+3.4 Explain the reasons for using periodisation or progressive programming and the principles behind them
+3.5 Describe a range of protocols and tools that can be used to tailor exercise programmes
+3.6 Explain the training variables that can be used to progress, regress or modify exercise for a range of clients
+3.7 Describe how to programme to minimise injury and optimise recovery
+3.8 Describe the signs and symptoms of overtraining
+
+Assessment guidance:
+3.1 Client range: sedentary, recovering from injury, overtraining, high-level performers, sport-specific, low-risk health conditions.
+3.2 Specificity, progressive overload, reversibility, adaptability, individuality, recovery time.
+3.3 Max strength (higher intensity, lower volume), muscular endurance (lower intensity, higher volume), CV endurance (low intensity, long duration), speed, flexibility, posture, body composition, core stability, motor skills.
+3.4 Periodisation: macrocycles, microcycles, mesocycles; GAS (general adaption syndrome).
+3.5 1RM-10RM, HR monitoring (max HR, RPE 6-20 or 1-10), METs, kcal/hr, visual/verbal assessment, rep ranges, HR zones.
+3.6 Rest (adaptation), reducing overtraining risk, cross-training, addressing weaknesses.
+3.7 Variety, sequence, resistance, reps, sets, rest, speed, contraction type, duration, split routines, lever length, ROM, complexity.
+3.8 Decreased performance, increased perceived effort, excessive fatigue, irritability, mood change, depression, insomnia, aches, metabolic imbalances, decreased immunity, lost motivation.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 4 — Understand a range of fitness training techniques
+--------------------------------------------------------------------------------
+
+The learner can:
+4.1 Describe a range of training methods/techniques for: cardiovascular exercise; resistance exercise; functional exercise; flexibility
+4.2 Explain the factors that may indicate intervention is needed during the observation and monitoring of a client
+4.3 Identify the variables that can be applied to maintain safety and effectiveness of the exercise
+
+Assessment guidance:
+4.1 CV (steady state, interval, fartlek), resistance (training systems, fixed and free weight), functional (movement patterns mirroring functional requirements), flexibility (static, ballistic, dynamic, PNF).
+4.2 Intervention indicators: poor technique, injury risk, H&S issues, intensity signs.
+4.3 Modification and adaptation, alternatives, regression, progression, corrective strategies.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 5 — Understand how to design and deliver different modes of exercise in a range of environments
+--------------------------------------------------------------------------------
+
+The learner can:
+5.1 Describe the different types of environment that can be used for personal training
+5.2 Identify the procedures that must be in place to ensure health and safety for personal training
+5.3 Identify possible hazards/risks in outdoor training environments and how to manage them
+5.4 Identify a range of exercises suitable for outdoor environments
+5.5 Explain how to design effective small group personal training sessions
+
+Assessment guidance:
+5.1 Indoor (gyms, studios, sports halls, client homes), outdoor (parks, fields, green gyms, trim trails).
+5.2 Risk assessments, NOP, EOP, screening, accident report forms.
+5.5 Space, equipment, timings, H&S, EAP, order, management, observation, client stages, group size/experience, individual vs group needs.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 6 — Be able to create an environment to support adherence to exercise
+--------------------------------------------------------------------------------
+
+The learner can:
+6.1 Use strategies to identify a client's readiness to change their behaviour / their stage of change
+6.2 Clarify roles and responsibilities of those involved in the programme
+6.3 Use evidence-based strategies to create a positive, motivating and empowering environment
+6.4 Apply appropriate motivational strategies to encourage long-term adherence to exercise and other positive lifestyle practices
+6.5 Identify a client's personal barrier(s) to exercise and use strategies to overcome them
+6.6 Provide advice and guidance to promote positive healthy lifestyle choices
+
+Assessment guidance:
+Observation checklist and/or written client case study covering all AC.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 7 — Be able to analyse information to plan an effective exercise programme
+--------------------------------------------------------------------------------
+
+The learner can:
+7.1 Obtain informed consent
+7.2 Select and use assessments appropriate to the client and assessment conditions
+7.3 Provide the client with correct information prior to commencing any physical assessment(s): correct procedures, protocols and risks
+7.4 Perform client physical assessment in a safe and effective manner
+7.5 Evaluate results/recorded data using accepted criteria and develop a summary profile of the client
+7.6 Explain the findings to the client and offer advice and guidance to promote positive lifestyle choices
+7.7 Plan SMART goals linked to the client's needs, wants and motivators
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 8 — Be able to plan the delivery of different personal training sessions
+--------------------------------------------------------------------------------
+
+The learner can:
+8.1 Plan timings and sequences for personal training sessions
+8.2 Select appropriate teaching strategies to enhance client performance
+8.3 Select and vary modality and intensity of exercise
+8.4 Select the equipment/resources required
+8.5 Link session to client goals (short/medium/long-term)
+8.6 Select warm-up and cool-down activities appropriate to the session/individual
+
+Assessment guidance:
+Evidence must include: plan for gym/studio/sports hall session; plan for outdoor/client's home session; plan for individual session; plan for small group session.
+
+
+================================================================================
+UNIT 10 — DELIVERING PERSONAL TRAINING SESSIONS (D/617/1710)
+Level 3 | 70 GLH | Mandatory | Primary evidence: OBSERVATION
+================================================================================
+
+Unit summary:
+This unit covers the skills and knowledge a Personal Trainer needs to deliver
+exercise and physical activity training sessions to adults of all ages.
+
+Evidence note: Unit 10 is primarily assessed by OBSERVATION (minimum 2
+occasions, different environments, with an individual and a small group).
+Written evidence alone does NOT meet this unit.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 1 — Know how to conduct themselves and portray a professional image
+--------------------------------------------------------------------------------
+
+The learner can:
+1.1 Explain how the Personal Trainer can portray a professional image
+1.2 Identify behaviours that would be deemed unprofessional
+1.3 Explain the professional ethics that the Personal Trainer is expected to adhere to
+1.4 Explain the importance of maintaining high standards of professional and ethical conduct and the consequences of not doing so
+1.5 Explain the guidelines for hands-on contact with clients
+1.6 Explain what is meant by a 'conflict of interest', giving examples in relation to personal training
+1.7 Explain the benefits of continuing professional development
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 2 — Be able to prepare clients for personal training sessions
+--------------------------------------------------------------------------------
+
+The learner can:
+2.1 Communicate with client(s) in a professional manner
+2.2 Clarify to the client(s) roles and responsibilities of the Personal Trainer for that session
+2.3 Provide information on how the proposed plan/exercises supports client goals
+2.4 Perform verbal screening
+2.5 Assess clients' state of readiness and motivation to take part in the planned exercises/physical activities
+2.6 Review and revise plan with the client, recording changes as applicable
+2.7 Show responsibility and professional duty of care to clients, ensuring client safety and well-being in line with legal responsibilities
+2.8 Implement a range of communication skills to create a positive experience and build rapport
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 3 — Be able to use appropriate teaching methods to instruct a range of fitness training techniques
+--------------------------------------------------------------------------------
+
+The learner can:
+3.1 Use appropriate teaching methods to instruct a range of fitness training techniques: cardiovascular; resistance (free weights); resistance (fixed weights); flexibility
+3.2 Use observation and monitoring skills during the session to ensure safety and effectiveness for clients
+
+Assessment guidance:
+Minimum 2 observations (eg small group in sports hall, individual in gym).
+3.1 Must include:
+  - CV: minimum 2 of interval, fartlek, continuous
+  - Resistance: minimum 4 techniques — appropriate to client, including free and fixed weights, and functional exercises
+  - Flexibility: minimum 3 from static, ballistic, dynamic, PNF — at least 1 PNF
+Demonstrations must be used where appropriate. Learners must demonstrate correct lifting and passing, dead lifting the barbell safely, and spotting. Explanations given to client about the training system and exercise.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 4 — Be able to review personal training sessions
+--------------------------------------------------------------------------------
+
+The learner can:
+4.1 Evaluate a personal training session
+4.2 Review and revise client targets and monitor progress
+4.3 Review and revise programme and adapt goals as appropriate
+4.4 Use strategies to maintain contact and motivate clients between sessions
+
+Assessment guidance:
+4.1 Review against session aims, SMART goals, activities, participant performance, own performance (preparation, delivery), H&S.
+4.2-4.3 Review goals based on outcomes and own evaluation plus feedback.
+4.4 Phone calls, emails, social media.
+
+
+================================================================================
+UNIT 11 — NUTRITION TO SUPPORT A PHYSICAL ACTIVITY PROGRAMME (H/617/1711)
+Level 3 | 40 GLH | Mandatory | Primary evidence: WORKBOOK + FOOD DIARY
+================================================================================
+
+Unit summary:
+This unit covers the knowledge and skills a Personal Trainer needs to be able
+to apply the principles of nutrition and recommend current healthy eating
+guidelines to individuals.
+
+Evidence note: Unit 11 requires BOTH the workbook (LOs 1-2) AND a completed
+food diary with analysis (LO3 — see Appendix C). One without the other is
+incomplete.
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 1 — Understand the importance of nutrition for health and well-being
 --------------------------------------------------------------------------------
 
-Task 1: Explain the influence of nutrition on health, considering the impact of poor
-nutrition/deficiencies and their links to chronic disease conditions. (1.1)
+The learner can:
+1.1 Explain the influence of nutrition on health
+1.2 Identify the main nutrients and their food sources
+1.3 Explain the importance and functions of: hydration; macronutrients; micronutrients
+1.4 Explain how to use nutrients to fuel activity
+1.5 Describe types of fluid for different activities/durations
+1.6 Describe current healthy eating advice that underpins a healthy diet and apply it to a client whose goal may be: weight management and health; hypertrophy; sports performance
 
-[answer space]
+Assessment guidance:
+1.1 Impact of poor nutrition/deficiencies on chronic disease (obesity, cholesterol, omega 3/6, cancer risk).
+1.2 Carbohydrates (simple, complex), fats (saturated, unsaturated, essential fatty acids), protein, vitamins, minerals, water.
+1.3 Macronutrients (carbs, fats, protein), micronutrients (fat/water-soluble vitamins, minerals), hydration and water functions.
+1.4 Aerobic and anaerobic activities — before, during, after exercise.
+1.5 Isotonic, hypertonic, hypotonic.
+1.6 UK government healthy eating guidelines applied to: weight management (loss/gain/maintenance, fat loss), hypertrophy, sports performance. Credible sources required.
 
----
-
-Task 2: Use the table below to identify nutrients and their food sources and explain the
-functions and importance of each nutrient. (1.2, 1.3)
-
-Nutrient | Food source | Functions and importance
----------+-------------+------------------------
-1.       |             |
-2.       |             |
-3.       |             |
-4.       |             |
-5.       |             |
-6.       |             |
-
----
-
-Task 3: As food is consumed and broken down, it is used to produce energy for cells. Explain
-how food is used to produce energy and how nutrition supports people before, during and after
-activity. (1.4)
-
-How is food used for the following?
-
-Aerobic energy production:
-Anaerobic energy production:
-Before activity:
-During activity:
-After activity:
-
----
-
-Task 4: Fluid is essential before, during and after sport. Explain the role of isotonic,
-hypertonic and hypotonic fluid drinks. (1.5)
-
-Types of fluid | Explanation – role, function, when they should be used and how they can help athletes
----------------+-------------------------------------------------------------------------------------
-Isotonic       |
-Hypertonic     |
-Hypotonic      |
-
----
-
-Task 5: Describe the current advice for healthy eating and weight management. You must use
-credible sources of information. (1.6)
-
-[answer space]
-
----
-
-Task 6: Using credible and reliable sources of information, describe the nutritional guidance
-for hypertrophy and sports performance. (1.6)
-
-[answer space]
-
----
+Pre-printed workbook tasks (Unit 11):
+Task 1: Explain the influence of nutrition on health, considering the impact of poor nutrition/deficiencies and their links to chronic disease conditions. (1.1)
+Task 2: Use the table below to identify nutrients and their food sources and explain the functions and importance of each nutrient. (1.2, 1.3)
+  Table — Nutrient | Food Source | Functions and importance (6 rows)
+Task 3: Explain how food is used to produce energy and how nutrition supports people before, during and after activity. (1.4)
+  Table — How is food used for: Aerobic energy production / Anaerobic energy production / Before activity / During activity / After activity
+Task 4: Explain the role of isotonic, hypertonic and hypotonic fluid drinks. (1.5)
+  Table — Types of fluid | Explanation — role, function, when to use, how they help athletes: Isotonic / Hypertonic / Hypotonic
+Task 5: Describe the current advice for healthy eating and weight management. Credible sources required. (1.6)
+Task 6: Using credible sources, describe the nutritional guidance for hypertrophy and sports performance. (1.6)
 
 Evidence sheet — Learning Outcome 1
-
-Assessment criteria | Assessor comments
---------------------+------------------
-1.1                 |
-1.2                 |
-1.3                 |
-1.4                 |
-1.5                 |
-1.6                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 1.1 | 1.2 | 1.3 | 1.4 | 1.5 | 1.6
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 2 — Understand national recommendations for providing nutritional advice
 --------------------------------------------------------------------------------
 
-Task 1: Explain the limitations and professional boundaries for offering nutritional advice
-to clients and why complex dietary changes should always be referred to a registered
-dietician. (2.1, 2.7)
+The learner can:
+2.1 Explain professional role boundaries with regard to offering nutritional advice to clients
+2.2 Explain the importance of communicating health risks associated with weight loss fads and popular diets to clients
+2.3 Evaluate the potential health and performance implications of severe energy restriction, weight loss and weight gain
+2.4 Explain how to identify clients at risk of nutritional deficiencies
+2.5 Explain how cultural and religious dietary practices can influence nutritional advice
+2.6 Describe safety, effectiveness and contraindications relating to protein and vitamin supplementation
+2.7 Explain why detailed or complex dietary analysis that incorporates major dietary change should always be referred to a registered dietician
 
-[answer space]
-
----
-
-Task 2: Explain why it is important to communicate the health risks associated with weight
-loss fads and other popular diets to clients. (2.2)
-
-[answer space]
-
----
-
-Task 3: Evaluate the potential health and performance implications of severe energy
-restrictions, weight loss and weight gain. (2.3)
-
-[answer space]
-
----
-
-Task 4: Explain how you, as a Personal Trainer, would identify clients at risk of nutritional
-deficiencies. (2.4)
-
-[answer space]
-
----
-
-Task 5: Explain how cultural and religious dietary practices can influence nutritional
-advice. (2.5)
-
-[answer space]
-
----
-
-Task 6: Using credible sources of information, complete the table below to describe the
-safety, effectiveness and contraindications with regard to protein and vitamin supplementation.
-(2.6)
-
-Nutritional aid          | Safety, effectiveness and contraindications
--------------------------+--------------------------------------------
-Protein supplementation  |
-Vitamin supplementation  |
-
----
+Pre-printed workbook tasks (Unit 11):
+Task 1: Explain the limitations and professional boundaries for offering nutritional advice to clients and why complex dietary changes should always be referred to a registered dietician. (2.1, 2.7)
+Task 2: Explain why it is important to communicate the health risks associated with weight loss fads and other popular diets to clients. (2.2)
+Task 3: Evaluate the potential health and performance implications of severe energy restrictions, weight loss and weight gain. (2.3)
+Task 4: Explain how you, as a Personal Trainer, would identify clients at risk of nutritional deficiencies. (2.4)
+Task 5: Explain how cultural and religious dietary practices can influence nutritional advice. (2.5)
+Task 6: Complete the table to describe the safety, effectiveness and contraindications with regard to protein and vitamin supplementation. (2.6)
+  Table — Nutritional aid | Safety, effectiveness and contraindications:
+    Protein supplementation
+    Vitamin supplementation
 
 Evidence sheet — Learning Outcome 2
-
-Assessment criteria | Assessor comments
---------------------+------------------
-2.1                 |
-2.2                 |
-2.3                 |
-2.4                 |
-2.5                 |
-2.6                 |
-2.7                 |
-
-Assessor signature:
-IQA signature:
-Date:
+Assessment criteria: 2.1 | 2.2 | 2.3 | 2.4 | 2.5 | 2.6 | 2.7
 
 --------------------------------------------------------------------------------
 LEARNING OUTCOME 3 — Be able to use nutritional assessment tools and strategies
 --------------------------------------------------------------------------------
 
-The following tasks require additional work to be included in your portfolio. It must be
-professionally presented and based on a real client.
+The learner can:
+3.1 Select nutritional assessment tools to identify clients' dietary habits
+3.2 Calculate the estimated resting metabolic rate and energy requirements to support the achievement of client goals
+3.3 Analyse clients' dietary habits and identify areas for improvement
+3.4 Select appropriate strategies to support and encourage healthy eating
+3.5 Provide clients with appropriate information/signposting according to individual health and nutrition needs
+3.6 Ensure that the nutritional goals support and integrate with other programme components
 
-You must carry out a consultation with a personal training client. You must select a range of
-appropriate nutritional tools to assess your client's dietary habits and identify energy and
-nutritional requirements to meet their individual goals and needs.
+Assessment guidance:
+Consultation with a real PT client. Tools for assessment (food diary, food recall/frequency questionnaires, body composition). Estimate TDEE — RMR (eg Harris-Benedict), thermic effect of feeding, PA. Credible vs non-credible sources.
+
+Pre-printed workbook tasks (Unit 11 — LO3):
+The following tasks require additional work to be included in your portfolio. It must be professionally presented and based on a real client. You must carry out a consultation with a personal training client. Select a range of appropriate nutritional tools to assess your client's dietary habits and identify energy and nutritional requirements to meet their individual goals and needs.
 
 Task:
 a) Select a nutritional assessment tool to identify your client's nutritional habits. (3.1)
-
-b) Calculate the estimated resting metabolic rate and energy requirements to support the
-achievement of your client's goals. (3.2)
-
+b) Calculate the estimated resting metabolic rate and energy requirements to support the achievement of your client's goals. (3.2)
 c) Analyse your client's dietary habits and identify areas for improvement. (3.3)
-
 d) Select appropriate strategies to support and encourage healthy eating. (3.4)
-
-e) Provide your client with appropriate information according to individual health and
-nutrition needs — ensure you retain this information in your portfolio. (3.5)
-
-f) Work with your client to set suitable SMART nutritional goals, ensuring that they support
-and integrate with other programme components, eg fitness component. (3.4, 3.6)
-
-[Portfolio evidence to be attached for all of the above]
-
----
+e) Provide your client with appropriate information according to individual health and nutrition needs — ensure you retain this information in your portfolio. (3.5)
+f) Work with your client to set suitable SMART nutritional goals, ensuring that they support and integrate with other programme components, eg fitness component. (3.4, 3.6)
 
 Evidence sheet — Learning Outcome 3
-
-Assessment criteria | Assessor comments
---------------------+------------------
-3.1                 |
-3.2                 |
-3.3                 |
-3.4                 |
-3.5                 |
-3.6                 |
-
-Assessor signature:
-IQA signature:
-Date:
-
----
-
-FEEDBACK FORM — UNIT 11
-
-Assessment decision: Achieved / Not yet achieved
-
-Comments/feedback:
-
-[feedback space]
-
-Assessor signature:          Date:
-Learner signature:           Date:
-IQA signature:               Date:
-EQA signature:               Date:
+Assessment criteria: 3.1 | 3.2 | 3.3 | 3.4 | 3.5 | 3.6
 
 
 ================================================================================
-END OF ALL NCFE WORKBOOKS
-NCFE Level 3 Diploma in Gym Instructing and Personal Training (603/4388/6)
-NCFE © Copyright 2019–2022. All rights reserved worldwide.
+UNIT 12 — BUSINESS ACUMEN FOR PERSONAL TRAINERS (K/617/1712)
+Level 3 | 35 GLH | Mandatory | Primary evidence: BUSINESS PLAN
+================================================================================
+
+Unit summary:
+This unit covers the knowledge and skills a Personal Trainer needs to grow a
+successful personal training business. This includes the use of technology to
+support the personal training business.
+
+Evidence note: Unit 12 is assessed through a business plan (Appendix D) plus
+supporting evidence. Business plans are the CORRECT home for this unit — they
+are NOT part of Unit 6 or any other unit.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 1 — Understand marketing strategies and techniques for a personal training business
+--------------------------------------------------------------------------------
+
+The learner can:
+1.1 Explain the role of marketing for a personal training business
+1.2 Outline how to develop a marketing plan
+1.3 Describe potential factors that may influence marketing decisions
+1.4 Compare marketing tools for a personal training business
+1.5 Identify and use different methods of market research data collection
+
+Assessment guidance:
+1.1 Marketing as a tool to identify customer needs/expectations, target markets, competitors, pricing, brand.
+1.2 Marketing plan — goals and objectives.
+1.3 Internal factors (HR, finance, operations, culture) and external (PESTLE).
+1.4 Brand awareness, self-promotion, market research (SWOT).
+1.5 Quantitative and qualitative — interviews, groups, surveys, questionnaires, experiments, observation.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 2 — Know current legislation and organisation procedures for a personal training business
+--------------------------------------------------------------------------------
+
+The learner can:
+2.1 Explain the legislative responsibilities in the workplace for the: employer; employee (Personal Trainer)
+2.2 Explain 'safeguarding' and what the Personal Trainer can do to ensure they meet legislative requirements
+2.3 Summarise equality and diversity legislation in relation to personal training
+2.4 Explain why it is important for policies and procedures to be in place, implemented and reviewed
+
+Assessment guidance:
+2.1 Data protection, confidentiality, conflict of interest, H&S at work, DBS, safeguarding, personal liability insurance, COSHH, RIDDOR, electricity at work, first aid, org policies.
+2.2 Safeguarding children and vulnerable adults — policies, procedures, DBS.
+2.3 Equality, diversity, direct/indirect discrimination, unconscious bias.
+2.4 Importance of policies/procedures being implemented and reviewed.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 3 — Understand business and financial planning for a personal training business
+--------------------------------------------------------------------------------
+
+The learner can:
+3.1 Describe the key factors to include in a business plan
+3.2 Explain the importance of key performance indicators (KPIs)
+3.3 Describe the purpose of an annual budget
+3.4 Explain the purpose of a profit and loss account and balance sheets and the information they will include
+3.5 Identify the direct and indirect costs typically incurred by a personal training business
+3.6 Explain the legal requirements for self-employed status in the UK
+
+Assessment guidance:
+3.1 Business plan: individual and organisational goals/objectives, strategies, sales, marketing, financial forecasting.
+3.2 KPIs: profit generation, support/influence, business objectives, morale, personal growth.
+3.3 Annual budget: forecasting, sales and targets, income and expenditure.
+3.4 P&L: cost and expenses, gross profit, net gain, tax. Balance sheet: fixed/current assets, liabilities, totals.
+3.5 Direct (wages, equipment, premises), indirect (marketing, advertising, fixed and variable).
+3.6 Registering a business, licences, tax and insurance legislation, financial reporting.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 4 — Understand how IT systems and technological products support a personal training business
+--------------------------------------------------------------------------------
+
+The learner can:
+4.1 Identify the different types of IT systems available to support a personal training business
+4.2 Explain current legislation that affects the use of technology
+4.3 Explain how to keep, record and manage data to meet current regulations
+4.4 Research current technological products that can be used to support and enhance the client experience
+4.5 Describe the uses and benefits of technological products for personal training
+
+Assessment guidance:
+4.1 Finance/accountancy software, marketing, sales, CRM/MIS.
+4.2 UK GDPR — keeping, recording, managing data. Regulations on contacting clients and marketing.
+4.3 Intellectual property, patents, copyrights, ethical practice.
+4.4 Wearables, pedometers, apps, client/group management, scheduling, reminders.
+4.5 Increase activity levels, motivate, focus, encourage adherence.
+
+--------------------------------------------------------------------------------
+LEARNING OUTCOME 5 — Be able to implement strategies to manage and grow a personal training business
+--------------------------------------------------------------------------------
+
+The learner can:
+5.1 Use current technological products to support, develop and manage a personal training business
+5.2 Implement and adapt strategies to successfully gain and retain clients
+5.3 Plan and review business performance in order to meet the personal training business targets
+
+Assessment guidance:
+5.1 IT products used with a real PT client. Record how technology was used, how it helped, and how the data was used to enhance/influence the client programme.
+5.2 Variety of marketing strategies for client base development/sustainability.
+5.3 Plan and review business performance; identify areas for improvement.
+
+
+================================================================================
+APPENDIX A — PRE-PRINTED CASE STUDY TEMPLATE (UNITS 4, 5, 9)
+================================================================================
+THIS IS A PRE-PRINTED ASSESSMENT TEMPLATE HANDED OUT TO LEARNERS. ANY TEXT
+LEARNERS PASTE FROM THIS TEMPLATE (HEADINGS, FIELD LABELS, INSTRUCTIONS,
+ACTIVITY DESCRIPTIONS, UNIT LABELS) IS TEMPLATE TEXT AND MUST NOT BE TREATED
+AS LEARNER WORK.
+================================================================================
+
+Case Study —
+Unit 4: Conducting Client Consultations and Gym Inductions
+Unit 5: Planning and Reviewing Gym-Based Exercise Programmes
+Unit 9: Programming Personal Training Sessions
+
+Qualification: NCFE Level 3 Diploma in Gym Instructing and Personal Training
+Unit codes: Unit 4 (F/617/4003) | Unit 5 (R/617/4006) | Unit 9 (K/617/1709)
+
+Learner Name: | Assessor Name: | Date: | Qualification Title: | Units:
+
+--- Client Information ---
+- Name:
+- Age/DOB:
+- Gender:
+- Occupation:
+
+Health and Fitness Goals:
+- Short Term Goals:
+- Long Term Goals:
+
+Medical History:
+- Current Conditions:
+- Past Injuries:
+
+Current Activity Level:
+- Sedentary: Little to no physical activity.
+- Lightly Active: Light activity 1–2 days per week.
+- Moderately Active: Regular activity 3–4 days per week.
+- Very Active: High activity 5–6 days per week.
+- Extremely Active: Intense activity daily.
+
+Dietary Habits:
+- Current meals per day:
+- Do you follow a specific diet?
+- If yes, please specify:
+
+--- Consultation (Unit 4) ---
+Barriers or Concerns:
+- What challenges might affect your fitness journey?
+
+Exercise History:
+- What exercise/activity have you done in the past?
+- What types of exercise do you enjoy?
+- Are there any exercises or activities you dislike or wish to avoid?
+- How many days a week could you commit to our sessions?
+
+--- Programme Planning (Unit 5): Beginner ---
+6-week programme design:
+
+Warm Up:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Dynamic Stretches:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Main Session Resistance:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Main Session Cardiovascular:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Main Session Bodyweight:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Cooldown:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+--- Advanced 6-week Session ---
+Warm Up:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Dynamic Stretches:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Main Session Resistance:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Main Session Cardiovascular:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Main Session Bodyweight:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+Cooldown:
+  Exercise: | Time/Sets and Reps: | Intensity/RPE:
+
+--- Progression Justification (Unit 9 — LO4) ---
+1. What changes did you make between the beginner and advanced programmes?
+   (Include changes to exercises, sets, reps, intensity, or complexity)
+
+2. Why did you make those changes?
+   (Explain how the progressions support the client's goals, ability, or motivation)
+
+3. How will you continue progressing this client beyond the 6-week plan?
+   (Write a few ideas for long-term planning)
+
+Learner Name: | Learner Signature: | Date:
+Assessor Name: | Assessor Signature: | Date:
+
+================================================================================
+END OF CASE STUDY TEMPLATE
+================================================================================
+
+
+================================================================================
+APPENDIX B — PRE-PRINTED PROGRAMME CARD TEMPLATE (UNITS 6, 10)
+================================================================================
+THIS IS A PRE-PRINTED SESSION-PLAN TEMPLATE. ALL HEADINGS AND FIELD LABELS
+BELOW ARE TEMPLATE TEXT.
+================================================================================
+
+Programme Card Level 3
+Learner Name:
+Client's name:
+
+Safety checks required (detail checks carried out and any subsequent action taken):
+Any special arrangements or adaptations to be made (in response to available time, equipment or facilities, or clients present on the day):
+
+Location of nearest telephone: | Location of nearest first aid kit: | Duty first aider:
+
+Warm up (appropriate stretches listed overleaf):
+  CV equipment/activity: | Training system: | Time: | Workload/target training zone: | Teaching points:
+
+Main CV component:
+  CV equipment/activity: | Training system: | Time: | Workload/target training zone: | Teaching points:
+
+Main resistance training section:
+  Exercise: | Training system: | Equipment: | Set/reps: | Teaching points:
+
+Cool down (appropriate stretches listed below):
+  CV equipment/activity: | Time: | Workload/target training zone: | Teaching points:
+
+Warm up stretches (diagram and time to be held):
+Cool down stretches in addition to above (diagram and time to be held):
+
+================================================================================
+END OF PROGRAMME CARD TEMPLATE
+================================================================================
+
+
+================================================================================
+APPENDIX C — PRE-PRINTED FOOD DIARY TEMPLATE + MARK SCHEME (UNIT 11)
+================================================================================
+THIS IS A PRE-PRINTED TEMPLATE HANDED TO CLIENTS TO RECORD THEIR FOOD INTAKE
+OVER 7 DAYS, PLUS THE ANALYSIS PROMPTS AND MARK SCHEME THE LEARNER USES TO
+ANALYSE THE DIARY. ALL PROMPTS, LABELS AND MARK SCHEME TEXT ARE TEMPLATE
+TEXT — NOT LEARNER WORK.
+================================================================================
+
+Food diary
+Date: ...............
+
+Please include all foods and drinks consumed each day with approximate or exact portion sizes and how the foods were cooked (eg fried, baked etc). Also include how hungry you felt and how you were feeling using the keys below.
+
+Time | Food and drinks consumed | Hunger level | Mood level
+  Hunger: 1: Not hungry | 2: Fairly hungry | 3: Very hungry
+  Mood:   1: Happy      | 2: Fair           | 3: Unhappy
+
+Rows: Breakfast | Mid-morning | Lunch | Mid-afternoon | Supper | Other
+
+(The above table repeats for 7 days — one table per day.)
+
+--- Food diary analysis and recommendations ---
+- Client's goals regarding healthy eating or any fitness related objectives (eg fat loss, muscle gain, preparing for an event).
+- Eating or drinking behaviours that are detrimental to the client's health.
+- Positive eating behaviours that the client should continue.
+- Hydration levels and water consumption.
+- Caffeine consumption.
+- Alcohol consumption.
+- Processed food consumption.
+- Fruit and vegetable consumption.
+- Macronutrients analysis — Carbohydrate.
+- Macronutrients analysis — Protein.
+- Macronutrients analysis — Fats.
+- What changes does the client need to implement to their current nutrition to meet their goals?
+- What potential barriers to change may your client face?
+- What methods would you recommend to your client to overcome these barriers?
+- How will training affect your client's nutritional requirements? Include any recommendations related to the client's fitness goals.
+- Identify at least one reputable source of information used when providing nutritional guidance to your client.
+
+--- Mark scheme — Food diary analysis ---
+Did the learner:                                                           Possible marks  Minimum
+Provide a copy of the food diary completed by the client?                   1               1
+Ascertain the client's nutrition goals?                                     2               1
+Identify eating/drinking behaviours detrimental to the client's health?     1               1
+Identify any positive eating behaviours that the client should continue?    1               1
+Analyse hydration levels?                                                   1               1
+Analyse alcohol consumption?                                                1               1
+Analyse processed food levels?                                              1               1
+Analyse fruit and vegetable intake?                                         1               1
+Analyse caffeine consumption?                                               1               1
+Analyse the macronutrient levels?                                           3               3
+Recommend to the client how to tailor their nutrition to meet their goals?  3               2
+Identify any potential barriers to change that the client may face?         1               1
+Suggest ways that the client can overcome their barriers?                   1               1
+Identify how training will affect the client's nutritional requirements
+including any recommendations related to the client's fitness goals?        3               2
+
+Result total: /21 (18 marks in total, with the minimum set marks achieved
+for each section required to pass).
+Pass / Refer: ______
+Assessor's feedback: ______
+
+================================================================================
+END OF FOOD DIARY TEMPLATE + MARK SCHEME
+================================================================================
+
+
+================================================================================
+APPENDIX D — PRE-PRINTED BUSINESS PLAN TEMPLATE (UNIT 12)
+================================================================================
+THIS IS A PRE-PRINTED BUSINESS PLAN TEMPLATE. ALL SECTION HEADINGS, PROMPTS,
+FIELD LABELS, TABLE HEADINGS AND INSTRUCTIONS BELOW ARE TEMPLATE TEXT — NOT
+LEARNER WORK.
+================================================================================
+
+Setting Up: Business and Owner Details
+- Business name:
+- Owner(s) name:
+- Business address and postcode:
+- Business telephone number:
+- Business email address:
+- Home address and postcode (if different from above):
+- Home telephone number (if different from above):
+- Home email address (if different from above):
+
+Personal Training Business Plan
+Section 1: Summary
+  1.1 Business summary:
+  1.2 Business aims:
+  1.3 Financial summary:
+
+Elevator Pitch:
+  1.4 Your business name:
+  1.5 Strap line:
+  1.6 Elevator pitch:
+
+Section 2: Personal background
+  2.1 Why do you want to run your own personal training business?
+  2.2 Previous work experience:
+  2.3 Qualifications and education:
+  2.4 Training:
+  2.5 Any additional training you want to complete:
+  2.6 Hobbies and interests:
+  2.7 Additional information:
+
+Section 3: Products and services
+  3.1 What are you going to sell? (tick: A product | A service)
+  3.2 Describe the basic product/service you are going to sell:
+  3.3 Describe when you are planning on selling your product and service:
+  3.4 Additional information:
+
+Section 4: The market
+  4.1 Are your target market: Individuals | Businesses | Both
+  4.2 Describe your typical customer:
+  4.3 Where is your target market?
+  4.4 What prompts your customers to buy your product/service?
+  4.5 What factors help your customers choose which business to buy from?
+  4.6 Have you sold products/services to customers already? (Yes/No)
+      If Yes, please give details.
+  4.7 Have you got customers waiting to buy your products? (Yes/No)
+      If Yes, please give details.
+  4.8 Additional information:
+
+Section 5: Market research
+  5.1 Key research findings:
+  5.2 Key findings from field research — customer questionnaires:
+  5.3 Additional information:
+
+Section 6: Marketing strategy
+  Table — What are you going to do? | Why have you chosen this marketing approach? | How much will it cost?
+  Final cost:
+
+Section 7: Competitor analysis
+  7.1 Table of competitors — Name, location and business size | Product/service | Price | Strengths | Weaknesses
+  7.2 SWOT analysis — Strengths | Weaknesses | Opportunities | Threats
+  7.3 Unique selling point (USP):
+
+Section 8: Operations and logistics
+  8.1 Production:
+  8.2 Delivery to customers:
+  8.3 Payment methods and terms:
+  8.4 Suppliers — Name and location | Items required and prices | Payment arrangements | Reasons for choosing supplier
+  8.5 Premises:
+  8.6 Equipment — Item required | Already owned? | If being bought: New or second hand? | Purchased from | Price
+  8.7 Transport:
+  8.8 Legal requirements:
+  8.9 Insurance requirements:
+
+Section 9: Costs and pricing strategy
+  Production/service name:
+  A  Number of units in calculation:
+  B  Product/service components:
+  C  Components cost:
+  D  Total product/service cost:
+  E  Cost per unit:
+  F  Price per unit:
+  G  Profit margin (£):
+  H  Profit margin (%):
+  I  Mark up (%):
+
+Section 10: Financial forecasts
+  10.1 Sales and costs forecast
+    Month | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Total
+    A  Month name:
+    Sales forecast:
+    B  Product/service:
+    C  Product/service:
+    Costs forecast:
+    D  Product/service:
+    E  Assumptions (seasonal trend changes):
+  10.2 Cost table — Item cost | What is included and how you worked it out | Total cost
+
+================================================================================
+END OF BUSINESS PLAN TEMPLATE
+================================================================================
+
+
+================================================================================
+END OF ALL NCFE L3 PT UNIT CONTENT AND ASSESSMENT TEMPLATES
+Qualification: NCFE Level 3 Diploma in Gym Instructing and Personal Training
+(603/4388/6) — Specification version 2.3 December 2024
 ================================================================================
