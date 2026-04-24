@@ -1,1063 +1,855 @@
 ================================================================================
 ACTIVE IQ LEVEL 3 DIPLOMA IN EXERCISE REFERRAL
-LEARNER ACHIEVEMENT PORTFOLIO
 Qualification Accreditation Number: 600/5105/X
-Version AIQ006847
 Copyright © 2025 Active IQ Ltd. Not for resale
 ================================================================================
 
-LINKED QUALIFICATIONS
-These units also form part of the following qualifications:
-- Active IQ Level 3 Diploma in Exercise Referral 600/5105/X
-- Active IQ Level 3 Diploma in Health and Fitness 601/0348/6
+HOW TO READ THIS FILE (guidance for the assessor AI)
 
-================================================================================
-CONTENTS
-================================================================================
+Everything in this file is pre-printed awarding body content or pre-printed
+assessment template content. NONE of it is the learner's own work. When a
+learner submission pastes any of this text, it should be recognised as
+template material and ignored when assessing.
 
-Assessment plan and record of achievement ........ p.3
-Assessment planning and record of achievement declaration ........ p.4
-Record of achievement declaration ........ p.4
+RPL UNITS — NEVER ASSESS LEARNER SUBMISSIONS FOR THESE:
+- Unit 1 Anatomy and Physiology for Exercise and Health (T/503/7490)
+- Unit 4 Applying the Principles of Nutrition to a Physical Activity Programme
+  (L/600/9054)
 
-Unit 2 Professional practice for exercise referral instructors ........ p.5
-Worksheet - Professional practice for exercise referral instructors ........ p.5
+Learners complete Units 1 and 4 via Recognition of Prior Learning (RPL). They
+do not submit workbooks or case studies for these units. Never flag Unit 1 or
+Unit 4 as missing evidence. Never ask a learner to submit work for them.
 
-Unit 3 Understanding medical conditions for exercise referral ........ p.11
-Worksheet - Understanding medical conditions for exercise referral ........ p.11
+ASSESSED UNITS (included below):
+- Unit 2 Professional Practice for Exercise Referral Instructors
+  (Y/503/7493) — WORKSHEET, 49 marks, 40 minimum overall, per-question mins
+- Unit 3 Understanding Medical Conditions for Exercise Referral
+  (R/503/7492) — WORKSHEET, 198 marks, 159 minimum overall, per-condition
+  AND per-question mins (strict mode)
+- Unit 5 Planning Exercise Referral Programmes with Patients
+  (D/503/7494) — MARK O'BRIAN CASE STUDY, 74 marks, 62 minimum overall,
+  section minimums (Patient details 24/29, Screening 16/20, Programme
+  objectives 22/25)
+- Unit 6 Instructing Exercise with Referred Patients
+  (L/503/7491) — WORKSHEET (17/14 with per-question mins), OBSERVATION
+  (competency-based with shaded-box rule), SESSION AND SELF-EVALUATION FORM
 
-Unit 5 Planning exercise referral programmes with patients ........ p.22
-Worksheet - Planning exercise referral programmes with patients ........ p.22
+DUAL-PASS RULE: Every assessed unit above requires BOTH the overall minimum
+AND every per-question, per-condition or per-section minimum. Missing any
+single minimum means "refer / not achieved" regardless of overall total.
 
-Unit 4 Applying the principles of nutrition to a physical activity programme ........ p.25
-Unit 5 Planning exercise referral programmes with patients ........ p.25
-Case study guidance ........ p.25
-Informed consent to act as case study ........ p.28
-
-Unit 5 Planning exercise referral programmes with patients ........ p.34
-Physical activity readiness questionnaire (PAR-Q) and you ........ p.34
-Session plan ........ p.39
-Case study checklist ........ p.46
-
-Unit 4 Applying the principles of nutrition to a physical activity programme ........ p.47
-Unit 5 Planning exercise referral programmes with patients ........ p.47
-Case study mark scheme ........ p.47
-
-Unit 6 Instructing exercise with referred patients ........ p.49
-Worksheet - Instructing exercise with referred patients ........ p.49
-Formative observed session checklist ........ p.52
-Assessor's feedback and questions ........ p.53
-Session and self-evaluation ........ p.54
-
-
-================================================================================
-ASSESSMENT PLAN AND RECORD OF ACHIEVEMENT
-================================================================================
-
-Active IQ Level 3 Diploma in Exercise Referral
-
-Centre name: _______________________________________________
-
----------------------------------------------------------------------------
-ASSESSMENT PLAN                        | RECORD OF ACHIEVEMENT
----------------------------------------------------------------------------
-Mandatory | Stage of          | Evidence    | Assessment      | Planned    | Pass/Refer/APA       | Assessor's    | IV initials
-units     | assessment        |             | method          | Assessment | (if claiming APA     | signature or  | (if sampled)
-          |                   |             |                 | Date       | detail evidence      | initials and  |
-          |                   |             |                 |            | seen) Include %      | date          |
-          |                   |             |                 |            | score for MCQ Exams  |               |
----------------------------------------------------------------------------
-1         | Anatomy and       | Theory      | Externally set  |            |                      |               |
-          | physiology for    | paper       | multiple choice |            |                      |               |
-          | exercise and      |             | question paper  |            |                      |               |
-          | health            |             |                 |            |                      |               |
----------------------------------------------------------------------------
-2         | Professional      | Worksheet   | Written         |            |                      |               |
-          | practice for      |             |                 |            |                      |               |
-          | exercise referral |             |                 |            |                      |               |
-          | instructors       |             |                 |            |                      |               |
----------------------------------------------------------------------------
-3         | Understanding     | Worksheet   | Written         |            |                      |               |
-          | medical           |             |                 |            |                      |               |
-          | conditions for    |             |                 |            |                      |               |
-          | exercise referral |             |                 |            |                      |               |
----------------------------------------------------------------------------
-4         | Applying the      | Theory      | Externally set  |            |                      |               |
-          | principles of     | paper       | multiple choice |            |                      |               |
-          | nutrition to a    |             | question paper  |            |                      |               |
-          | physical activity |             |                 |            |                      |               |
-          | programme         |             |                 |            |                      |               |
----------------------------------------------------------------------------
-4 and 5   | Applying the      | Case study  | Written         |            |                      |               |
-          | principles of     |             |                 |            |                      |               |
-          | nutrition to a    |             |                 |            |                      |               |
-          | physical activity |             |                 |            |                      |               |
-          | programme         |             |                 |            |                      |               |
-          |                   |             |                 |            |                      |               |
-          | Planning exercise |             |                 |            |                      |               |
-          | referral          |             |                 |            |                      |               |
-          | programmes with   |             |                 |            |                      |               |
-          | patients          |             |                 |            |                      |               |
----------------------------------------------------------------------------
-5         | Planning exercise | Worksheet   | Written         |            |                      |               |
-          | referral          |             |                 |            |                      |               |
-          | programmes with   |             |                 |            |                      |               |
-          | patients          |             |                 |            |                      |               |
----------------------------------------------------------------------------
-6         | Instructing       | Worksheet   | Written         |            |                      |               |
-          | exercise with     |             |                 |            |                      |               |
-          | referred patients | Formative   | Observation     |            |                      |               |
-          |                   | observed    |                 |            |                      |               |
-          |                   | session     |                 |            |                      |               |
-          |                   |             |                 |            |                      |               |
-          |                   | Session     | Written         |            |                      |               |
-          |                   | self-       |                 |            |                      |               |
-          |                   | evaluation  |                 |            |                      |               |
----------------------------------------------------------------------------
+APPENDICES:
+- Appendix A — Informed Consent Form
+- Appendix B — PAR-Q Form
+- Appendix C — Unit 5 Case Study Pro-forma
+- Appendix D — Case Study Checklist
+- Appendix E — Mark O'Brian Case Study Learner Guide Brief (PRE-PRINTED)
 
 
 ================================================================================
-ASSESSMENT PLANNING AND RECORD OF ACHIEVEMENT DECLARATION
+UNIT 2 — PROFESSIONAL PRACTICE FOR EXERCISE REFERRAL INSTRUCTORS (Y/503/7493)
+Worksheet — 49 marks total | 40 marks minimum overall | per-question minimums required
 ================================================================================
 
-Declaration                | Statement                                                         | Name | Signature | Date
----------------------------+-------------------------------------------------------------------+------+-----------+------
-Learner's agreement        | I agree to be assessed according to the assessment plan and am    |      |           |
-                           | happy that any additional support I require has been discussed     |      |           |
-                           | and a separate plan put in place for this.                         |      |           |
-                           | I declare that all of the evidence (listed in the assessment plan) |      |           |
-                           | that will be produced for this portfolio will be my own unaided    |      |           |
-                           | work.                                                              |      |           |
----------------------------+-------------------------------------------------------------------+------+-----------+------
-Assessor's agreement       | I have discussed the planned assessments with the learner and     |      |           |
-                           | any additional support required has been planned and recorded      |      |           |
-                           | separately.                                                        |      |           |
----------------------------+-------------------------------------------------------------------+------+-----------+------
-
-
-================================================================================
-RECORD OF ACHIEVEMENT DECLARATION
-================================================================================
-
-Declaration              | Statement                                                           | Name | Signature | Date
--------------------------+---------------------------------------------------------------------+------+-----------+------
-Assessor's 1 agreement   | I declare that all learner evidence (listed in the assessment plan) |      |           |
-                         | has been assessed and meets the learning outcomes, assessment        |      |           |
-                         | criteria and evidence requirements for the qualification.            |      |           |
--------------------------+---------------------------------------------------------------------+------+-----------+------
-Assessor 2's agreement   | I declare that all learner evidence (listed in the assessment plan) |      |           |
-(if applicable)          | has been assessed and meets the learning outcomes, assessment        |      |           |
-                         | criteria and evidence requirements for the qualification.            |      |           |
--------------------------+---------------------------------------------------------------------+------+-----------+------
-Assessor 3's agreement   | I declare that all learner evidence (listed in the assessment plan) |      |           |
-(if applicable)          | has been assessed and meets the learning outcomes, assessment        |      |           |
-                         | criteria and evidence requirements for the qualification.            |      |           |
--------------------------+---------------------------------------------------------------------+------+-----------+------
-Internal verifier's      | I declare that all learner evidence (initialled in the assessment   |      |           |
-agreement                | plan) has been internally verified and meets the learning outcomes, |      |           |
-                         | assessment criteria and evidence requirements for the qualification. |      |           |
--------------------------+---------------------------------------------------------------------+------+-----------+------
-
-
-================================================================================
-UNIT 2 PROFESSIONAL PRACTICE FOR EXERCISE REFERRAL INSTRUCTORS
-Unit accreditation number: Y/503/7493
-
-WORKSHEET - PROFESSIONAL PRACTICE FOR EXERCISE REFERRAL INSTRUCTORS
-================================================================================
-
-There are 49 marks available in this worksheet. You must score a minimum of 40 marks in total to
-achieve a pass. In addition to achieving the total pass mark, you must also score at least the
-minimum marks set for each question to achieve an overall pass.
+There are 49 marks available in this worksheet. The learner must score a
+minimum of 40 marks in total to achieve a pass. In addition to achieving the
+total pass mark, they must also score at least the minimum marks set for each
+question to achieve an overall pass.
 
 --------------------------------------------------------------------------------
-QUESTION 1
+Question 1 — Industry sector mapping
 --------------------------------------------------------------------------------
-Please tick the appropriate column to select the industry sector to which the roles of exercise
-referral most apply.
+Please tick the appropriate column to select the industry sector to which the
+roles of exercise referral most apply.
 
-The role of exercise referral                                                    | Fitness industry | Health sector
----------------------------------------------------------------------------------+------------------+--------------
-To increase participation in physical activity and structured/supervised         |                  |
-exercise, and develop the role of exercise professionals and the sector.         |                  |
-                                                                                 |                  |
-To offer an intervention that can be used to assist with the prevention and      |                  |
-management of health conditions and help to reduce the burden (current and       |                  |
-future) of chronic health conditions on the NHS.                                 |                  |
+Table — The role of exercise referral | Fitness industry sector | Health sector
+  Row: To increase participation in physical activity and structured/supervised
+       exercise, and develop the role of exercise professionals and the sector.
+  Row: To offer an intervention that can be used to assist with the prevention
+       and management of health conditions and help to reduce the burden
+       (current and future) of chronic health conditions on the NHS.
 
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 2
+Question 2 — Benefit and risk
 --------------------------------------------------------------------------------
-Give examples of one benefit and one potential risk of exercise that would need to be weighed up
-before evaluating the general role of exercise in disease risk reduction and condition management.
+Give examples of one benefit and one potential risk of exercise that would
+need to be weighed up before evaluating the general role of exercise in
+disease risk reduction and condition management.
 
-Benefit                                    | Risk
--------------------------------------------+------------------------------------------
-                                           |
-                                           |
-                                           |
-                                           |
+Table — Benefit | Risk
 
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 3
+Question 3 — Health service policy / document
 --------------------------------------------------------------------------------
-Name one key health service document or government policy that has impacted on exercise referral
-and outline one key point from the document or policy that relates to exercise referral schemes.
+Name one key health service document or government policy that has impacted
+on exercise referral and outline one key point from the document or policy
+that relates to exercise referral schemes.
 
-Policy or document                         | Key point relating to exercise referral
--------------------------------------------+------------------------------------------
-                                           |
-                                           |
-                                           |
-                                           |
+Table — Policy or document | Key point relating to exercise referral
 
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 4
+Question 4 — Professional and Operational Standards
 --------------------------------------------------------------------------------
-Outline two key points from the Professional and Operational Standards that guide practice for
-exercise referral.
+Outline two key points from the Professional and Operational Standards that
+guide practice for exercise referral.
 
-[KEY POINT 1 - answer box]
-
-
-[KEY POINT 2 - answer box]
-
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 5
+Question 5 — GP and fitness/exercise professional roles
 --------------------------------------------------------------------------------
-Explain the roles (including scope of practice and boundaries) of the following professionals in
-an exercise referral scheme.
+Explain the roles (including scope of practice and boundaries) of the
+following professionals in an exercise referral scheme.
 
-Professional          | Role                          | Scope of practice and boundaries
-----------------------+-------------------------------+----------------------------------
-GP                    |                               |
-                      |                               |
-                      |                               |
-                      |                               |
-                      |                               |
-----------------------+-------------------------------+----------------------------------
-Fitness/              |                               |
-Exercise              |                               |
-professionals         |                               |
-                      |                               |
-                      |                               |
-                      |                               |
+Table — Professional Role | Scope of practice and boundaries
+  Row: GP
+  Row: Fitness / Exercise professionals
 
-4 marks (minimum 3 marks)
+Marks: 4 marks (minimum 3 marks)
 
 --------------------------------------------------------------------------------
-QUESTION 6
+Question 6 — Condition outside scope of practice
 --------------------------------------------------------------------------------
-Describe how you would deal with a patient who has a medical condition outside the scope of
-practice of the exercise referral instructor.
+Describe how you would deal with a patient who has a medical condition
+outside the scope of practice of the exercise referral instructor.
 
-[answer box]
-
-1 mark (minimum 1 mark)
+Marks: 1 mark (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 7
+Question 7 — Inappropriate referrals
 --------------------------------------------------------------------------------
 Explain how you would determine 'inappropriate referrals'.
 
-[answer box]
-
-1 mark (minimum 1 mark)
+Marks: 1 mark (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 8
+Question 8 — Patient declined referral
 --------------------------------------------------------------------------------
-Why is it important not to accept a patient who has been declined a referral for exercise from
-their medical practitioner or health professional and how you would deal with them?
+Why is it important not to accept a patient who has been declined a referral
+for exercise from their medical practitioner or health professional and how
+would you deal with them?
 
-Reason for not accepting:
+- Reason for not accepting:
+- Action to be taken:
 
-[answer box]
-
-Action to be taken:
-
-[answer box]
-
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 9
+Question 9 — Inter-professional communication
 --------------------------------------------------------------------------------
-State one reason why effective inter-professional communication is important within exercise
-referral?
+State one reason why effective inter-professional communication is important
+within exercise referral.
 
-[answer box]
-
-1 mark (minimum 1 mark)
+Marks: 1 mark (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 10
+Question 10 — Clinical Commissioning Groups
 --------------------------------------------------------------------------------
 What is the role of Clinical Commissioning Groups?
 
-[answer box]
-
-1 mark (minimum 1 mark)
+Marks: 1 mark (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 11
+Question 11 — Referral process stages
 --------------------------------------------------------------------------------
-Explain what happens at each of the following stages of the referral process including the role of
-any professionals involved and any information that needs to be transferred or gathered.
+Explain what happens at each of the following stages of the referral process
+including the role of any professionals involved and any information that
+needs to be transferred or gathered.
 
-Stage of referral process       | What happens and professional roles | Information that needs to be gathered or transferred
---------------------------------+-------------------------------------+------------------------------------------------------
-Patient visits GP               |                                     |
-                                |                                     |
-                                |                                     |
---------------------------------+-------------------------------------+------------------------------------------------------
-Scheme receive referral         |                                     |
-information                     |                                     |
-                                |                                     |
---------------------------------+-------------------------------------+------------------------------------------------------
-Initial consultation            |                                     |
-                                |                                     |
-                                |                                     |
---------------------------------+-------------------------------------+------------------------------------------------------
-Programme and monitoring        |                                     |
-                                |                                     |
-                                |                                     |
---------------------------------+-------------------------------------+------------------------------------------------------
-Exit route                      |                                     |
-                                |                                     |
-                                |                                     |
+Table — Stage of referral process | What happens and professional roles | Information that needs to be gathered or transferred
+  Row: Patient visits GP
+  Row: Scheme receive referral information
+  Row: Initial consultation
+  Row: Programme and monitoring
+  Row: Exit route
 
-10 marks (minimum 8 marks)
+Marks: 10 marks (minimum 8 marks)
 
 --------------------------------------------------------------------------------
-QUESTION 12
+Question 12 — Medico-legal requirement
 --------------------------------------------------------------------------------
-Outline one medico legal requirement relevant to the exercise referral instructor job role.
+Outline one medico-legal requirement relevant to the exercise referral
+instructor job role.
 
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 13
---------------------------------------------------------------------------------
-Explain the concept of data protection and how to maintain patient confidentiality in exercise
-referral.
-
-[answer box]
-
-2 marks (minimum 1 mark)
+Marks: 1 mark (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 14
+Question 13 — Data protection and patient confidentiality
 --------------------------------------------------------------------------------
-Give an example of how verbal and nonverbal communication including appearance and body language
-can influence patient perception.
+Explain the concept of data protection and how to maintain patient
+confidentiality in exercise referral.
 
-Verbal communication                       | Non-verbal communication
--------------------------------------------+------------------------------------------
-                                           |
-                                           |
-                                           |
-                                           |
-                                           |
-                                           |
-
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 15
+Question 14 — Verbal and non-verbal communication
+--------------------------------------------------------------------------------
+Give an example of how verbal and non-verbal communication including
+appearance and body language can influence patient perception.
+
+Table — Verbal communication | Non-verbal communication
+
+Marks: 2 marks (minimum 1 mark)
+
+--------------------------------------------------------------------------------
+Question 15 — Consulting skills
 --------------------------------------------------------------------------------
 Describe how you would use the following consulting skills.
+- Open questions:
+- Active listening:
 
-Open questions:
-
-[answer box]
-
-Active listening:
-
-[answer box]
-
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 16
+Question 16 — Health behaviours
 --------------------------------------------------------------------------------
 Explain the term 'health behaviours'.
 
-[answer box]
-
-1 mark (minimum 1 mark)
+Marks: 1 mark (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 17
+Question 17 — Internal and external locus of control
 --------------------------------------------------------------------------------
 Explain internal and external locus of control.
+- Internal:
+- External:
 
-Internal                                   | External
--------------------------------------------+------------------------------------------
-                                           |
-                                           |
-                                           |
-                                           |
-                                           |
-                                           |
-                                           |
-
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 18
+Question 18 — Data collection, monitoring and evaluation
 --------------------------------------------------------------------------------
-State why it is important to collect data and monitor and evaluate the success of exercise referral
-schemes and give an example of an indicator that could be used to monitor the patient and the
-scheme success.
+State why it is important to collect data and monitor and evaluate the
+success of exercise referral schemes and give an example of an indicator that
+could be used to monitor the patient and the scheme success.
 
-The importance of collecting data:
+- The importance of collecting data:
+- The importance of monitoring and evaluation:
+- An example of a data collection indicator to evidence patient success:
+- An example of a data collection indicator to evidence the scheme success:
 
-[answer box]
-
-The importance of monitoring and evaluation:
-
-[answer box]
-
-An example of a data collection indicator to evidence patient success:
-
-[answer box]
-
-An example of a data collection indicator to evidence the scheme success:
-
-[answer box]
-
-4 marks (minimum 3 marks)
+Marks: 4 marks (minimum 3 marks)
 
 --------------------------------------------------------------------------------
-QUESTION 19
+Question 19 — Validity and reliability
 --------------------------------------------------------------------------------
-Define the terms validity and reliability and explain how these can be applied to evaluate the
-quality and reliability of evidence.
+Define the terms validity and reliability and explain how these can be
+applied to evaluate the quality and reliability of evidence.
 
-Validity:                                  | Reliability:
--------------------------------------------+------------------------------------------
-                                           |
-                                           |
-                                           |
+- Validity:
+- Reliability:
+- Quality and reliability of evidence:
 
-Quality and reliability of evidence:
-
-[answer box]
-
-4 marks (minimum 3 marks)
+Marks: 4 marks (minimum 3 marks)
 
 --------------------------------------------------------------------------------
-QUESTION 20
+Question 20 — Risk stratification
 --------------------------------------------------------------------------------
-State the purpose of risk stratification and name two risk stratification tools that have been
-used in exercise referral.
+State the purpose of risk stratification and name two risk stratification
+tools that have been used in exercise referral.
 
-Purpose:
+- Purpose:
+- Tool 1:
+- Tool 2:
 
-[answer box]
-
-Tool 1:
-
-[answer box]
-
-Tool 2:
-
-[answer box]
-
-3 marks (minimum 2 marks)
+Marks: 3 marks (minimum 2 marks)
 
 --------------------------------------------------------------------------------
-RESULT TOTAL: _______ / 49 marks
-(40 marks in total, with the minimum set marks achieved for each question required to pass)
-
-Pass / Refer: ___________
-
-ASSESSOR'S FEEDBACK:
-
-[feedback box]
-
---------------------------------------------------------------------------------
+Result total: ____ / 49 marks
+(40 marks in total, with the minimum set marks achieved for each question
+required to pass)
+Pass / Refer: ____
+Assessor's feedback: ____
 
 
 ================================================================================
-UNIT 3 UNDERSTANDING MEDICAL CONDITIONS FOR EXERCISE REFERRAL
-Unit accreditation number: R/503/7492
-
-WORKSHEET - UNDERSTANDING MEDICAL CONDITIONS FOR EXERCISE REFERRAL
+UNIT 3 — UNDERSTANDING MEDICAL CONDITIONS FOR EXERCISE REFERRAL (R/503/7492)
+Worksheet — 198 marks total | 159 marks minimum overall | per-condition AND per-question minimums required (STRICT MODE)
 ================================================================================
 
-There are 198 marks available in this worksheet. You must score a minimum of 159 marks in total
-to achieve a pass. In addition to achieving the total pass mark, you must also score at least the
-minimum marks set for each question to achieve an overall pass.
+There are 198 marks available in this worksheet. The learner must score a
+minimum of 159 marks in total to achieve a pass. In addition to achieving the
+total pass mark, they must also score at least the minimum marks set for each
+question to achieve an overall pass.
 
 Glossary of terms used in this unit:
-Pathophysiology - The disease's progression and the associated functional changes i.e. death of tissue.
-Clinical features - Both signs and symptoms
-Symptoms - How the disease manifests itself from the patients' perspective
+- Pathophysiology — The disease's progression and the associated functional
+  changes i.e. death of tissue.
+- Clinical features — Both signs and symptoms.
+- Symptoms — How the disease manifests itself from the patient's perspective.
 
 --------------------------------------------------------------------------------
-QUESTION 1 - Please complete the table below.
+Question 1 — Pathophysiology, clinical signs and symptoms, causes
 --------------------------------------------------------------------------------
+Please complete the table below.
 
-Condition              | Pathophysiology – disease progression and changes | Two clinical signs and symptoms of the condition | Two common causes | Result
-                       | (4 marks per condition)                           | (2 marks per condition)                          | (2 marks per condition) | 8 marks per condition (minimum 6 marks required per condition)
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Hypertension           |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Hypercholesterolaemia  |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Coronary obstructive   |                                                   |                                                  |                    |
-pulmonary disease      |                                                   |                                                  |                    |
-(COPD)                 |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Asthma                 |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Obesity                |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Diabetes (type 1       |                                                   |                                                  |                    |
-and 2)                 |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Osteoarthritis         |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Rheumatoid arthritis   |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Osteoporosis           |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Depression             |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Anxiety                |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
------------------------+---------------------------------------------------+--------------------------------------------------+--------------------+--------
-Simple mechanical      |                                                   |                                                  |                    |
-back pain              |                                                   |                                                  |                    |
-                       |                                                   |                                                  |                    |
+Table columns:
+  Condition | Pathophysiology — disease progression and changes (4 marks per
+  condition) | Two clinical signs and symptoms of the condition (2 marks per
+  condition) | Two common causes (2 marks per condition) | Result (8 marks
+  per condition, minimum 6 marks required per condition)
 
-96 marks (minimum 6 marks per condition)
+Conditions (12 rows):
+- Hypertension
+- Hypercholesterolaemia
+- Chronic obstructive pulmonary disease (COPD)
+- Asthma
+- Obesity
+- Diabetes (type 1 and 2)
+- Osteoarthritis
+- Rheumatoid arthritis
+- Osteoporosis
+- Depression
+- Anxiety
+- Simple mechanical back pain
+
+Total: 96 marks (minimum 6 marks per condition)
 
 --------------------------------------------------------------------------------
-QUESTION 2 - Please complete the table below.
+Question 2 — Medication, side effects, other interventions
 --------------------------------------------------------------------------------
+Please complete the table below.
 
-Condition              | One medication that may be prescribed and its desired effect | One side effects of the medication OR effect on the exercise response | One other intervention (surgical, therapeutic or lifestyle, nutrition) that may be prescribed or recommended and its purpose | Result
-                       | (2 marks per condition)                                     | (1 mark per condition)                                               | (2 marks per condition)                                                                                                    | 5 marks per condition (minimum 4 marks required per condition)
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Hypertension           |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Hypercholesterolaemia  |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Chronic obstructive    |                                                             |                                                                       |                                                                                                                           |
-pulmonary disease      |                                                             |                                                                       |                                                                                                                           |
-(COPD)                 |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Asthma                 |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Obesity                |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Diabetes type 1 and 2  |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Osteoarthritis         |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Rheumatoid arthritis   |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Osteoporosis           |                                                             |                                                                       |                                                                                                                           |
-                       |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Depression and/or      |                                                             |                                                                       |                                                                                                                           |
-anxiety                |                                                             |                                                                       |                                                                                                                           |
------------------------+-------------------------------------------------------------+-----------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------+--------
-Simple mechanical      |                                                             |                                                                       |                                                                                                                           |
-back pain              |                                                             |                                                                       |                                                                                                                           |
+Table columns:
+  Condition | One medication that may be prescribed and its desired effect
+  (2 marks per condition) | One side effect of the medication OR effect on
+  the exercise response (1 mark per condition) | One other intervention
+  (surgical, therapeutic or lifestyle, nutrition) that may be prescribed or
+  recommended and its purpose (2 marks per condition) | Result (5 marks per
+  condition, minimum 4 marks required per condition)
 
-55 marks (minimum 4 marks per condition)
+Conditions (11 rows — depression and anxiety combined):
+- Hypertension
+- Hypercholesterolaemia
+- Chronic obstructive pulmonary disease (COPD)
+- Asthma
+- Obesity
+- Diabetes type 1 and 2
+- Osteoarthritis
+- Rheumatoid arthritis
+- Osteoporosis
+- Depression and/or anxiety
+- Simple mechanical back pain
+
+Total: 55 marks (minimum 4 marks per condition)
 
 --------------------------------------------------------------------------------
-QUESTION 3 - Please complete the table below.
+Question 3 — Exercise aims / guidelines / benefits + restrictions / risks
 --------------------------------------------------------------------------------
+Please complete the table below.
 
-Condition              | Two exercise aims, guidelines or benefits | Two exercise restrictions, considerations or risks | Result
-                       | (2 marks per condition)                   | (2 marks per condition)                            | 4 marks per condition (minimum 3 marks required per condition)
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Hypertension           |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Hypercholesterolaemia  |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Chronic obstructive    |                                           |                                                    |
-pulmonary disease      |                                           |                                                    |
-(COPD)                 |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Asthma                 |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Obesity                |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Diabetes type 1 and 2  |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Osteoarthritis         |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Rheumatoid arthritis   |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Osteoporosis           |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Depression and anxiety |                                           |                                                    |
-                       |                                           |                                                    |
------------------------+-------------------------------------------+----------------------------------------------------+--------
-Simple mechanical      |                                           |                                                    |
-back pain              |                                           |                                                    |
+Table columns:
+  Condition | Two exercise aims, guidelines or benefits (2 marks per
+  condition) | Two exercise restrictions, considerations or risks (2 marks
+  per condition) | Result (4 marks per condition, minimum 3 marks required
+  per condition)
 
-44 marks (minimum 3 marks per condition)
+Conditions (11 rows — depression and anxiety combined):
+- Hypertension
+- Hypercholesterolaemia
+- Chronic obstructive pulmonary disease (COPD)
+- Asthma
+- Obesity
+- Diabetes type 1 and 2
+- Osteoarthritis
+- Rheumatoid arthritis
+- Osteoporosis
+- Depression and anxiety
+- Simple mechanical back pain
+
+Total: 44 marks (minimum 3 marks per condition)
 
 --------------------------------------------------------------------------------
-QUESTION 4
+Question 4 — Credible source for medication information
 --------------------------------------------------------------------------------
-Name one credible source for gathering further information about prescribed medications.
+Name one credible source for gathering further information about prescribed
+medications.
 
-[answer box]
-
-1 mark (minimum 1 mark)
+Marks: 1 mark (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-QUESTION 5
+Question 5 — Co-morbidities
 --------------------------------------------------------------------------------
 State two considerations for exercise when working with co-morbidities.
 
-[CONSIDERATION 1 - answer box]
-
-[CONSIDERATION 2 - answer box]
-
-2 marks (minimum 1 mark)
+Marks: 2 marks (minimum 1 mark)
 
 --------------------------------------------------------------------------------
-RESULT TOTAL: _______ / 198 marks
-(159 marks in total, with the minimum set marks achieved for each question required to pass)
-
-Pass / Refer: ___________
-
-ASSESSOR'S FEEDBACK:
-
-[feedback box]
-
---------------------------------------------------------------------------------
+Result total: ____ / 198 marks
+(159 marks in total, with the minimum set marks achieved for each question
+required to pass)
+Pass / Refer: ____
+Assessor's feedback: ____
 
 
 ================================================================================
-UNIT 5 PLANNING EXERCISE REFERRAL PROGRAMMES WITH PATIENTS
-Unit accreditation number: D/503/7494
-
-WORKSHEET - PLANNING EXERCISE REFERRAL PROGRAMMES WITH PATIENTS
+UNIT 5 — PLANNING EXERCISE REFERRAL PROGRAMMES WITH PATIENTS (D/503/7494)
+Case study (Mark O'Brian) — 74 marks total | 62 marks minimum overall | section minimums required
+Patient details and information: 29 marks (minimum 24)
+Screening: 20 marks (minimum 16)
+Programme objectives: 25 marks (minimum 22)
 ================================================================================
 
-There are 14 marks available in this worksheet. You must score a minimum of 12 marks in total
-to achieve a pass. In addition to achieving the total pass mark, you must also score at least the
-minimum marks set for each question to achieve an overall pass.
+Assessment method: Mark O'Brian case study.
+Case study subject: Mark O'Brian.
+
+The learner completes all case study sections below, having chosen any two
+medical conditions from the referral scope. The first 4 pages of the
+Mark O'Brian document (Appendix E) are PRE-PRINTED LEARNER GUIDANCE and are
+not assessed as learner work.
+
+Case study pass rules:
+- 74 marks total available
+- Minimum 62 marks overall
+- Plus all three section minimums below must be met
+- If ANY section minimum is missed, the case study is not achieved even if
+  the overall total is 62 or higher
 
 --------------------------------------------------------------------------------
-QUESTION 1
+SECTION 1 — PATIENT DETAILS AND INFORMATION (29 marks, minimum 24)
 --------------------------------------------------------------------------------
-Explain how you would work in environments that are not specifically designed for exercise /
-physical activity.
+The learner must collect and record ALL the following information about their
+patient, using the headings / form provided. The learner carries out an
+informal interview with the patient to obtain the required information.
 
-[answer box]
+Personal patient details
+- Age
+- Sex
+- Family status / children / dependants
+- Occupation
+- Hobbies
 
-1 mark (minimum 1 mark)
+Medical history
+- Established conditions (reasons for referral if applicable) and
+  co-morbidities
+- Medication currently being taken
+- Known side effects and implications for exercise
+- BMI and implications
 
---------------------------------------------------------------------------------
-QUESTION 2
---------------------------------------------------------------------------------
-Why is it important for patients to understand the health benefits of structured exercise referral
-programmes?
+Physical activity history / Current activity level
+- Previous participation / experiences
+- Activity preferences
+- Current activity level including: Frequency, Intensity, Time/duration, and
+  Type of exercise (e.g. FITT principle)
+- Patient's perception of fitness or results of fitness tests if known
 
-[answer box]
+Nutrition
+- Briefly describe your current eating patterns
+- What are your personal nutritional goals / aspirations?
+- Do you have any particular personal circumstances which you feel may affect
+  your nutritional status? (if so, please specify)
 
-1 mark (minimum 1 mark)
+Goals of the patient
+(Must be SMART, short, medium and long-term)
+- What does your patient hope to achieve (personal, physical and nutritional
+  goals) from this 4-6 week programme and in the medium to long term
+  (e.g. in 6 months)?
+- Short:
+- Medium:
+- Long:
 
---------------------------------------------------------------------------------
-QUESTION 3
---------------------------------------------------------------------------------
-Why is it important for an exercise referral instructor to work together with patients to agree
-goals, objectives, programmes and adaptations?
+Healthy eating and hydration advice
+- Summarise the healthy eating advice you will give to your patient.
+- Identify specific advice you will give your client about their nutrition
+  and hydration needs when participating in physical activity.
 
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 4
---------------------------------------------------------------------------------
-Explain the importance of long-term behaviour change in developing patient's health and fitness.
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 5
---------------------------------------------------------------------------------
-How do you encourage patients to commit themselves to long-term change?
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 6
---------------------------------------------------------------------------------
-What is informed consent and why should this be obtained before collecting information from a
-patient?
-
-Informed consent is:                       | Purpose:
--------------------------------------------+------------------------------------------
-                                           |
-                                           |
-                                           |
-
-2 marks (minimum 1 mark)
+Readiness to change and support strategies
+- What stage of readiness to change is your patient really at? (Preparation,
+  Action etc.) What did you take into account when reaching this decision?
+- How can you support your patient throughout the programme (i.e. what
+  strategies are appropriate to prevent non-attendance or dropout)? What, if
+  any, social or psychological barriers or other considerations are there
+  that you might need to take into account?
+- Who or where can you go to get further literature related to your
+  patient's medical condition?
 
 --------------------------------------------------------------------------------
-QUESTION 7
+SECTION 2 — SCREENING (20 marks, minimum 16)
 --------------------------------------------------------------------------------
-How would you select the most appropriate method of collecting patient information?
+The learner must include the following:
 
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 8
---------------------------------------------------------------------------------
-How would you interpret the information collected from the patient in order to identify their
-needs and goals (short, medium and long term)?
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 9
---------------------------------------------------------------------------------
-Explain how you would use specific, measurable, achievable, realistic and time bound (SMART)
-objectives in an exercise referral programme.
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 10
---------------------------------------------------------------------------------
-When might you involve others, apart from the patient in goal setting?
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 11
---------------------------------------------------------------------------------
-State one legal and ethical implication of collecting patient information.
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 12
---------------------------------------------------------------------------------
-Why is it important to keep accurate records of changes including the reasons for change?
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-QUESTION 13
---------------------------------------------------------------------------------
-When might it be appropriate to share any changes made to exercise referral programmes with
-other professionals?
-
-[answer box]
-
-1 mark (minimum 1 mark)
-
---------------------------------------------------------------------------------
-RESULT TOTAL: _______ / 14 marks
-(12 marks in total, with the minimum set marks achieved for each question required to pass)
-
-Pass / Refer: ___________
-
-ASSESSOR'S FEEDBACK:
-
-[feedback box]
-
---------------------------------------------------------------------------------
-
-
-================================================================================
-UNIT 4 APPLYING THE PRINCIPLES OF NUTRITION TO A PHYSICAL ACTIVITY PROGRAMME
-Unit accreditation number: L/600/9054
-
-UNIT 5 PLANNING EXERCISE REFERRAL PROGRAMMES WITH PATIENTS
-Unit accreditation number: D/503/7494
-
-CASE STUDY GUIDANCE
-================================================================================
-
-You must either:
-- Identify a suitable exercise referral patient who can act as your case study for six weeks. This
-  will enable you to design, agree, deliver and adapt your programme as necessary.
-
-Or your centre will provide you with:
-- Details of a theoretical exercise referral patient which has been approved by Active IQ to
-  enable you to design, agree, deliver and adapt your programme as necessary.
-
-When using a real exercise referral patient you should ensure you have the patient's permission to
-use their personal information in the completion of your case study by asking them to read and
-sign the informed consent form provided. This should be submitted with your assignment as evidence.
-
-The chosen patient must have a minimum of TWO conditions from the following list that have been
-covered in the qualification. The conditions can come from one sub section but is down to the
-discretion of the assessor.
-
-CARDIOVASCULAR DISEASE
-Hypertension and Hypercholesterolaemia
-
-METABOLIC/IMMUNOLOGICAL
-Obesity and Diabetes Type 1 and Type 2
-
-MUSCULOSKELETAL
-Osteoarthritis, Rheumatoid Arthritis, Simple Mechanical Back Pain, Osteoporosis and
-Joint Replacement
-
-RESPIRATORY
-Asthma and Chronic Obstructive Pulmonary Disease (COPD)
-
-PSYCHOLOGICAL/MENTAL HEALTH
-Depression, Anxiety and Stress
-
-The case study must be no more than 2500 words - a word count and copy of the checklist should be
-included on the front of the case study.
-
-Case studies should ideally be word processed (if this is not possible, written submissions can be
-made with prior agreement with your assessor). Arial in size 12 font should be used for word
-processed assignments. Page numbers should be used.
-
-There are THREE parts to your case study:
-- Patient details and information
-- Screening
-- Programme Objectives
-
----
-
-1. PATIENT DETAILS AND INFORMATION
-You should collect and record ALL of the following information about your patient, using the
-headings/forms provided in the LAP (Learner Achievement Portfolio).
-
-You should carry out an informal interview with your patient to obtain the following required
-information:
-- Personal details
-- Medical history
-- Current lifestyle
-- Physical activity history
-- Personal, physical and nutritional goals of the patient
-
-2. SCREENING
-You should provide the following:
-- A copy of the referral form. If a referral form is not available (e.g. if you are not in a role
-  which allows this), then you should provide an explanation of why no form was available.
-- A description and/or copy of any pre-exercise screening questionnaires or standard procedures
-  employed.
+- A copy of the exercise referral form from the referring healthcare
+  professional (e.g. GP, Practice Nurse). If a referral form is not
+  available (e.g. if you are not in a role which allows this) then you
+  should provide an explanation of why no form was available in the space
+  below.
+- A description and/or copy of any pre-exercise screening questionnaires or
+  standard procedures employed.
 - A description of any fitness tests / functional assessments employed.
-- Condition specific exercise guidelines: You should complete the pro forma documentation in
-  your LAP as appropriate to your patient and the exercise programme.
 
-3. PROGRAMME OBJECTIVES
-You need to complete the pro forma documentation in the LAP taking into account the principles
-of training, what the agreed objectives of your 6 week programme are and your patient's medical
-conditions. You will need to complete the following:
-- Programme objectives
-- Programme session plan
-- Session plan notes
-- Modification summary
-- Summary / feedback letter
+(See Appendix B for the PAR-Q form used.)
 
-PROGRAMME SESSION PLAN
-You should complete one session/class plan in your area of expertise, for example:
-- Circuit class
-- Gym-based session
-- ETM class/aqua class for your patient
-- Pilates
-- Yoga
+Condition specific exercise guidelines and further considerations for the
+patient:
+- Condition specific exercise recommendations
+- Exercise recommendations — Frequency | Intensity | Time | Type of activity
+- Further considerations (e.g. safety issues, exercise programming issues
+  given the patient's medical conditions)
+- Contraindicated exercises (e.g. inappropriate activity given the patient's
+  medical conditions)
+- When the patient should be referred back to a healthcare professional
+  (if appropriate)
 
-THIS SESSION PLAN SHOULD INCLUDE INFORMATION REGARDING:
-- Duration of warm-up and cool-down (they do not need to include a detailed description of these
-  components since this is assumed to be prior knowledge)
-- A range of safe and effective exercises/physical activities to develop (as appropriate to your
-  patient):
-    - Cardiovascular fitness
-    - Muscular fitness
-    - Flexibility
-    - Motor skills
-    - Core stability
-- Structure and timing of components (as appropriate)
-- Intensity – this should include how you plan to monitor your patient
+--------------------------------------------------------------------------------
+SECTION 3 — PROGRAMME OBJECTIVES (25 marks, minimum 22)
+--------------------------------------------------------------------------------
+Programme objectives:
+Taking into account the principles of training, what are the agreed
+objectives of your 6-week programme given your patient's medical conditions?
+Remember to set SMART objectives as these make programme reviews easier.
 
-You can use the session plan provided within the L.A.P. or you can design your own as long as all
-criteria are covered.
+Session plan — Planning gym-based exercise programme card:
+- Any special arrangements or adaptations to be made
+- Safety checks required: Walking around the gym and identifying any hazards
+  that may be present, e.g. weights being left out
+- Duty First aider:
+- Location of nearest first aid kit:
+- Location of nearest telephone:
 
-SESSION PLAN NOTES SHOULD INCLUDE:
-- Adaptations made to session design / individual exercises (group sessions should be designed to
-  enable an inclusive, integrated session that can cater for all individuals)
-- How you intend to set up and manage a safe physical activity environment for your patient
-- A brief explanation as to why you have included certain exercises/equipment and not included
-  others in the session
-- The procedures to be followed in the event of an emergency given your patient's medical
-  conditions
-- Physical activities that could be included as part of the patient's lifestyle to complement the
-  exercise session
+Warm up
+  CV equipment/activity: | Time: | Workload/target training zone:
 
-MODIFICATION SUMMARY
-At the end of week four you should complete the modification summary summarising any feedback
-from your patient and how they are progressing towards their goals.
+Main CV components
+  CV equipment/activity: | Time: | Workload/target training zone:
 
-You should identify at least one aspect of the programme that you need to modify and describe
-the modifications you intend to make.
+Main resistance training section, fixed resistance machines
+  Exercise: | Equipment: | Sets/reps:
 
-SUMMARY/FEEDBACK LETTER
-You need to provide a summary/feedback letter that could be provided to the Healthcare
-Professional who referred the patient describing your patient's progress on the exercise referral
-scheme.
+Main resistance training section, free weights
+  Exercise: | Equipment: | Sets/reps:
+
+Body weight exercises
+  Exercise: | Equipment: | Sets/reps:
+
+Cool down stretches
+  CV equipment/activity: | Time: | Workload/target training zone:
+
+Warm up stretches (diagram and time to be held):
+Cool down stretches in addition to above:
+
+Training systems and referral-back guidance:
+- Which training system/s would be suitable for your patient and how can
+  this/these be used to provide variety and ensure the programme remains
+  effective?
+- When the patient should be referred back to a healthcare professional
+  (if appropriate).
+
+Modification summary (complete at end of week 4):
+- Has your patient managed to adhere to the programme? YES / NO
+  If No, state why:
+- What feedback have you received from your patient in relation to the
+  programme?
+- How is your patient progressing towards the agreed physical and
+  nutritional goals?
+- Are there any aspects of the programme that you need to modify or revise?
+- What modifications do you intend to make?
+
+GP feedback / summary letter:
+- Complete a summary / feedback letter that could be provided to the
+  Healthcare Professional who referred the patient describing their
+  patient's progress on the exercise referral scheme.
+
+Initial Referral Letter from GP (learner-written):
+- Learner will write an initial letter to the GP following up on the
+  consultation with Mark O'Brian. Learner will inform the GP on the
+  discussion about:
+    - Current health status
+    - Mark's readiness for exercise
+    - Overview of the exercise programme that will be prescribed to Mark
+    - Any concerns or things to monitor with his conditions
+    - Inform GP you will follow up after 4 weeks on how Mark has done so far
+- Letter must be professional and use proper terminology for Mark's
+  conditions and medications.
+
+  Dear GP,
+  [learner writes letter here]
+  Kind regards,
 
 
 ================================================================================
-INFORMED CONSENT TO ACT AS CASE STUDY
+UNIT 6 — INSTRUCTING EXERCISE WITH REFERRED PATIENTS (L/503/7491)
+Worksheet (17 marks / 14 minimum / per-question mins) + Observation + Self-evaluation
+================================================================================
+
+Unit 6 uses three forms of assessment evidence:
+1. Worksheet (17 marks, 14 minimum, per-question minimums)
+2. Observation of the learner instructing (competency-based, shaded-box rule)
+3. Session and self-evaluation form
+
+--------------------------------------------------------------------------------
+UNIT 6 WORKSHEET
+--------------------------------------------------------------------------------
+
+There are 17 marks available in this worksheet. The learner must score a
+minimum of 14 marks in total to achieve a pass. In addition to achieving the
+total pass mark, they must also score at least the minimum marks set for each
+question to achieve an overall pass.
+
+Question 1 — Importance of communication and adapting verbal / non-verbal
+Explain the importance of communication and give an example of how you would
+adapt verbal and non-verbal communication to meet patients' needs.
+- The importance of communication:
+Marks: 2 marks (minimum 1 mark)
+
+Question 2 — Maintaining patient motivation
+Evaluate two different methods of maintaining patients' motivation, especially
+when patients are finding exercises difficult.
+Table — Method | Strengths | Weaknesses (two rows)
+Marks: 6 marks (minimum 4 marks)
+
+Question 3 — Correcting technique
+Why is it important to correct patient technique?
+Marks: 1 mark (minimum 1 mark)
+
+Question 4 — Monitoring individual progress in groups
+Explain why it is important to monitor individual progress if more than one
+patient is involved in the session.
+Marks: 1 mark (minimum 1 mark)
+
+Question 5 — Methods of monitoring patient progress
+Describe two different methods of monitoring patient progress during
+exercise, including groups of patients.
+Marks: 2 marks (minimum 1 mark)
+
+Question 6 — Adapting planned exercises
+Give one example of when it may be necessary to adapt planned exercises to
+meet patients' needs.
+Marks: 1 mark (minimum 1 mark)
+
+Question 7 — Giving feedback during a session
+Explain why exercise referral instructors should give patients feedback on
+their performance during a session.
+Marks: 1 mark (minimum 1 mark)
+
+Question 8 — Questions and discussion
+Explain why patients should be given the opportunity to ask questions and
+discuss their performance.
+Marks: 1 mark (minimum 1 mark)
+
+Question 9 — Progress against goals
+Explain why patients need to see their progress against goals.
+Marks: 1 mark (minimum 1 mark)
+
+Question 10 — Future exercise information / exit routes
+Explain why patients need information about future exercise and physical
+activity, both supervised and unsupervised.
+Marks: 1 mark (minimum 1 mark)
+
+Result total: ____ / 17 marks
+(14 marks in total, with the minimum set marks achieved for each question
+required to pass)
+Pass / Refer: ____
+Assessor's feedback: ____
+
+--------------------------------------------------------------------------------
+UNIT 6 OBSERVATION (FORMATIVE OBSERVED SESSION)
+--------------------------------------------------------------------------------
+
+Assessment method: Formative observed session.
+
+Minimum observed timings:
+- Warm-up: 5 minutes minimum
+- Main section: 15 minutes minimum
+- Cool-down: 5 minutes minimum
+
+The learner must meet all required checklist components.
+
+Critical shaded box criteria (all must be met):
+- Correct technique and safe use of equipment and exercises
+- Safe and effective exercises appropriate to patient objectives and
+  condition
+- Monitoring and modifying intensity appropriately for the component and
+  patient
+
+Outcome rules:
+- One X in a shaded box → Refer the observation
+- High proportion of X marks overall → Refer the observation
+- Observation result is Competent or Not Competent (not a mark)
+
+--------------------------------------------------------------------------------
+UNIT 6 SESSION AND SELF-EVALUATION FORM
+--------------------------------------------------------------------------------
+
+The learner must review the outcomes of working with patients and any
+feedback gained from the patient. The evaluation must be completed in detail.
+Vague or generic answers (e.g. "the session went well") are not sufficient.
+
+Prompts:
+- How well did the exercises meet your patient's needs?
+- How effective and motivational was the relationship with your patient?
+- How well did your instructing style match the patient's needs?
+- How would you adapt the exercises to progress or regress according to your
+  patient needs?
+- Identify how you could improve your personal practice.
+- Explain the value of reflective practice.
+
+Pass / Refer: ____
+Assessor's feedback: ____
+
+
+================================================================================
+APPENDIX A — PRE-PRINTED INFORMED CONSENT FORM
+================================================================================
+THIS IS PRE-PRINTED AWARDING BODY CONTENT — NOT LEARNER WORK.
+================================================================================
 
 Unit 5 Planning exercise referral programmes with patients
 Unit accreditation number: D/503/7494
 Unit 4 Applying the principles of nutrition to a physical activity programme
 Unit accreditation number: L/600/9054
-================================================================================
 
-Exercise professionals who complete the Active IQ Level 3 Diploma in Exercise Referral are
-required to undertake a work-based case study with a patient who has participated in their
-sessions or for whom they have developed an exercise programme.
+Informed consent to act as case study
 
-Individuals who cooperate in case studies are asked to give their permission that the information
-provided to the instructor may be included in the case study. If you agree to become a subject
-for a case study, your name will not be used on the work submitted by the student.
+Exercise professionals who complete the Active IQ Level 3 Diploma in
+Exercise Referral are required to undertake a work-based case study with a
+patient who has participated in their sessions or for whom they have
+developed an exercise programme.
 
-Maintaining high standards of exercise instruction for people who begin a new programme of
-exercise or who are referred onto a local exercise referral scheme to improve their health, is
-extremely important. For this reason it will be greatly appreciated if you agree to act as a
-subject for this case study.
+Individuals who cooperate in case studies are asked to give their permission
+that the information provided to the instructor may be included in the case
+study. If you agree to become a subject for a case study, your name will not
+be used on the work submitted by the student.
 
-PATIENT CONSENT:
+Maintaining high standards of exercise instruction for people who begin a
+new programme of exercise or who are referred onto a local exercise referral
+scheme to improve their health, is extremely important. For this reason it
+will be greatly appreciated if you agree to act as a subject for this case
+study.
 
-I (name of patient) _________________________________ agree to my details being included in a
-written case study for the purposes of this Exercise Instructor Training Course.
+Patient consent:
+I (name of patient) ____________ agree to my details being included in a
+written case study for the purposes of this Exercise Instructor Training
+Course.
 
-Signature of Patient: ______________________________   Date: ________________
-
-Signature of Learner/Instructor: ___________________   Date: ________________
-
-
-================================================================================
-CASE STUDY - PART 1: COLLECTING INFORMATION
-================================================================================
-
-You should collect and record ALL the following information about your patient, using the
-headings/form provided. You should carry out an informal interview with your patient to obtain
-the required information.
-
-PATIENT INFORMATION
-
-Personal patient details
------------------------
-Age:
-Sex:
-Family status/children/dependants:
-Occupation:
-Hobbies:
-
-Medical history
----------------
-Established conditions (reasons for referral if applicable) and co-morbidities:
-
-Medication currently being taken:
-
-Known side effects and implications for exercise:
-
-BMI and implications:
-
-Physical activity history / Current activity level
----------------------------------------------------
-Previous participation / experiences:
-
-[Note: The workbook continues beyond page 29 with additional case study forms including:
-- Current lifestyle details
-- Personal, physical and nutritional goals
-- PAR-Q screening form
-- Session plan templates
-- Case study checklist (p.46)
-- Case study mark scheme (p.47)
-- Unit 6 Instructing exercise with referred patients worksheet (p.49)
-- Formative observed session checklist (p.52)
-- Assessor's feedback and questions (p.53)
-- Session and self-evaluation (p.54)
-
-These sections continue the pro forma documentation referenced in the case study guidance above.]
+Signature of Patient: ____________ Date: ____________
+Signature of Learner/Instructor: ____________ Date: ____________
 
 
 ================================================================================
-END OF WORKBOOK TRANSCRIPTION
-Active IQ Level 3 Diploma in Exercise Referral
-Learner Achievement Portfolio
-Copyright © 2025 Active IQ Ltd. Not for resale
+APPENDIX B — PRE-PRINTED PAR-Q FORM
 ================================================================================
+THIS IS PRE-PRINTED AWARDING BODY CONTENT — NOT LEARNER WORK.
+================================================================================
+
+Physical activity readiness questionnaire (PAR-Q) and you
+(a questionnaire for people aged 15 - 69)
+
+Regular physical activity is fun and healthy, and increasingly more people
+are starting to become more active every day. Being more active is very safe
+for most people. However, some people should check with their doctor before
+they start becoming much more physically active.
+
+If you are planning to become much more physically active than you are now,
+start by answering the seven questions in the box below. If you are between
+the ages of 15 and 69, the PAR-Q will tell you if you should check with your
+doctor before you start. If you are over 69 years of age, and you are not
+used to being very active, check with your doctor.
+
+Common sense is your best guide when you answer these questions. Please read
+the questions carefully and answer each one honestly: check YES or NO.
+
+1. Has your doctor ever said that you have a heart condition and that you
+   should only do physical activity recommended by a doctor? [YES / NO]
+2. Do you feel pain in your chest when you do physical activity? [YES / NO]
+3. In the past month, have you had chest pain when you were not doing
+   physical activity? [YES / NO]
+4. Do you lose your balance because of dizziness or do you ever lose
+   consciousness? [YES / NO]
+5. Do you have a bone or joint problem (for example, back, knee or hip)
+   that could be made worse by a change in your physical activity?
+   [YES / NO]
+6. Is your doctor currently prescribing drugs (for example, water pills) for
+   your blood pressure or heart conditions? [YES / NO]
+7. Do you know of any other reason why you should not do physical activity?
+   [YES / NO]
+
+If you answered YES to one or more questions:
+Talk with your doctor by phone or in person BEFORE you start becoming much
+more physically active or BEFORE you have a fitness appraisal. Tell your
+doctor about the PAR-Q and which questions you answered YES.
+You may be able to do any activity you want as long as you start slowly and
+build up gradually. Or, you may need to restrict your activities to those
+which are safe for you. Talk with your doctor about the kinds of activities
+you wish to participate in and follow his/her advice. Find out which
+community programmes are safe and helpful for you.
+
+If you answered NO to all questions:
+If you answered NO honestly to all PAR-Q questions, you can be reasonably
+sure that you can start becoming much more physically active, begin slowly
+and build up gradually. This is the safest and easiest way to go. Take part
+in a fitness appraisal — this is an excellent way to determine your basic
+fitness so that you can plan the best way for you to live actively. It is
+also highly recommended that you have your blood pressure evaluated. If your
+reading is over 144/94, talk with your doctor before you start becoming much
+more physically active.
+
+DELAY BECOMING MUCH MORE ACTIVE:
+If you are not feeling well because of a temporary illness such as a cold or
+a fever — wait until you feel better; or if you are or may be pregnant —
+talk to your doctor before you start becoming more active.
+
+PLEASE NOTE: If your health changes so that you then answer YES to any of
+the above questions, tell your fitness or health professional. Ask whether
+you should change your physical activity plan.
+
+NO CHANGES PERMITTED. YOU ARE ENCOURAGED TO PHOTOCOPY THE PAR-Q BUT ONLY IF
+YOU USE THE ENTIRE FORM.
+
+NOTE: If the PAR-Q is being given to a person before he or she participates
+in a physical activity programme or a fitness appraisal, this section may be
+used for legal or administrative purposes.
+"I have read, understood and completed this questionnaire. Any questions I
+had were answered to my full satisfaction."
+
+Name: ____________
+Signature: ____________ Date: ____________
+Signature of parent or guardian: ____________
+(for participants under the age of majority)
+Witness: ____________
+
+Note: This physical activity clearance is valid for a maximum of 12 months
+from the date it is completed and becomes invalid if your condition changes
+so that you would answer YES to any of the seven questions.
 
 
 ================================================================================
-PRE-PRINTED CASE STUDY BRIEF — UNIT 5 (HANDED OUT WITH THE ASSIGNMENT)
+APPENDIX C — PRE-PRINTED CASE STUDY CHECKLIST
+================================================================================
+THIS IS PRE-PRINTED AWARDING BODY CONTENT — NOT LEARNER WORK.
+================================================================================
+
+Table — Section | Criteria assessed | Included | Page
+
+Patient details and information:
+- Personal details
+- Medical history
+- Current lifestyle
+- Physical activity history
+- Goals of the patient
+
+Screening:
+- Referral form or explanation
+- Screening forms
+- Screening information
+- Condition specific exercise guidelines
+
+Programme objectives:
+- Programme objectives
+- Programme session plan
+- Session plan notes
+- Programme review and modification summary
+
+
+================================================================================
+APPENDIX D — PRE-PRINTED CASE STUDY LEARNER GUIDE — MARK O'BRIAN
+(HANDED OUT WITH THE ASSIGNMENT)
+================================================================================
 THIS IS NOT THE LEARNER'S WORK. IT IS INSTRUCTIONAL CONTENT ISSUED BY THE
 TRAINING PROVIDER. LEARNERS ROUTINELY PASTE THIS AT THE TOP OF THEIR DOCX
 SUBMISSION FOR REFERENCE. IGNORE ALL FACTS, NAMES, DEMOGRAPHICS, AND
@@ -1145,4 +937,11 @@ Final Reminders (pre-printed)
 
 ================================================================================
 END OF PRE-PRINTED CASE STUDY BRIEF
+================================================================================
+
+
+================================================================================
+END OF ACTIVE IQ L3 EXERCISE REFERRAL WORKBOOK TEMPLATES
+Qualification: Active IQ Level 3 Diploma in Exercise Referral (600/5105/X)
+Copyright © 2025 Active IQ Ltd. Not for resale
 ================================================================================
