@@ -1,6 +1,7 @@
 const Anthropic = require('@anthropic-ai/sdk');
 const fs = require('fs');
 const path = require('path');
+const { storeFeedback, lookupPreviousFeedback } = require('./history');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
@@ -136,13 +137,57 @@ Flag and refer if any of the following are present:
 
 ---
 
-## CRITICAL RULE: COMPLETE FEEDBACK IN ONE GO
+## CRITICAL RULE: COMPLETE FEEDBACK IN ONE GO (FIRST SUBMISSION ONLY)
 
-You must identify and raise ALL issues in this single feedback email. Do not hold back concerns, do not save points for a future submission, and do not limit yourself to only one or two development points.
+On a learner's FIRST submission, you must identify and raise ALL issues in this single feedback email. Do not hold back concerns, do not save points for a future submission, and do not limit yourself to only one or two development points.
 
 A learner should never have to resubmit because of something you failed to flag the first time. Piecemeal feedback that drip-feeds issues across multiple rounds of submission causes unnecessary distress and wastes everyone's time.
 
 If there are five things to fix, list all five. If there is nothing to fix, say so clearly. Be thorough.
+
+When you reach the closing line of a first-submission email that lists fixes, instruct the learner to put the word RESUBMISSION at the start of the email subject line when they send the updated work back. This is how the resubmission is identified at our end.
+
+---
+
+## CRITICAL RULE: RESUBMISSION MODE
+
+When the user message is explicitly marked as "RESUBMISSION MODE — ON", you switch to a strictly different behaviour. This rule overrides the "raise all issues" rule above.
+
+Resubmission mode means the learner has already received first-pass feedback and is sending the work back with corrections. Your job in resubmission mode is ONLY to check whether the points raised in the previous feedback have been addressed.
+
+Hard rules in resubmission mode:
+- DO NOT raise any new issues, no matter what you spot. If it was not flagged in the previous feedback, it stays unflagged.
+- DO NOT re-mark the work from scratch.
+- DO NOT add fresh development points, "while you are at it" suggestions, or polishing notes.
+- DO NOT comment on style, phrasing, presentation or anything cosmetic that was not in the previous feedback.
+
+The previous feedback will be supplied in the user message under "PREVIOUS FEEDBACK". Treat each issue raised there as a checklist item.
+
+For each item in the previous feedback, decide one of two outcomes:
+- ADDRESSED — the learner has changed the work in a way that resolves the previous concern.
+- OUTSTANDING — the learner has not changed the work, or the change does not resolve the previous concern.
+
+Then write the email:
+
+If EVERY previously-flagged item is ADDRESSED:
+- Confirm clearly that the resubmission meets the criteria.
+- Keep it short and warm.
+- No new points. No "but consider...". No further fixes.
+- End with a clean sign-off.
+
+If ANY item is OUTSTANDING:
+- List ONLY the outstanding items from the previous feedback.
+- Be specific about what is still missing or unchanged.
+- Do not introduce anything new.
+- Ask the learner to update those specific points and resubmit again with RESUBMISSION in the subject line.
+
+If the previous feedback is not available (missing context) but the email is marked as a resubmission:
+- Treat the work as a final-pass review.
+- Accept the work if it meets the criteria.
+- Only flag CLEAR and SERIOUS issues — unsafe practice, safeguarding, scope-of-practice violations, or outright missing required sections.
+- Do not flag style, phrasing or surface-level points.
+
+There is ONE exception that allows you to raise an item not listed in the previous feedback: a genuine safety or scope-of-practice issue (unsafe exercise selection for the patient's conditions, contraindications missing or wrong, medical advice outside scope, safeguarding concern). These must always be flagged because they would fail at IQA review regardless. If you flag a safety/scope item in resubmission mode, label it clearly as "Safety / scope concern" so the learner understands it is a hard requirement, not a new development point.
 
 ---
 
@@ -213,12 +258,12 @@ If the work meets all criteria:
 - Mention what stood out
 - Keep it short
 
-If there are things to fix:
+If there are things to fix (FIRST SUBMISSION):
 - Acknowledge the effort briefly (one sentence is enough)
 - List every point that needs addressing, clearly and specifically
 - Be direct about what needs to change and why
 - Do not pad with excessive positives around genuine issues
-- End with a clear instruction (e.g. "Once you have updated these points, resubmit and I will take another look")
+- End with a clear instruction telling the learner to update these points and resend the work with the word RESUBMISSION at the start of the subject line, e.g. "Once you have updated these points, send the work back with RESUBMISSION at the start of the subject line and I will check the changes."
 
 Do not soften genuine issues to the point where the learner does not realise they need to act on them.
 
@@ -840,8 +885,15 @@ function buildTypeGuidance(qual, units, submissionType) {
 
 /**
  * Sends extracted submission text to Claude and returns feedback string.
+ *
+ * options:
+ *   fromEmail      — learner email, used to look up + store feedback history
+ *   isResubmission — when true, switches the assessor into resubmission mode
+ *   filename       — submission filename, stored alongside the feedback
  */
-async function generateFeedback(submissionText, learnerName, assignmentHint) {
+async function generateFeedback(submissionText, learnerName, assignmentHint, options = {}) {
+  const { fromEmail, isResubmission, filename } = options;
+
   // Identify qualification, unit(s), and submission type
   const { qual, unit, units, submissionType } = await identifyQualAndUnit(submissionText, assignmentHint);
 
@@ -849,14 +901,14 @@ async function generateFeedback(submissionText, learnerName, assignmentHint) {
   let workbookLabel = null;
 
   if (qual) {
-    const filename = WORKBOOK_FILES[qual];
-    workbookContent = readWorkbook(filename);
+    const tmplFilename = WORKBOOK_FILES[qual];
+    workbookContent = readWorkbook(tmplFilename);
     const qualLabel = qual === 'ncfe' ? 'NCFE L3 Personal Training' : 'Active IQ L3 Exercise Referral';
     const unitPart = units && units.length > 1
       ? `Units ${units.join(', ')}`
       : (unit ? `Unit ${unit}` : null);
     workbookLabel = unitPart ? `${qualLabel} (${unitPart})` : qualLabel;
-    console.log(`[template] Loaded: ${filename} | Unit(s): ${unit || 'unknown'} | Type: ${submissionType || 'unknown'}`);
+    console.log(`[template] Loaded: ${tmplFilename} | Unit(s): ${unit || 'unknown'} | Type: ${submissionType || 'unknown'}`);
   } else {
     console.log(`[template] Could not identify qualification — proceeding without template. Type: ${submissionType || 'unknown'}`);
   }
@@ -877,7 +929,29 @@ async function generateFeedback(submissionText, learnerName, assignmentHint) {
     return `This submission may evidence multiple units (${units.join(', ')}). When using the workbook template, reference each of those unit sections as appropriate — do NOT force the submission into a single unit.`;
   })();
 
+  // ─── Resubmission lookup ─────────────────────────────────────────────────
+  let previousFeedback = null;
+  if (isResubmission && fromEmail) {
+    previousFeedback = await lookupPreviousFeedback({ email: fromEmail, qual, units });
+    if (previousFeedback) {
+      console.log(`[history] Found prior feedback from ${previousFeedback.storedAt} for ${fromEmail}`);
+    } else {
+      console.log(`[history] No prior feedback on file for ${fromEmail} — resubmission will run final-pass review.`);
+    }
+  }
+
+  const resubmissionHeader = isResubmission
+    ? [
+        '*** RESUBMISSION MODE — ON ***',
+        'This email was marked as a resubmission. Apply the RESUBMISSION MODE rules from the system prompt: review only against the previous feedback, do not raise new issues, accept the work if every previously-flagged point has been addressed.',
+        previousFeedback
+          ? `\n--- PREVIOUS FEEDBACK (this is the feedback the learner received last time — assess whether each point has been addressed) ---\n${previousFeedback.feedbackText}\n--- END OF PREVIOUS FEEDBACK ---`
+          : '\nNo previous feedback is on file for this learner. Run a final-pass review per the RESUBMISSION MODE fallback rules in the system prompt.',
+      ].join('\n')
+    : null;
+
   const parts = [
+    resubmissionHeader,
     assignmentHint ? `Assignment: ${assignmentHint}` : null,
     learnerName ? `Learner: ${learnerName}` : null,
     workbookLabel ? `Qualification: ${workbookLabel}` : null,
@@ -900,7 +974,28 @@ async function generateFeedback(submissionText, learnerName, assignmentHint) {
     messages: [{ role: 'user', content: parts }],
   });
 
-  return message.content[0].text;
+  const feedbackText = message.content[0].text;
+
+  // Store this feedback so a future resubmission can be assessed against it.
+  // Skip storing on resubmissions — keep the original first-pass feedback as
+  // the source of truth, since that is what the learner is being measured
+  // against on the next round.
+  if (!isResubmission && fromEmail) {
+    try {
+      await storeFeedback({
+        email: fromEmail,
+        qual,
+        units,
+        submissionType,
+        filename,
+        feedbackText,
+      });
+    } catch (err) {
+      console.error('[history] Failed to store feedback:', err.message);
+    }
+  }
+
+  return feedbackText;
 }
 
 module.exports = { generateFeedback };

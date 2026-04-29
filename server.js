@@ -44,8 +44,18 @@ app.post('/inbound', async (req, res) => {
     return;
   }
 
+  // Detect resubmission flag in the subject line BEFORE stripping prefixes
+  const isResubmission = /\b(?:re-?submission|resubmit(?:ted|ting)?)\b/i.test(subject);
+
   // Try to extract an assignment name from the subject line
-  const assignmentHint = subject.replace(/^(re:|fwd?:|submission:?)/i, '').trim();
+  const assignmentHint = subject
+    .replace(/^(re:|fwd?:|submission:?)/i, '')
+    .replace(/\b(?:re-?submission|resubmit(?:ted|ting)?)\b[:\s-]*/i, '')
+    .trim();
+
+  if (isResubmission) {
+    console.log(`[inbound] Resubmission detected for ${fromEmail}`);
+  }
 
   // Process each attachment independently
   for (const attachment of attachments) {
@@ -69,7 +79,11 @@ app.post('/inbound', async (req, res) => {
       console.log(`[parser] Extracted ${text.length} chars from ${filename}`);
 
       // Generate feedback
-      const feedbackText = await generateFeedback(text, fromName, assignmentHint);
+      const feedbackText = await generateFeedback(text, fromName, assignmentHint, {
+        fromEmail,
+        isResubmission,
+        filename,
+      });
       console.log(`[feedback] Generated feedback for ${fromEmail}`);
 
       // Schedule reply within working hours (Mon–Fri 9am–5pm, 1–2hr lag)
@@ -122,13 +136,26 @@ app.post('/inbound-make', upload.single('attachment'), async (req, res) => {
     return;
   }
 
-  const assignmentHint = subject.replace(/^(re:|fwd?:|submission:?)/i, '').trim();
+  const isResubmission = /\b(?:re-?submission|resubmit(?:ted|ting)?)\b/i.test(subject);
+
+  const assignmentHint = subject
+    .replace(/^(re:|fwd?:|submission:?)/i, '')
+    .replace(/\b(?:re-?submission|resubmit(?:ted|ting)?)\b[:\s-]*/i, '')
+    .trim();
+
+  if (isResubmission) {
+    console.log(`[inbound-make] Resubmission detected for ${fromEmail}`);
+  }
 
   try {
     const { text } = await extractText(file.buffer, filename);
     console.log(`[parser] Extracted ${text.length} chars from ${filename}`);
 
-    const feedbackText = await generateFeedback(text, fromName, assignmentHint);
+    const feedbackText = await generateFeedback(text, fromName, assignmentHint, {
+      fromEmail,
+      isResubmission,
+      filename,
+    });
     console.log(`[feedback] Generated feedback for ${fromEmail}`);
 
     await scheduleSend({
