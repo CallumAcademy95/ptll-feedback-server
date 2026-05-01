@@ -3,6 +3,7 @@ const pdfParse = require('pdf-parse');
 const JSZip = require('jszip');
 const {
   PDFDocument,
+  PDFName,
   PDFTextField,
   PDFCheckBox,
   PDFDropdown,
@@ -60,7 +61,7 @@ async function extractDocxText(buffer) {
   try {
     const zip = await JSZip.loadAsync(buffer);
     const xmlPaths = Object.keys(zip.files).filter(p =>
-      /^word\/(document\d*|header\d*|footer\d*|footnotes|endnotes)\.xml$/i.test(p)
+      /^word\/(document\d*|header\d*|footer\d*|footnotes|endnotes|comments)\.xml$/i.test(p)
     );
 
     const extraChunks = [];
@@ -108,31 +109,64 @@ async function extractPdfText(buffer) {
     const pageText = (result && result.text ? result.text : '').trim();
     if (pageText) parts.push(pageText);
   } catch (_) {
-    // fall through to form-field extraction
+    // fall through
   }
 
-  // 2. AcroForm field values — answers typed into fillable PDF boxes are stored
-  // here, NOT in the page content stream, so pdf-parse never sees them.
+  // 2 & 3. AcroForm field values + FreeText annotations. Both live outside the
+  // page content stream and are invisible to pdf-parse:
+  //   - AcroForm fields hold answers typed into fillable PDF boxes.
+  //   - FreeText annotations hold text added on top of pages with PDF editors
+  //     (PDFescape, Smallpdf, Foxit, Acrobat). This is how learners commonly
+  //     fill in non-fillable workbook templates.
   try {
     const pdfDoc = await PDFDocument.load(buffer, { ignoreEncryption: true });
+
     const form = pdfDoc.getForm();
     const fields = form.getFields();
-
     const fieldLines = [];
     for (const f of fields) {
       const name = safeFieldName(f);
       const value = readFieldValue(f);
       if (value) fieldLines.push(name ? `${name}: ${value}` : value);
     }
-
     if (fieldLines.length) {
       parts.push('--- form fields ---\n' + fieldLines.join('\n'));
+    }
+
+    const annotLines = extractFreeTextAnnotations(pdfDoc);
+    if (annotLines.length) {
+      parts.push('--- typed annotations ---\n' + annotLines.join('\n'));
     }
   } catch (_) {
     // No form, encrypted, or unsupported — ignore.
   }
 
   return parts.join('\n\n').trim();
+}
+
+function extractFreeTextAnnotations(pdfDoc) {
+  const lines = [];
+  const pages = pdfDoc.getPages();
+  for (let i = 0; i < pages.length; i++) {
+    const page = pages[i];
+    const annotsArr = page.node.Annots && page.node.Annots();
+    if (!annotsArr || !annotsArr.asArray) continue;
+    for (const ref of annotsArr.asArray()) {
+      try {
+        const annot = pdfDoc.context.lookup(ref);
+        if (!annot || !annot.get) continue;
+        const subtype = annot.get(PDFName.of('Subtype'));
+        if (!subtype || subtype.toString() !== '/FreeText') continue;
+        const contents = annot.get(PDFName.of('Contents'));
+        if (!contents) continue;
+        const txt = (contents.decodeText ? contents.decodeText() : contents.toString()).trim();
+        if (txt) lines.push(`[p${i + 1}] ${txt}`);
+      } catch (_) {
+        // skip individual broken annot
+      }
+    }
+  }
+  return lines;
 }
 
 function safeFieldName(field) {
