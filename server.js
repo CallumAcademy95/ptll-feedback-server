@@ -3,7 +3,14 @@ const express = require('express');
 const multer  = require('multer');
 const cron = require('node-cron');
 const { extractText } = require('./parser');
-const { generateFeedback } = require('./feedback');
+const {
+  generateFeedback,
+  generateReinforcement,
+  identifyQualAndUnit,
+} = require('./feedback');
+const { gradeOutcome } = require('./grader');
+const { uploadPassedSubmission } = require('./drive');
+const { storeFeedback, findResubmissionMatch } = require('./history');
 const { sendErrorNotice } = require('./mailer');
 const { scheduleSend, processDue } = require('./scheduler');
 
@@ -14,6 +21,147 @@ const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 25 
 
 // ─── Health check ───────────────────────────────────────────────────────────
 app.get('/', (req, res) => res.send('PT Launch Lab feedback server running.'));
+
+// ─── Core processing pipeline ───────────────────────────────────────────────
+// Single source of truth used by both inbound endpoints. Takes the file
+// buffer + email metadata, runs the full identify → route → mark → grade →
+// archive → queue flow.
+async function processSubmission({ buffer, filename, fromEmail, fromName, subject }) {
+  // Subject-line override still respected — but no longer required.
+  const subjectFlagsResubmission = /\b(?:re-?submission|resubmit(?:ted|ting)?)\b/i.test(subject || '');
+
+  const assignmentHint = (subject || '')
+    .replace(/^(re:|fwd?:|submission:?)/i, '')
+    .replace(/\b(?:re-?submission|resubmit(?:ted|ting)?)\b[:\s-]*/i, '')
+    .trim();
+
+  // Extract text first — feeds both classification and feedback.
+  const { text } = await extractText(buffer, filename);
+  console.log(`[parser] Extracted ${text.length} chars from ${filename}`);
+
+  // Identify qualification + unit + submission type up front so we can route
+  // before we burn the larger Sonnet call on the wrong mode.
+  const { qual, units, submissionType } = await identifyQualAndUnit(text, assignmentHint);
+  console.log(`[identify] qual=${qual || 'unknown'} units=${(units || []).join(',') || 'unknown'} type=${submissionType || 'unknown'}`);
+
+  // Look up history. If the same learner has previously submitted the same
+  // qual + at least one overlapping unit, route by the prior outcome.
+  const priorMatch = await findResubmissionMatch({ email: fromEmail, qual, units });
+
+  // Decide mode:
+  //   reinforcement → already passed previously, no re-archive, short note
+  //   resubmission  → previously REFER (or subject says so), check against prior points
+  //   first         → no relevant history
+  let mode = 'first';
+  if (priorMatch?.outcome === 'PASS') {
+    mode = 'reinforcement';
+  } else if (priorMatch?.outcome === 'REFER' || subjectFlagsResubmission) {
+    mode = 'resubmission';
+  }
+  console.log(`[route] mode=${mode}${priorMatch ? ` (prior outcome=${priorMatch.outcome || 'unknown'} from ${priorMatch.storedAt})` : ''}`);
+
+  // ── Mode: reinforcement ──────────────────────────────────────────────────
+  if (mode === 'reinforcement') {
+    const feedbackText = await generateReinforcement(fromName, qual, units, priorMatch);
+    console.log(`[reinforcement] Generated reinforcement reply for ${fromEmail}`);
+
+    // Update history so we know they re-sent, but keep outcome PASS and the
+    // existing driveArchived flag (don't re-upload).
+    await storeFeedback({
+      email: fromEmail,
+      qual,
+      units,
+      submissionType,
+      filename,
+      feedbackText,
+      outcome: 'PASS',
+      driveArchived: priorMatch.driveArchived === true,
+    });
+
+    await scheduleSend({
+      kind: 'reinforcement',
+      toEmail: fromEmail,
+      toName: fromName,
+      submissionFilename: filename,
+      feedbackText,
+    });
+    return;
+  }
+
+  // ── Mode: first or resubmission ──────────────────────────────────────────
+  const isResubmission = mode === 'resubmission';
+
+  const { feedbackText } = await generateFeedback(text, fromName, assignmentHint, {
+    fromEmail,
+    isResubmission,
+    filename,
+    qual,
+    units,
+    submissionType,
+  });
+  console.log(`[feedback] Generated ${isResubmission ? 'resubmission' : 'first-pass'} feedback for ${fromEmail}`);
+
+  // Grade — does the assessor's email read as PASS or REFER?
+  let outcome = 'REFER';
+  try {
+    ({ outcome } = await gradeOutcome(feedbackText));
+  } catch (err) {
+    console.error('[grader] Failed — defaulting to REFER:', err.message);
+  }
+
+  let driveArchived = false;
+
+  if (outcome === 'PASS') {
+    // Archive the file to Drive before notifying the learner. If the upload
+    // fails we still send the pass email — the work has met the criteria;
+    // we'd rather flag the upload failure to ourselves than block the reply.
+    try {
+      const result = await uploadPassedSubmission({
+        buffer,
+        filename,
+        learnerName: fromName,
+        learnerEmail: fromEmail,
+        qual,
+        units,
+        submissionType,
+        isResubmission,
+      });
+      driveArchived = !!result.uploaded;
+    } catch (err) {
+      console.error('[drive] Upload threw — continuing with pass email:', err.message);
+    }
+
+    await scheduleSend({
+      kind: 'pass-confirmation',
+      toEmail: fromEmail,
+      toName: fromName,
+      submissionFilename: filename,
+      feedbackText,
+    });
+  } else {
+    // REFER — standard feedback email path. Drive archive does NOT happen.
+    await scheduleSend({
+      kind: 'feedback',
+      toEmail: fromEmail,
+      toName: fromName,
+      submissionFilename: filename,
+      feedbackText,
+    });
+  }
+
+  // Store the feedback + outcome so the next submission of this unit routes
+  // correctly. PASS entries gate future submissions into reinforcement mode.
+  await storeFeedback({
+    email: fromEmail,
+    qual,
+    units,
+    submissionType,
+    filename,
+    feedbackText,
+    outcome,
+    driveArchived,
+  });
+}
 
 // ─── Postmark inbound webhook ────────────────────────────────────────────────
 // Postmark POSTs a JSON object for each inbound email.
@@ -38,23 +186,9 @@ app.post('/inbound', async (req, res) => {
     return;
   }
 
-  // Guard: no attachments
   if (attachments.length === 0) {
     console.log('[inbound] No attachments — skipping.');
     return;
-  }
-
-  // Detect resubmission flag in the subject line BEFORE stripping prefixes
-  const isResubmission = /\b(?:re-?submission|resubmit(?:ted|ting)?)\b/i.test(subject);
-
-  // Try to extract an assignment name from the subject line
-  const assignmentHint = subject
-    .replace(/^(re:|fwd?:|submission:?)/i, '')
-    .replace(/\b(?:re-?submission|resubmit(?:ted|ting)?)\b[:\s-]*/i, '')
-    .trim();
-
-  if (isResubmission) {
-    console.log(`[inbound] Resubmission detected for ${fromEmail}`);
   }
 
   // Process each attachment independently
@@ -71,29 +205,8 @@ app.post('/inbound', async (req, res) => {
     }
 
     try {
-      // Decode base64 attachment
       const buffer = Buffer.from(attachment.Content, 'base64');
-
-      // Extract text
-      const { text } = await extractText(buffer, filename);
-      console.log(`[parser] Extracted ${text.length} chars from ${filename}`);
-
-      // Generate feedback
-      const feedbackText = await generateFeedback(text, fromName, assignmentHint, {
-        fromEmail,
-        isResubmission,
-        filename,
-      });
-      console.log(`[feedback] Generated feedback for ${fromEmail}`);
-
-      // Schedule reply within working hours (Mon–Fri 9am–5pm, 1–2hr lag)
-      await scheduleSend({
-        toEmail: fromEmail,
-        toName: fromName,
-        submissionFilename: filename,
-        feedbackText,
-      });
-
+      await processSubmission({ buffer, filename, fromEmail, fromName, subject });
     } catch (err) {
       console.error(`[error] Failed processing ${filename}:`, err.message);
 
@@ -136,35 +249,14 @@ app.post('/inbound-make', upload.single('attachment'), async (req, res) => {
     return;
   }
 
-  const isResubmission = /\b(?:re-?submission|resubmit(?:ted|ting)?)\b/i.test(subject);
-
-  const assignmentHint = subject
-    .replace(/^(re:|fwd?:|submission:?)/i, '')
-    .replace(/\b(?:re-?submission|resubmit(?:ted|ting)?)\b[:\s-]*/i, '')
-    .trim();
-
-  if (isResubmission) {
-    console.log(`[inbound-make] Resubmission detected for ${fromEmail}`);
-  }
-
   try {
-    const { text } = await extractText(file.buffer, filename);
-    console.log(`[parser] Extracted ${text.length} chars from ${filename}`);
-
-    const feedbackText = await generateFeedback(text, fromName, assignmentHint, {
-      fromEmail,
-      isResubmission,
+    await processSubmission({
+      buffer: file.buffer,
       filename,
+      fromEmail,
+      fromName,
+      subject,
     });
-    console.log(`[feedback] Generated feedback for ${fromEmail}`);
-
-    await scheduleSend({
-      toEmail: fromEmail,
-      toName: fromName,
-      submissionFilename: filename,
-      feedbackText,
-    });
-
   } catch (err) {
     console.error(`[error] Failed processing ${filename}:`, err.message);
 
@@ -185,6 +277,7 @@ app.get('/queue', async (req, res) => {
 
   const formatted = pending.map(item => ({
     id: item.id,
+    kind: item.kind || 'feedback',
     to: item.toEmail,
     file: item.submissionFilename,
     scheduledFor: DateTime.fromISO(item.sendAt).setZone('Europe/London').toFormat('EEE dd MMM yyyy HH:mm') + ' UK',

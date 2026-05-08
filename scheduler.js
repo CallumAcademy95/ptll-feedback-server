@@ -1,6 +1,15 @@
 const { Redis } = require('@upstash/redis');
 const { DateTime } = require('luxon');
-const { sendFeedback } = require('./mailer');
+const { sendFeedback, sendPassConfirmation, sendReinforcement } = require('./mailer');
+
+// Maps queued item.kind to the mailer that should send it. Default kind is
+// 'feedback' for backward compatibility with anything queued before the
+// PASS/REFER routing was added.
+const MAILERS = {
+  feedback: sendFeedback,
+  'pass-confirmation': sendPassConfirmation,
+  reinforcement: sendReinforcement,
+};
 
 const redis = new Redis({
   url: process.env.UPSTASH_REDIS_REST_URL,
@@ -64,18 +73,24 @@ function calculateSendTime() {
 // ─── Public API ──────────────────────────────────────────────────────────────
 
 /**
- * Schedules a feedback email to be sent at the next valid working-hours slot.
+ * Schedules an email to be sent at the next valid working-hours slot.
+ *
+ * payload.kind selects the mailer:
+ *   - 'feedback'          → sendFeedback (REFER outcomes, default)
+ *   - 'pass-confirmation' → sendPassConfirmation (new PASS, archived to Drive)
+ *   - 'reinforcement'     → sendReinforcement (already-passed unit re-sent)
  */
 async function scheduleSend(payload) {
+  const kind = payload.kind || 'feedback';
   const sendAt = calculateSendTime();
-  const item = { ...payload, sendAt: sendAt.toISOString(), id: Date.now().toString() };
+  const item = { ...payload, kind, sendAt: sendAt.toISOString(), id: Date.now().toString() };
 
   const pending = await loadPending();
   pending.push(item);
   await savePending(pending);
 
   const ukTime = DateTime.fromJSDate(sendAt).setZone('Europe/London').toFormat('EEE dd MMM HH:mm');
-  console.log(`[scheduler] Queued feedback for ${payload.toEmail} — scheduled for ${ukTime} UK`);
+  console.log(`[scheduler] Queued ${kind} for ${payload.toEmail} — scheduled for ${ukTime} UK`);
 }
 
 /**
@@ -88,9 +103,10 @@ async function processDue() {
   const remaining = pending.filter(item => new Date(item.sendAt) > now);
 
   for (const item of due) {
+    const mailer = MAILERS[item.kind] || sendFeedback;
     try {
-      await sendFeedback(item);
-      console.log(`[scheduler] Sent delayed feedback to ${item.toEmail}`);
+      await mailer(item);
+      console.log(`[scheduler] Sent delayed ${item.kind || 'feedback'} to ${item.toEmail}`);
     } catch (err) {
       console.error(`[scheduler] Failed to send to ${item.toEmail}:`, err.message);
       // Put it back with a 15-min retry delay rather than losing it

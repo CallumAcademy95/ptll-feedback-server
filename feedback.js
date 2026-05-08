@@ -1,7 +1,7 @@
 const Anthropic = require('@anthropic-ai/sdk');
 const fs = require('fs');
 const path = require('path');
-const { storeFeedback, lookupPreviousFeedback } = require('./history');
+const { lookupPreviousFeedback } = require('./history');
 
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
@@ -987,10 +987,27 @@ function buildTypeGuidance(qual, units, submissionType) {
  *   filename       — submission filename, stored alongside the feedback
  */
 async function generateFeedback(submissionText, learnerName, assignmentHint, options = {}) {
-  const { fromEmail, isResubmission, filename } = options;
+  const {
+    fromEmail,
+    isResubmission,
+    filename,
+    qual: qualIn,
+    units: unitsIn,
+    submissionType: submissionTypeIn,
+  } = options;
 
-  // Identify qualification, unit(s), and submission type
-  const { qual, unit, units, submissionType } = await identifyQualAndUnit(submissionText, assignmentHint);
+  // Identify qualification, unit(s), and submission type — unless the caller
+  // already did the identification (server.js does it upstream so it can
+  // route resubmissions before we generate feedback).
+  let qual, unit, units, submissionType;
+  if (qualIn !== undefined) {
+    qual = qualIn;
+    units = unitsIn || null;
+    unit = units && units.length ? units.join(',') : null;
+    submissionType = submissionTypeIn || null;
+  } else {
+    ({ qual, unit, units, submissionType } = await identifyQualAndUnit(submissionText, assignmentHint));
+  }
 
   let workbookContent = null;
   let workbookLabel = null;
@@ -1071,26 +1088,79 @@ async function generateFeedback(submissionText, learnerName, assignmentHint, opt
 
   const feedbackText = message.content[0].text;
 
-  // Store this feedback so a future resubmission can be assessed against it.
-  // Skip storing on resubmissions — keep the original first-pass feedback as
-  // the source of truth, since that is what the learner is being measured
-  // against on the next round.
-  if (!isResubmission && fromEmail) {
-    try {
-      await storeFeedback({
-        email: fromEmail,
-        qual,
-        units,
-        submissionType,
-        filename,
-        feedbackText,
-      });
-    } catch (err) {
-      console.error('[history] Failed to store feedback:', err.message);
-    }
-  }
+  // Note: storage is now performed by the caller (server.js) AFTER the grader
+  // has run, so the stored entry can include the PASS/REFER outcome. That
+  // outcome is what drives whether the next submission of the same unit is
+  // routed as a resubmission or a reinforcement.
 
-  return feedbackText;
+  return {
+    feedbackText,
+    qual,
+    units,
+    submissionType,
+    priorFeedback: previousFeedback,
+  };
 }
 
-module.exports = { generateFeedback };
+// ─── Reinforcement mode ─────────────────────────────────────────────────────
+// Used when a learner sends in a unit they have ALREADY passed. We don't
+// re-archive (already on file from the original pass) and we don't re-mark
+// from scratch. We send a short warm note confirming the work still meets
+// the criteria and nudging them to pass it to their tutor.
+
+const REINFORCEMENT_SYSTEM_PROMPT = `You are an experienced UK fitness assessor (NCFE / Active IQ Level 2 and 3). The learner has previously submitted this same unit and it already met the criteria — they have sent it in again.
+
+Your job is to write a SHORT, warm confirmation email (3–5 sentences) that:
+- Confirms the work still meets the criteria.
+- Notes briefly that this unit is already on file from their previous submission, so there is no need to send it again.
+- Tells them to pass the latest version to their tutor when they are ready.
+- Keeps the tone professional and relaxed, UK English, no academic / robotic phrasing.
+
+Do NOT:
+- Re-mark the work from scratch.
+- Raise new development points or "while you are at it" suggestions.
+- Comment on style, phrasing or anything cosmetic.
+- Mention AI or plagiarism.
+- Tell them to put RESUBMISSION in the subject line.
+- Use hyphens or dashes anywhere in the email.
+
+Format the email exactly as it should be sent. Start with "Hi [Learner Name]," and end with a clean sign-off (no signature line — that is added downstream).`;
+
+/**
+ * Generates the short reinforcement reply for a unit the learner has already
+ * passed. Keeps it deliberately light — the system prompt forbids re-marking.
+ */
+async function generateReinforcement(learnerName, qual, units, priorFeedback) {
+  const qualLabel = qual === 'ncfe'
+    ? 'NCFE L3 Personal Training'
+    : qual === 'exref'
+      ? 'Active IQ L3 Exercise Referral'
+      : null;
+  const unitLabel = units && units.length
+    ? `Unit ${units.join(', ')}`
+    : 'this unit';
+
+  const userMessage = [
+    `Learner: ${learnerName || 'there'}`,
+    qualLabel ? `Qualification: ${qualLabel}` : null,
+    `Unit already on file: ${unitLabel}`,
+    priorFeedback?.storedAt
+      ? `Original pass date on file: ${priorFeedback.storedAt}`
+      : null,
+    '',
+    'Write the short reinforcement email now.',
+  ]
+    .filter(Boolean)
+    .join('\n');
+
+  const message = await client.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 400,
+    system: REINFORCEMENT_SYSTEM_PROMPT,
+    messages: [{ role: 'user', content: userMessage }],
+  });
+
+  return message.content[0].text;
+}
+
+module.exports = { generateFeedback, generateReinforcement, identifyQualAndUnit };
