@@ -15,9 +15,17 @@ const { sendErrorNotice } = require('./mailer');
 const { scheduleSend, processDue } = require('./scheduler');
 
 const app = express();
-app.use(express.json({ limit: '25mb' }));
 
-const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 25 * 1024 * 1024 } });
+// Real learner workbooks (multi-page annotated PDFs) routinely run 25–40 MB,
+// which tripped the old 25 MB cap and made multer throw a raw 500 before the
+// handler could ACK — Make read that as a connection error and eventually
+// auto-deactivated the scenario. 50 MB covers observed submissions with
+// headroom while staying within Render's 512 MB instance memory.
+const MAX_UPLOAD_BYTES = 50 * 1024 * 1024;
+
+app.use(express.json({ limit: '50mb' }));
+
+const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: MAX_UPLOAD_BYTES } });
 
 // ─── Health check ───────────────────────────────────────────────────────────
 app.get('/', (req, res) => res.send('PT Launch Lab feedback server running.'));
@@ -284,6 +292,35 @@ app.get('/queue', async (req, res) => {
   }));
 
   res.json({ count: formatted.length, queue: formatted });
+});
+
+// ─── Error handler ───────────────────────────────────────────────────────────
+// Catches failures in the middleware chain (notably multer rejecting an
+// over-limit file). Without this, Express returns a raw 500 HTML page, which
+// Make.com reads as a ConnectionError and — after repeated failures — silently
+// deactivates the whole scenario. We ACK with 200 so Make advances its mail
+// marker instead of retry-looping, log loudly, and tell the learner why.
+app.use((err, req, res, next) => {
+  const tooLarge = err && (err.code === 'LIMIT_FILE_SIZE' || err.type === 'entity.too.large');
+  console.error(`[error] Request rejected by middleware: ${err.code || err.type || ''} ${err.message}`);
+
+  if (!res.headersSent) res.sendStatus(200);
+
+  if (tooLarge) {
+    const fromEmail = (req.body?.fromEmail || '').trim();
+    const fromName  = (req.body?.fromName  || '').trim();
+    const filename  = req.file?.originalname || req.body?.subject || 'your submission';
+    console.error(`[error] Oversized upload from ${fromEmail || 'unknown'} — over ${MAX_UPLOAD_BYTES / (1024 * 1024)} MB cap.`);
+
+    if (fromEmail) {
+      sendErrorNotice({
+        toEmail: fromEmail,
+        toName: fromName,
+        submissionFilename: filename,
+        reason: `The file is larger than the ${MAX_UPLOAD_BYTES / (1024 * 1024)} MB limit we can process by email. Please reduce the PDF size (e.g. "Save As → Reduced Size PDF", or compress it) and resend, or split it into two smaller files.`,
+      }).catch(e => console.error('[mailer] Oversize notice failed:', e.message));
+    }
+  }
 });
 
 // ─── Cron: check for due sends every minute ──────────────────────────────────
