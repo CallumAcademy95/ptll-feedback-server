@@ -232,6 +232,8 @@ app.post('/inbound', async (req, res) => {
 // Accepts multipart/form-data from a Make.com "Watch Emails" + HTTP scenario.
 // Expected fields: fromEmail, fromName, subject
 // Expected file field: attachment (one file per request — use an iterator in Make for multiple)
+const SIGNATURE_NOISE = new Set(['png', 'jpg', 'jpeg', 'gif', 'bmp', 'webp', 'svg', 'ics', 'vcf']);
+
 app.post('/inbound-make', upload.single('attachment'), async (req, res) => {
   res.sendStatus(200);
 
@@ -248,12 +250,14 @@ app.post('/inbound-make', upload.single('attachment'), async (req, res) => {
   }
 
   const filename = file.originalname || 'submission';
-  const isSupported =
-    filename.toLowerCase().endsWith('.docx') ||
-    filename.toLowerCase().endsWith('.pdf');
+  const ext = filename.split('.').pop().toLowerCase();
 
-  if (!isSupported) {
-    console.log(`[inbound-make] Unsupported file type: ${filename} — skipping.`);
+  // Images and calendar invites are almost always email-signature noise, not
+  // work. Drop those quietly. Anything else the parser cannot read is a real
+  // attempt at a submission, so the learner must be TOLD — a silent skip here
+  // left a .doc submission unanswered for days (2026-09-05).
+  if (SIGNATURE_NOISE.has(ext)) {
+    console.log(`[inbound-make] Ignoring signature-style attachment: ${filename}`);
     return;
   }
 

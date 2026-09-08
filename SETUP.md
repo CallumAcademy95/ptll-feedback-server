@@ -97,7 +97,8 @@ marking criteria, or tone preferences.
 |--------|---------|
 | .docx  | Full text extraction |
 | .pdf   | Text-based PDFs only (not scanned images) |
-| .doc   | Not supported — ask learners to save as .docx |
+| .doc   | Legacy Word — body, text boxes, headers and footnotes via word-extractor (added 2026-09-08) |
+| other  | Learner receives a "Problem with your submission" email asking for .docx or .pdf. Images/.ics/.vcf are dropped quietly as signature noise |
 
 ---
 

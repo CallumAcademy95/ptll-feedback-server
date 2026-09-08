@@ -1,4 +1,5 @@
 const mammoth = require('mammoth');
+const WordExtractor = require('word-extractor');
 const pdfParse = require('pdf-parse');
 const JSZip = require('jszip');
 const {
@@ -12,7 +13,7 @@ const {
 } = require('pdf-lib');
 
 /**
- * Extracts plain text from a docx or pdf buffer.
+ * Extracts plain text from a docx, doc or pdf buffer.
  * Returns { text, type } or throws if unsupported/unreadable.
  *
  * DOCX: combines mammoth's body extraction with a zip walk over headers,
@@ -31,6 +32,12 @@ async function extractText(buffer, filename) {
     return { text, type: 'docx' };
   }
 
+  if (ext === 'doc') {
+    const text = await extractLegacyDocText(buffer);
+    if (!text) throw new Error('DOC appears to be empty or unreadable. Please resubmit as .docx or .pdf');
+    return { text, type: 'doc' };
+  }
+
   if (ext === 'pdf') {
     const text = await extractPdfText(buffer);
     if (!text) throw new Error(
@@ -40,6 +47,21 @@ async function extractText(buffer, filename) {
   }
 
   throw new Error(`Unsupported file type: .${ext}. Please submit as .docx or .pdf`);
+}
+
+/**
+ * Legacy binary Word (.doc). Learners on older Office builds and some phone
+ * apps still send these. word-extractor reads the OLE container directly, so
+ * no LibreOffice/Word install is needed on the server. Body first, then any
+ * text typed into text boxes, headers and footnotes — same reasoning as the
+ * DOCX zip walk: workbook answers often live outside the main story.
+ */
+async function extractLegacyDocText(buffer) {
+  const doc = await new WordExtractor().extract(buffer);
+  const parts = [doc.getBody(), doc.getTextboxes(), doc.getHeaders(), doc.getFootnotes()]
+    .map(p => (p || '').trim())
+    .filter(Boolean);
+  return parts.join('\n\n').trim();
 }
 
 async function extractDocxText(buffer) {
