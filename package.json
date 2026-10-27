@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Automated learner feedback system - reads email submissions (docx/doc/pdf) and replies with AI feedback",
   "main": "server.js",
+  "engines": {
+    "node": "^24.22.1"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js",
